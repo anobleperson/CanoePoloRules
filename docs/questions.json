@@ -1,0 +1,2194 @@
+[
+  {
+    "id": "ch7-r71-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.1",
+    "question": "What is the minimum composition of the Competition Committee?",
+    "options": [
+      "Chief Official, Competition Organiser, and one additional appointed official",
+      "Chief Official, Referee Manager, and Competition Organiser",
+      "Chief Official, Technical Organiser, and Chief Scrutineer",
+      "Two Referees and the Chief Official"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 7.1 states the Competition Committee must consist of the Chief Official (as chairperson), the Competition Organiser, and one additional person who is appointed as an official.",
+    "image": null
+  },
+  {
+    "id": "ch7-r71-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.1",
+    "question": "Who chairs the Competition Committee?",
+    "options": [
+      "The Referee Manager",
+      "The Technical Organiser",
+      "The Chief Official",
+      "The Chief Scrutineer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.1 designates the Chief Official as the chairperson of the Competition Committee.",
+    "image": null
+  },
+  {
+    "id": "ch7-r72-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.2",
+    "question": "Which body hears protests and settles disputes at a competition?",
+    "options": [
+      "The Referee Manager",
+      "The Competition Committee",
+      "The Chief Scrutineer",
+      "The first Referee"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.2.4 states the Competition Committee hears any protests that may be made and settles any disputes that arise.",
+    "image": null
+  },
+  {
+    "id": "ch7-r72-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.2",
+    "question": "Who is responsible for approving the panel of Referees and Goal Line Judges at a competition?",
+    "options": [
+      "The Referee Manager alone",
+      "The Competition Committee",
+      "The Technical Organiser",
+      "The Chief Official alone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.2.2 states the Competition Committee considers and approves panels of officials including Referees and Goal Line Judges (from Referee Manager nominations).",
+    "image": null
+  },
+  {
+    "id": "ch7-r73-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.3",
+    "question": "Under rule 7.3.4, where two teams from different countries play, what is the preference for referee nationality?",
+    "options": [
+      "Both referees should be from the same country as the first-named team",
+      "Referees should be from a country other than those represented by either team",
+      "One referee must be from each team's country",
+      "Referee nationality is irrelevant"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.3.4 states where possible, all games must be refereed by neutral Referees from countries other than those represented by either team.",
+    "image": null
+  },
+  {
+    "id": "ch7-r73-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.3",
+    "question": "What does rule 7.3.2 permit regarding officials holding multiple roles?",
+    "options": [
+      "No official may hold more than one role",
+      "If circumstances permit, one person may function in two or more offices",
+      "Only the Chief Official may hold two roles",
+      "Two officials may job-share one role"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.3.2 states that if circumstances permit, one person may function in two or more of the official offices.",
+    "image": null
+  },
+  {
+    "id": "ch7-r74-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.4",
+    "question": "Who appoints the Referees and Goal Line Judges at a competition?",
+    "options": [
+      "The Chief Official",
+      "The Competition Committee",
+      "The Referee Manager(s)",
+      "The HOC"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.4 states the Referee Manager(s) are responsible for appointing Referees and Goal Line Judges.",
+    "image": null
+  },
+  {
+    "id": "ch7-r74-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.4",
+    "question": "Who appoints Timekeepers and Scorekeepers?",
+    "options": [
+      "The Competition Committee",
+      "The Referee Manager",
+      "The Chief Table Official",
+      "The Technical Organiser"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.4 states the Chief Table Official is responsible for appointing Timekeepers and Scorekeepers.",
+    "image": null
+  },
+  {
+    "id": "ch7-r75-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.5",
+    "question": "What overall responsibility does the Chief Official hold?",
+    "options": [
+      "Responsibility for the schedule only",
+      "Overall responsibility for all aspects of the competition, supervising other officials",
+      "Responsibility for player eligibility only",
+      "Responsibility for referee performance only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.5.1 states the Chief Official has overall responsibility for all aspects of the competitions, supervising the other officials.",
+    "image": null
+  },
+  {
+    "id": "ch7-r78-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.8",
+    "question": "Under rule 7.8.2, what specific duty does the Referee Manager have regarding referee allocation?",
+    "options": [
+      "Allocate two referees equally to each game",
+      "Allocate a first Referee to each game",
+      "Ensure no referee officiates two consecutive games",
+      "Pair referees from the same country"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.8.2 states the Referee Manager must allocate a first Referee to each game.",
+    "image": null
+  },
+  {
+    "id": "ch7-r78-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.8",
+    "question": "Who has the authority to replace a Referee who is unable to continue due to injury during a game?",
+    "options": [
+      "The Chief Official",
+      "The Competition Committee",
+      "The Referee Manager(s)",
+      "The remaining Referee"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.8.6 states the Referee Manager(s) have authority to replace a Referee unable to continue due to injury, illness, or other reason.",
+    "image": null
+  },
+  {
+    "id": "ch7-r711-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.11",
+    "question": "What is the maximum number of consecutive games a Timekeeper should officiate?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.11.3 states Timekeepers must not officiate for more than two games in succession.",
+    "image": null
+  },
+  {
+    "id": "ch7-r712-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.12",
+    "question": "What is the maximum number of consecutive games a Scorekeeper should officiate?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Unlimited"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.12.3 states Scorekeepers must not officiate for more than two games in succession.",
+    "image": null
+  },
+  {
+    "id": "ch7-r713-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.13",
+    "question": "What uniform must Referees wear?",
+    "options": [
+      "Any sports shirt and shorts in any colour",
+      "Black or white shirt with black shorts or trousers; both referees must match",
+      "Blue shirt with black shorts",
+      "White shirt only; colour does not matter for the other referee"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.13.3.a states Referees wear either black or white shirt with black shorts or trousers. Both Referees must appear similar — both wearing the same colour (either black or white).",
+    "image": null
+  },
+  {
+    "id": "ch7-r713-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.13",
+    "question": "What is the maximum number of consecutive games a Referee should officiate?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Unlimited"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.13.3.h states Referees must not referee for more than two games in succession.",
+    "image": null
+  },
+  {
+    "id": "ch7-r714-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.14",
+    "question": "How many Goal Line Judges are appointed for each game?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.14.1 states two Goal Line Judges are appointed for each game, one for each goal line. They can be replaced by cameras.",
+    "image": null
+  },
+  {
+    "id": "ch7-r714-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.14",
+    "question": "On which side of each Referee should the Goal Line Judges be situated?",
+    "options": [
+      "To the right of each Referee",
+      "Diagonally opposite, on the left-hand side of each Referee",
+      "Directly behind each Referee",
+      "On either side at the Referee's discretion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.19.1 states Goal Line Judges should be situated diagonally opposite each other on the left-hand side of each Referee.",
+    "image": null
+  },
+  {
+    "id": "ch7-r715-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.15",
+    "question": "How many Scrutineers are appointed per game?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "One per team"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 7.15.1 states one Scrutineer per game is appointed to control the equipment of players and the playing area.",
+    "image": null
+  },
+  {
+    "id": "ch7-r717-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.17",
+    "question": "What is the full standard composition of Game Officials?",
+    "options": [
+      "2 Referees, 2 Goal Line Judges or cameras, 1 Scrutineer, 2 Timekeepers, 1 Scorekeeper",
+      "2 Referees, 1 Goal Line Judge, 1 Scrutineer, 1 Timekeeper, 1 Scorekeeper",
+      "2 Referees, 2 Goal Line Judges, 2 Scrutineers, 1 Timekeeper, 1 Scorekeeper",
+      "3 Referees, 2 Goal Line Judges, 1 Scrutineer, 2 Timekeepers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 7.17.1 states game officials should consist of 2 Referees, 2 Goal Line Judges or cameras, 1 Scrutineer, 2 Timekeepers, and 1 Scorekeeper.",
+    "image": null
+  },
+  {
+    "id": "ch7-r717-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.17",
+    "question": "When only three Game Officials are available, who takes on what additional duties?",
+    "options": [
+      "The Chief Official takes all extra duties",
+      "Two Referees cover GLJ and Scrutineer duties; one Timekeeper covers Timekeeper and Scorekeeper duties",
+      "The Scorekeeper takes referee duties",
+      "Two Referees cover everything; no other official needed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.17.2 states with only 3 officials, two will be Referees (taking additional GLJ and Scrutineer duties) and one Timekeeper (taking Timekeeper and Scorekeeper duties).",
+    "image": null
+  },
+  {
+    "id": "ch7-r718-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.18",
+    "question": "When do the Referees' authority over players take effect?",
+    "options": [
+      "Only during the game itself",
+      "Only during the game and breaks in play",
+      "During the whole time the Referees and players are within the competition area",
+      "From the moment the whistle starts the game until it ends"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.18.1 states the Referees' authority over players is effective during the whole time that they and the players are within the competition area.",
+    "image": null
+  },
+  {
+    "id": "ch7-r718-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.18",
+    "question": "If the two Referees cannot agree on a decision, who makes the final call?",
+    "options": [
+      "The Chief Official",
+      "The Referee Manager",
+      "The first named Referee",
+      "The decision is disregarded and play continues"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.18.7 states where Referees cannot agree on a decision, the first named Referee will take the final decision.",
+    "image": null
+  },
+  {
+    "id": "ch7-r718-003",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.18",
+    "question": "Under what condition may a Referee alter their decision?",
+    "options": [
+      "At any point before half time",
+      "Only if the other Referee disagrees",
+      "Provided they do so before the ball is put back into play",
+      "Referees may never alter a decision once given"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.18.3 states a Referee may alter their decision provided they do so before the ball is put back into play.",
+    "image": null
+  },
+  {
+    "id": "ch7-r719-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.19",
+    "question": "What signal does a Goal Line Judge use to indicate players are correctly positioned at the start?",
+    "options": [
+      "Waving a red flag",
+      "Raising a green flag",
+      "Pointing both flags at the goal",
+      "Raising a blue flag"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.19.2.a states Goal Line Judges raise a green flag when players are correctly positioned on their goal lines at the start of a period.",
+    "image": null
+  },
+  {
+    "id": "ch7-r719-002",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.19",
+    "question": "What signal does a Goal Line Judge use to indicate an improper start or restart?",
+    "options": [
+      "Raising a green flag",
+      "Raising a red flag",
+      "Waving a red flag",
+      "Pointing both flags at the centre line"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.19.2.c states Goal Line Judges wave a red flag to indicate an improper start or restart.",
+    "image": null
+  },
+  {
+    "id": "ch7-r721-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.21",
+    "question": "Where must the Timekeepers be situated?",
+    "options": [
+      "On the sideline nearest to the centre",
+      "At the official's table",
+      "Behind one of the goal lines",
+      "Anywhere around the pool with a clear view"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 7.21.1 states Timekeepers must be situated at the official's table.",
+    "image": null
+  },
+  {
+    "id": "ch7-r722-001",
+    "source": "rules",
+    "chapter": 7,
+    "rule": "7.22",
+    "question": "Where must the Scorekeeper be situated?",
+    "options": [
+      "Behind either goal line",
+      "On the sideline",
+      "At the official table",
+      "In the coaches area"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 7.22.1 states the Scorekeeper must be situated at the official table.",
+    "image": null
+  },
+  {
+    "id": "ch8-r83-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.3",
+    "question": "What are the required dimensions of the playing area?",
+    "options": [
+      "30 metres long by 20 metres wide",
+      "35 metres long by 23 metres wide",
+      "40 metres long by 25 metres wide",
+      "35 metres long by 20 metres wide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.3.1 states the playing area must be rectangular, 35 metres long and 23 metres wide.",
+    "image": null
+  },
+  {
+    "id": "ch8-r83-002",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.3",
+    "question": "What is the minimum water depth required throughout the playing area?",
+    "options": [
+      "60 centimetres",
+      "75 centimetres",
+      "90 centimetres",
+      "120 centimetres"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 8.3.3 states the water throughout the playing area must be still water at least 90 centimetres deep.",
+    "image": null
+  },
+  {
+    "id": "ch8-r83-003",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.3",
+    "question": "What is the minimum clear height required above the playing area, and the minimum ceiling height?",
+    "options": [
+      "2 metres clear height, 4 metres ceiling",
+      "3 metres clear height, 5 metres ceiling",
+      "4 metres clear height, 6 metres ceiling",
+      "5 metres clear height, 7 metres ceiling"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.3.4 states there must be at least 3 metres clear height without obstacles, and a minimum ceiling height of 5 metres above the playing area.",
+    "image": null
+  },
+  {
+    "id": "ch8-r84-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.4",
+    "question": "What are the longer boundaries of the playing area called?",
+    "options": [
+      "Goal lines",
+      "Centre lines",
+      "Sidelines",
+      "Boundaries"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 8.4.1 states the longer boundaries are referred to as the sidelines and the shorter boundaries as the goal lines.",
+    "image": null
+  },
+  {
+    "id": "ch8-r85-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.5",
+    "question": "How high is the lower inside edge of the goal above the water surface?",
+    "options": [
+      "1.5 metres",
+      "2 metres",
+      "2.5 metres",
+      "3 metres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.5.1.a states each goal will have its lower inside edge two metres above the surface of the water.",
+    "image": null
+  },
+  {
+    "id": "ch8-r85-002",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.5",
+    "question": "What are the internal dimensions of the goal frame?",
+    "options": [
+      "1 metre high by 1 metre wide",
+      "1 metre high by 1.5 metres wide",
+      "1.5 metres high by 2 metres wide",
+      "0.9 metres high by 1.2 metres wide"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.5.2.a states each goal consists of an open frame 1 metre high by 1.5 metres wide, measured internally.",
+    "image": null
+  },
+  {
+    "id": "ch8-r85-003",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.5",
+    "question": "What are the colours of the front face of the goal frame?",
+    "options": [
+      "All red",
+      "All white",
+      "Red and white striped, each stripe 20cm long",
+      "Yellow and black striped"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 8.5.2.e states the front face of the goal frame must be red and white striped, with each stripe 20 centimetres in length.",
+    "image": null
+  },
+  {
+    "id": "ch8-r86-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.6",
+    "question": "What is the permitted weight range for the ball?",
+    "options": [
+      "350–400 grams",
+      "400–450 grams",
+      "450–500 grams",
+      "380–420 grams"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.6.2 states the ball must weigh not less than 400 grams and not more than 450 grams.",
+    "image": null
+  },
+  {
+    "id": "ch8-r86-002",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.6",
+    "question": "What circumference range is required for the ball in men's games?",
+    "options": [
+      "65–67 centimetres",
+      "68–71 centimetres",
+      "62–65 centimetres",
+      "70–73 centimetres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.6.3.a states for games played by Men, Men U21, and Men Master, ball circumference must be 68–71 centimetres.",
+    "image": null
+  },
+  {
+    "id": "ch8-r86-003",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.6",
+    "question": "What circumference range is required for the ball in women's games?",
+    "options": [
+      "60–63 centimetres",
+      "63–66 centimetres",
+      "65–67 centimetres",
+      "68–71 centimetres"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 8.6.4.a states for games played by Women, Women U21, and Women Master, ball circumference must be 65–67 centimetres.",
+    "image": null
+  },
+  {
+    "id": "ch8-r87-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.7",
+    "question": "Where is the substitutes area located?",
+    "options": [
+      "Behind the goal line, excluding the area 4 metres either side of the centre of the goal frame",
+      "Behind the goal line, within 2 metres of the centre of the goal frame",
+      "Along the sidelines behind the Referee's area",
+      "Anywhere behind the playing area at the team's discretion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 8.7.1 states the substitutes area is the area behind the goal line, excluding the area four metres either side of the centre of the goal frame.",
+    "image": null
+  },
+  {
+    "id": "ch8-r88-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.8",
+    "question": "What is the ideal and maximum distance the Referee's area should be from the playing area?",
+    "options": [
+      "Ideally 1m, no more than 3m",
+      "Ideally 2m, no more than 5m",
+      "Ideally 3m, no more than 6m",
+      "Ideally 1m, no more than 4m"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.8.2 states the Referee's area should ideally be 2 metres and no more than 5 metres from the playing area.",
+    "image": null
+  },
+  {
+    "id": "ch8-r811-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.11",
+    "question": "What is the maximum number of persons a team may have in the coaches area during a game?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.11.4 states a team is allowed a maximum of three persons in the coaches area for games.",
+    "image": null
+  },
+  {
+    "id": "ch9-r91-001",
+    "source": "rules",
+    "chapter": 9,
+    "rule": "9.1",
+    "question": "How far in advance must the competition schedule for an international competition be sent out?",
+    "options": [
+      "At least one week before",
+      "At least two weeks before",
+      "At least four weeks before",
+      "At least 48 hours before"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 9.1.1 states the competition schedule for an international competition will be sent out at least two weeks prior to the competition.",
+    "image": null
+  },
+  {
+    "id": "ch9-r91-002",
+    "source": "rules",
+    "chapter": 9,
+    "rule": "9.1",
+    "question": "What is the minimum time a team must have between completion of one game and the start of the next?",
+    "options": [
+      "15 minutes",
+      "30 minutes",
+      "45 minutes",
+      "60 minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 9.1.10 states a team should not be required to play a game less than half an hour (30 minutes) after completion of its previous game.",
+    "image": null
+  },
+  {
+    "id": "ch9-r91-003",
+    "source": "rules",
+    "chapter": 9,
+    "rule": "9.1",
+    "question": "What is the maximum number of games a team should play in one day?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Eight"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 9.1.8 states a team should not be required to play more than six games on a day.",
+    "image": null
+  },
+  {
+    "id": "ch9-r92-001",
+    "source": "rules",
+    "chapter": 9,
+    "rule": "9.2",
+    "question": "How far in advance must scrutineering times and procedures be advised to teams?",
+    "options": [
+      "At least 12 hours before scrutineering",
+      "At least 24 hours before scrutineering",
+      "At least 48 hours before scrutineering",
+      "At the competition schedule meeting"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 9.2.1 states scrutineering times, places, and procedures will be advised at least 24 hours before the equipment needs to be scrutineered.",
+    "image": null
+  },
+  {
+    "id": "ch10-r101-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.1",
+    "question": "What is the maximum number of players a team may have for any game?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rule 10.1.1 states each team may consist of a maximum of eight players for any game.",
+    "image": null
+  },
+  {
+    "id": "ch10-r101-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.1",
+    "question": "How many players from each team are permitted on the playing area at any one time?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.1.2 states no more than five players are permitted on the playing area at any one time.",
+    "image": null
+  },
+  {
+    "id": "ch10-r101-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.1",
+    "question": "What must the Referee do if a team is reduced to two players?",
+    "options": [
+      "Award a forfeit immediately",
+      "Allow play to continue with reduced numbers",
+      "End the game and refer the matter to the Competition Committee",
+      "Give the team 5 minutes to find a replacement"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.1.3 states if a team is reduced to two players the Referee must end the game and refer the matter to the Competition Committee.",
+    "image": null
+  },
+  {
+    "id": "ch10-r102-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.2",
+    "question": "What is the standard playing time and what is the minimum?",
+    "options": [
+      "Two periods of 12 minutes; minimum 8 minutes",
+      "Two periods of 10 minutes; minimum 7 minutes",
+      "Two periods of 8 minutes; minimum 5 minutes",
+      "Two periods of 15 minutes; minimum 10 minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.2.1 states playing time should be two periods each of ten minutes, unless overtime is needed. The minimum is two periods of seven minutes.",
+    "image": null
+  },
+  {
+    "id": "ch10-r102-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.2",
+    "question": "What is the standard half time interval and the minimum?",
+    "options": [
+      "5 minutes standard, 2 minutes minimum",
+      "3 minutes standard, 1 minute minimum",
+      "4 minutes standard, 2 minutes minimum",
+      "2 minutes standard, 1 minute minimum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.2.2 states the half time interval should be three minutes, with a minimum of one minute.",
+    "image": null
+  },
+  {
+    "id": "ch10-r103-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.3",
+    "question": "By default, which team starts on the goal line at the left-hand side of the official table?",
+    "options": [
+      "The team with the most players",
+      "The first named team on the game sheet",
+      "The visiting team",
+      "Determined by coin toss"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.3 states the first named team on the game sheet will start on the goal line at the left-hand side of the official table, unless a captain or the Chief Official requests a coin toss.",
+    "image": null
+  },
+  {
+    "id": "ch10-r104-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.4",
+    "question": "At the start of a game (not each period), how many players must each team have stationary on their own goal line?",
+    "options": [
+      "All players in the squad",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 3,
+    "explanation": "Rule 10.4.1 states at the beginning of each game, five players from each team must line up stationary with any part of their kayaks on their own goal line.",
+    "image": null
+  },
+  {
+    "id": "ch10-r104-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.4",
+    "question": "If a team has fewer than five players ready to start after how many minutes is the game declared a forfeit?",
+    "options": [
+      "3 minutes",
+      "5 minutes",
+      "10 minutes",
+      "15 minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.4.4 states if a team has fewer than five players ready to start five minutes after the scheduled start time, the game will be declared a forfeit.",
+    "image": null
+  },
+  {
+    "id": "ch10-r104-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.4",
+    "question": "During commencement of play, what radius must all non-competing players stay outside of until the ball is touched?",
+    "options": [
+      "2 metres from the body of the player attempting for the ball",
+      "3 metres from the body of the player attempting for the ball",
+      "4 metres from the ball",
+      "5 metres from the centre of the playing area"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.4.8 states all players other than the one attempting for the ball must not be within a radius of three metres from the body of that player until one player has touched the ball.",
+    "image": null
+  },
+  {
+    "id": "ch10-r104-004",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.4",
+    "question": "What is the penalty if a player sprints before the referee's whistle at the start?",
+    "options": [
+      "A free shot to the opposition",
+      "A goal penalty shot",
+      "A start infringement — signals 1 and 15 apply",
+      "Immediate ejection from the game"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.4.2 states if a player sprints before the referee whistles, a start infringement will be called. Signal 1 and 15 apply.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1051-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.1",
+    "question": "When is a sideline throw awarded?",
+    "options": [
+      "When the ball touches the sideline and was last touched by the defending team",
+      "When the ball touches the sideline or vertical plane of the sideline, last touched by the opposing team",
+      "Whenever the ball leaves the playing area over the sideline",
+      "When the ball hits an overhead obstacle, regardless of who touched it last"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.5.1.a states when any part of the ball touches the physical sideline or its vertical plane, or touches an overhead obstacle, the team NOT last to touch it is awarded a sideline throw.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1052-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.2",
+    "question": "When is a goal line throw awarded?",
+    "options": [
+      "When the ball goes over the team's own goal line and was last touched by their own team",
+      "When the ball goes over the team's own goal line and was last touched by the opposition",
+      "When the ball rebounds off the goal frame into play",
+      "Whenever the ball crosses the goal line"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.5.2.b states a goal line throw is awarded when the ball goes over a team's own goal line and was last touched by the opposition.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1053-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.3",
+    "question": "When is a corner throw awarded?",
+    "options": [
+      "When the ball goes out over the team's own goal line, last touched by their own team",
+      "When the ball goes out over the team's own goal line, last touched by the opposition",
+      "When the ball touches the corner of the playing area",
+      "When a foul occurs in the corner of the playing area"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.5.3.a states a corner throw is awarded when the ball goes out over a team's own goal line and was last touched by their own team.",
+    "image": null
+  },
+  {
+    "id": "ch10-r106-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.6",
+    "question": "What whistle signal must the Referee use to stop the game for a time-out (not a goal)?",
+    "options": [
+      "A single long blast",
+      "Two short blasts",
+      "A triple whistle",
+      "A double long blast"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.6.1 states the Referee must use a triple whistle to stop the game for time-out, except when a goal is scored where a long whistle blast is used.",
+    "image": null
+  },
+  {
+    "id": "ch10-r106-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.6",
+    "question": "When must a time-out be called with respect to a goal penalty shot?",
+    "options": [
+      "Time-out may be called at the referee's discretion",
+      "Time-out must be used when a goal penalty shot is awarded",
+      "Time-out is optional for a goal penalty shot",
+      "Time-out is not required for a goal penalty shot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.6.5 states time-out must be used after a goal is scored and must be used if a goal penalty shot is awarded.",
+    "image": null
+  },
+  {
+    "id": "ch10-r106-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.6",
+    "question": "If the referee stopped the game and cannot determine who had possession at the time of the whistle, how is play restarted?",
+    "options": [
+      "Free throw to the team that was last attacking",
+      "Referee's ball",
+      "Free shot from the centre",
+      "Coin toss to determine possession"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.6.7 states if the Referee cannot determine who had possession at the time of the whistle, play is restarted with a Referee's ball.",
+    "image": null
+  },
+  {
+    "id": "ch10-r107-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.7",
+    "question": "Under the live stream time-out rule, when must the coach or team captain call the time-out?",
+    "options": [
+      "At any point during the game when in possession",
+      "In the first seven minutes of either half, when in possession outside the six-metre area",
+      "Only in the first half, when in possession",
+      "Only in the second half, at the referee's invitation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.7.1 states the live stream time-out must be called in the first seven minutes of either half, when in possession and outside the six-metre area.",
+    "image": null
+  },
+  {
+    "id": "ch10-r108-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.8",
+    "question": "What must happen for a goal to be scored?",
+    "options": [
+      "Any part of the ball must cross the goal line",
+      "The whole of the ball must pass through the plane of the front of the goal frame",
+      "The ball must touch the net",
+      "The ball must fully pass through the back of the goal frame"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.8.1 states a team scores a goal when the whole of the ball passes through the plane of the front of the goal frame of their opponent's goal.",
+    "image": null
+  },
+  {
+    "id": "ch10-r108-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.8",
+    "question": "What happens if a defender's or substitute's paddle from behind the goal prevents the ball from entering?",
+    "options": [
+      "A corner throw is awarded",
+      "A goal penalty shot is awarded",
+      "A goal is awarded",
+      "A free shot is awarded"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.8.2 states if the ball is prevented from entering a goal by a defender's or substitute's paddle entering the goal from behind, then a goal is awarded.",
+    "image": null
+  },
+  {
+    "id": "ch10-r109-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.9",
+    "question": "After a goal is scored, when can the first Referee restart play?",
+    "options": [
+      "As soon as any player of the defending team has crossed the centre line",
+      "When the attacking team are ready AND at least three defending players have returned to their own half",
+      "When all five defending players have returned to their own half",
+      "Immediately, as soon as the scoring team is ready"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.9.2 states play can restart when the attacking team are ready and at least three players of the defending team have returned to their own half.",
+    "image": null
+  },
+  {
+    "id": "ch10-r109-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.9",
+    "question": "Where must the player taking the restart throw after a goal be positioned?",
+    "options": [
+      "On the six-metre line",
+      "In the centre circle",
+      "Along the centre line of the playing area",
+      "At the four-metre line"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.9.3 states the player taking the restart throw must position part of their body somewhere along the centre line of the playing area.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1010-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.10",
+    "question": "How is the goalkeeper defined?",
+    "options": [
+      "Any player in the six-metre area",
+      "The one defending player most directly under the goal, facing into the playing area, within 1 metre of the goal line centre",
+      "Any defending player who has declared themselves goalkeeper before the game",
+      "The player closest to the goal at the time of a shot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.10.1 defines the goalkeeper as the one defending player most directly under the goal, whose body must be facing into the playing area and attempting to maintain a position within one metre of the centre of the goal line.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1010-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.10",
+    "question": "When does a team lose the right to have a player defined as goalkeeper?",
+    "options": [
+      "When the goalkeeper leaves the six-metre area",
+      "When the goalkeeper moves more than one metre from centre",
+      "As soon as the team has control of the ball",
+      "After the team has scored a goal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.10.10 states as soon as a team has control of the ball, they can no longer be considered to be defending and thus cannot have a player defined as a goalkeeper.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1010-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.10",
+    "question": "Under rule 10.10.8, when can a goalkeeper attempting for the ball on the water be tackled?",
+    "options": [
+      "Never — the goalkeeper is always protected",
+      "Only when they have possession of the ball",
+      "Like any other player, when attempting for the ball on the water",
+      "Only when they are outside the six-metre area"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.10.8 states a goalkeeper who is not in possession but is attempting for the ball on the water can be tackled like any other player.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1011-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.11",
+    "question": "When is a Referee's ball declared?",
+    "options": [
+      "When two players simultaneously touch the ball",
+      "When two or more opposing players have one or more hands firmly on the ball for five seconds (shared possession)",
+      "When the referee cannot see who last touched the ball",
+      "When the ball is stuck between two kayaks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.11.1 states a Referee's ball is declared when two or more players of opposing teams have one or more hands firmly on the ball, sharing possession for five seconds.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1011-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.11",
+    "question": "Where is a Referee's ball taken when the incident occurs between the six-metre line and the goal line?",
+    "options": [
+      "At the nearest point on the sideline to the incident",
+      "At the nearest six-metre line",
+      "At the goal line",
+      "At the centre line"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.11.4 states where a Referee's ball is awarded for an incident between the six-metre line and goal line, it will be held at the nearest six-metre line.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1011-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.11",
+    "question": "How far apart must the two players be when taking a Referee's ball, and where must their hands be?",
+    "options": [
+      "One metre apart; paddles on water, hands on deck of kayak or on paddle",
+      "Two metres apart; hands raised above head",
+      "Half a metre apart; hands gripping paddles",
+      "Three metres apart; paddles held vertically"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.11.5 states players line up one metre apart, and must place their paddles on the water with their hands on the deck of the kayak or on the paddle.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1012-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.12",
+    "question": "For how long may the Referee play advantage?",
+    "options": [
+      "Up to three seconds",
+      "Up to five seconds",
+      "Up to seven seconds",
+      "Unlimited, at the referee's discretion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.12.1 states the Referees will play advantage up to a maximum of five seconds.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1012-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.12",
+    "question": "Can a Referee give a sanction card for a foul during which advantage was played?",
+    "options": [
+      "No, the advantage cancels any sanction",
+      "Yes, at the next break in play",
+      "Only if the fouled team scores",
+      "Only if the other Referee agrees"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.12.2 states the Referee can penalise the player who caused the infringement for which advantage was played with a sanction card at the next break in play.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1013-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.13",
+    "question": "What must a capsized player who has left their kayak do?",
+    "options": [
+      "Wait for a teammate to assist before leaving",
+      "Leave the playing area immediately with all their equipment",
+      "Stay and defend from the water",
+      "Leave only when the ball goes out of play"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.13.1 states if a player capsizes and leaves their kayak, the player may not take any further part in play and must leave the playing area immediately with all their equipment.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1014-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.14",
+    "question": "When is substitution allowed?",
+    "options": [
+      "Only at half time",
+      "Only during a time-out",
+      "At any time including during time-outs, anywhere along the team's own goal line",
+      "Only when the ball is out of play"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.14.3 states substitution is allowed at any time including during time-outs, anywhere along the team's own goal line.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1014-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.14",
+    "question": "What must happen before a substitute may enter the playing area?",
+    "options": [
+      "The Referee must blow the whistle",
+      "The substituted player's entire kayak and equipment must have left the playing area",
+      "The ball must be out of play",
+      "The coach must signal the substitution to the scorekeeper"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.14.3 states all of the player's kayak and equipment must have left the playing area before the substitute may enter.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1016-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.16",
+    "question": "If the ball is in flight at the time of the timekeeper's end signal, what happens?",
+    "options": [
+      "The ball is dead immediately",
+      "The ball is allowed to travel to completion; for a goal, the ball must have left the player's hand before the signal",
+      "A free throw is awarded",
+      "The game goes to overtime"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.16.1 states if the ball is in flight when the timekeeper's signal sounds, the ball is allowed to travel to completion. For a goal to count, the ball must have left the player's hand prior to the signal.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1016-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.16",
+    "question": "If a goal penalty shot was awarded before the end-of-period signal, what must happen?",
+    "options": [
+      "The penalty is cancelled as time has run out",
+      "The penalty is taken in the next period",
+      "The goal penalty shot must be taken before play is considered complete",
+      "A coin toss decides whether to take the penalty"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.16.2 states if a goal penalty shot has been awarded prior to the completion signal, the goal penalty shot must be taken before play is to be considered complete.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1017-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.17",
+    "question": "How long are overtime periods and how is the winner determined?",
+    "options": [
+      "Three-minute periods; winner by most goals after two periods",
+      "Five-minute periods; team scoring the first goal wins (golden goal)",
+      "Ten-minute periods; winner on aggregate score",
+      "Five-minute periods; winner on penalty shots"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.17.1 states overtime consists of consecutive periods of five minutes each, with the team scoring the first goal deemed the winner.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1017-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.17",
+    "question": "What break time is required before overtime commences and between overtime periods?",
+    "options": [
+      "2 minutes before overtime; 1 minute between periods",
+      "3 minutes before overtime; 1 minute between periods",
+      "5 minutes before overtime; 2 minutes between periods",
+      "1 minute before overtime; 30 seconds between periods"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.17.2 states there must be a three-minute break before overtime commences and a one-minute break between overtime periods, with a change of ends.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1018-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.18",
+    "question": "What happens if a substitute uses their paddle in the playing area to prevent a goal from being scored?",
+    "options": [
+      "A free shot is awarded at the point of the paddle",
+      "A goal penalty shot is awarded and the player receives an Ejection Red Card",
+      "The goal is awarded to the attacking team",
+      "A sanction card is given but no penalty is escalated"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.18.2 states when a substitute places their paddle in the playing area to prevent a goal from being scored, a goal penalty shot is awarded and the offending player receives an Ejection Red Card.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1019-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.19",
+    "question": "Is a goalkeeper exempt from the rule against placing a paddle within arm's reach of an opponent with the ball?",
+    "options": [
+      "No, the goalkeeper has no special exception for paddle use",
+      "Yes, the goalkeeper may directly defend a shot as long as the paddle is not moved towards the opponent and no significant contact results",
+      "Yes, the goalkeeper may do anything with their paddle within the six-metre area",
+      "Only if the goalkeeper is stationary"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.19.5 states a goalkeeper is excluded from the rule and may directly defend a shot at goal, as long as the paddle is not moved towards the opponent at the time of the shot and it does not result in significant contact.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1019-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.19",
+    "question": "Which of the following is an illegal use of the paddle?",
+    "options": [
+      "Holding the paddle with two hands while defending",
+      "Playing the ball with the paddle when the ball is within arm's reach of an opponent attempting to play it with their hand",
+      "Blocking the ball with a stationary paddle as goalkeeper",
+      "Using the paddle to pass the ball"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.19.3 defines it as illegal to play or attempt to play the ball with a paddle when it is within arm's reach of an opponent attempting to play the ball with their hand.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1020-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.20",
+    "question": "How many seconds does a player have to dispose of the ball after gaining possession?",
+    "options": [
+      "Three seconds",
+      "Four seconds",
+      "Five seconds",
+      "Ten seconds"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.20.2 states a player must dispose of the ball within five seconds of gaining possession, either by passing it or throwing it at least one metre horizontally from the point of release.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1020-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.20",
+    "question": "A player is balancing the ball on their paddle. Are they considered to be in possession?",
+    "options": [
+      "No, possession requires the ball to be in the hand",
+      "Only if they are stationary",
+      "Yes, a player balancing the ball on their paddle is considered to be in possession",
+      "Only if the paddle is held below shoulder height"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.20.1 states a player balancing the ball on their paddle will also be considered to be in possession of the ball.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1020-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.20",
+    "question": "What happens to the five-second possession clock if two players share possession?",
+    "options": [
+      "The clock continues from where it was",
+      "The clock is halved",
+      "The five seconds begins again once a player regains sole possession",
+      "A referee's ball is called immediately"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.20.3 states if a player shares possession with another player, or the ball moves out of arm's reach while being tackled, the five seconds will begin again once a player has regained possession.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1021-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.21",
+    "question": "How is a hand tackle defined?",
+    "options": [
+      "Any physical contact between players' hands",
+      "A player pushing an opponent with one hand",
+      "A player grabbing an opponent's kayak",
+      "Any contact made by a player's hand with the ball"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.21.1 defines a hand tackle as a player pushing an opponent with one hand.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1021-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.21",
+    "question": "Under rule 10.21.2.b, which legal hand tackle contact is specifically permitted?",
+    "options": [
+      "Any open-hand contact to the chest",
+      "One open hand to the opponent's back, upper arm, or side",
+      "Two-handed push to the opponent's shoulders",
+      "Open-hand contact to the opponent's helmet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.21.2.b states only one open hand to the opponent's back, upper arm, or side is permitted. Any other body contact is illegal.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1021-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.21",
+    "question": "When is a hand tackle illegal under rule 10.21.2.a?",
+    "options": [
+      "When the tackled player has the ball in their kayak",
+      "When the tackled player does not have possession or is sharing possession",
+      "Only when the tackled player is in the six-metre area",
+      "When the tackle is from behind"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.21.2.a states a hand tackle is illegal when the tackled player does not have possession of the ball or is sharing possession of the ball with another player.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1022-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.22",
+    "question": "What is a kayak tackle?",
+    "options": [
+      "A player using their paddle to strike an opponent's kayak",
+      "A player manoeuvring their kayak against an opponent's kayak in an attempt to gain possession",
+      "Any contact between two kayaks during play",
+      "A deliberate collision between kayaks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.22.2 defines a kayak tackle as a player manoeuvring their kayak against an opponent's kayak in an attempt to gain possession of the ball.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1022-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.22",
+    "question": "Under rule 10.22.3.d, at what angle to the side of the kayak is a hard tackle considered illegal?",
+    "options": [
+      "Between 45 and 60 degrees",
+      "Between 60 and 80 degrees",
+      "Between 80 and 100 degrees",
+      "Greater than 100 degrees"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.22.3.d states a hard tackle that results in significant contact to the side of the kayak at an angle between 80 and 100 degrees is illegal.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1022-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.22",
+    "question": "Under rule 10.22.3.e, when is tackling an opponent illegal regardless of how it is performed?",
+    "options": [
+      "When the opponent is in the substitutes area",
+      "When the opponent is not within three metres of the ball",
+      "When the opponent is moving at speed",
+      "When the opponent has just received the ball"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.22.3.e states tackling an opponent who is not within three metres of the ball is illegal.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1022-004",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.22",
+    "question": "Under rule 10.22.3.a, is a player's arm considered part of their body for the purposes of a kayak tackle?",
+    "options": [
+      "Yes, always",
+      "No, the arm is never considered part of the body for kayak tackle purposes",
+      "The arm is not considered part of the body when any part of it is elevated away from the body",
+      "Only when the arm is holding the ball"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.22.3.a states a kayak tackle causing significant contact with the head or body is illegal, but the player's arm is not considered to be part of the body when any part of it is elevated away from the body.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1023-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.23",
+    "question": "Where on the field does a jostle occur?",
+    "options": [
+      "Anywhere in the playing area",
+      "Only on the centre line",
+      "Between the six-metre line and the goal line at the attacking end",
+      "Only within the four-metre area"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.23.1 defines a jostle as a player manoeuvring their kayak against an opponent's kayak between the six-metre line and the goal line at the attacking end of the field, to gain a position.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1023-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.23",
+    "question": "Under rule 10.23.2, how far may a player be moved by sustained kayak contact before it becomes an illegal jostle?",
+    "options": [
+      "More than one metre",
+      "More than two metres",
+      "More than three metres",
+      "More than half a metre"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.23.2 states a jostle is illegal when a player is stationary or maintaining position and their body is moved by more than two metres by sustained contact from an opponent's kayak.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1023-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.23",
+    "question": "Under rule 10.23.4, when is a jostle automatically illegal regardless of the distance moved?",
+    "options": [
+      "When the jostled player is the goalkeeper",
+      "When the body of the jostled player is behind the goal line",
+      "When both players are stationary",
+      "When the ball is in the air"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.23.4 states a jostle is illegal when the body of the jostled player is behind the goal line.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1024-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.24",
+    "question": "When is obstruction considered illegal under rule 10.24.2.a?",
+    "options": [
+      "Any contact between players when neither has the ball",
+      "A player actively or deliberately impeding the progress of an opponent when neither player is within three metres of the ball (outside jostling area)",
+      "A player blocking the path to the goal",
+      "Any stationary player in the path of an opponent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.24.2.a states obstruction is illegal when a player actively or deliberately impedes an opponent's progress when neither player is within three metres of the ball, except where players are jostling for position at the attacking end.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1025-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.25",
+    "question": "Which of the following is an illegal holding offence under rule 10.25.2.d?",
+    "options": [
+      "A player supporting their kayak with one hand in the water",
+      "A player fending off an attempted tackle with their hand, forearm, or by moving their elbow towards an opponent",
+      "A defender placing their stationary hand in front of an attacker's shot",
+      "A goalkeeper using their body to block the goal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.25.2.d states fending off an opponent's attempted hand or kayak tackle with the hand, forearm, or with the movement of the elbow towards the opponent is illegal holding.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1025-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.25",
+    "question": "Under 10.25.2.e, when is a defending player NOT penalised for hand contact with a throwing opponent?",
+    "options": [
+      "When the defender is the goalkeeper",
+      "If the player attempting a shot or pass contacts the stationary hands or arms of the defender as part of the throwing action",
+      "When the ball has already left the attacker's hand",
+      "When the defender's hand is below shoulder height"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.25.2.e states the defending player will not be penalised if the player who is attempting a shot or pass contacts the stationary hands or arms of the defending player as part of the throwing action.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1026-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.26",
+    "question": "Under rule 10.26.2.b, before an opponent may attempt another tackle on a capsized player, what must have happened?",
+    "options": [
+      "The capsized player must have left the playing area",
+      "The capsized player must be allowed to get their head and both shoulders above the water",
+      "The capsized player must have been right way up for three seconds",
+      "The referee must blow the whistle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.26.2.b states hindering a player's attempt at righting themselves is unsporting. A player who is upside down must be allowed to get their head and both shoulders above the water before an opponent may attempt another tackle.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1026-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.26",
+    "question": "When a team is penalised, what must any player from that team in possession of the ball do immediately?",
+    "options": [
+      "Hold the ball above their head until the referee signals",
+      "Place the ball on the water and not impede the opposition from taking a quick restart",
+      "Return the ball to the nearest official",
+      "Throw the ball to a teammate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.26.2.d states when a team is penalised, any player on that team with possession of the ball must immediately place the ball on the water and not impede or delay the opposition from taking a quick restart.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1027-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.27",
+    "question": "What can happen to a team that plays by dishonourable means under rule 10.27?",
+    "options": [
+      "A warning is issued and the game is replayed",
+      "The matter is referred to the Competition Committee who may disqualify the team",
+      "The opposing team is awarded extra goals",
+      "All players receive sanction cards"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.27.1-2 states a team that plays other than by honourable means will have such conduct considered by the Competition Committee, who may disqualify the team from the competition.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1028-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.28",
+    "question": "What are the four sanctions available to Referees under rule 10.28.2?",
+    "options": [
+      "Warnings, free throws, goal penalty shots, and disqualification",
+      "Free throws, free shots, goal penalty shots, and sanction cards",
+      "Cautions, free shots, exclusions, and disqualification",
+      "Yellow cards, red cards, free throws, and goal penalty shots"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.28.2 states the sanctions available to Referees are free throws, free shots, goal penalty shots, and sanction cards.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1028-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.28",
+    "question": "Under rule 10.28.3.a, what happens when a player commits their first deliberate foul?",
+    "options": [
+      "They receive a green card automatically",
+      "The referee shows the player's number directly after the signal for the foul",
+      "A goal penalty shot is awarded",
+      "A free shot is awarded to the opposition at the six-metre line"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.28.3.a states a player's first deliberate foul will be indicated by the referee showing the player's number, directly after the signal for the foul.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1029-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.29",
+    "question": "Under what conditions is a goal penalty shot awarded inside the six-metre area?",
+    "options": [
+      "Any foul inside the six-metre area",
+      "Any deliberate or dangerous foul on a player in the act of shooting, or in the act of passing or positioning for a near-certain goal",
+      "Only when the goalkeeper commits the foul",
+      "When a deliberate foul prevents a certain goal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rules 10.29.2-10.29.3 state a GPS is awarded inside the six-metre area for any deliberate or dangerous foul on a player in the act of shooting, or in the act of passing/positioning for a near-certain goal.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1029-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.29",
+    "question": "Under what conditions is a goal penalty shot awarded outside the six-metre area?",
+    "options": [
+      "Any dangerous foul outside the six-metre area",
+      "A deliberate or dangerous foul on a player in act of shooting for a near-certain goal while the goal is not defended",
+      "Any foul preventing a shot at goal outside the six-metre area",
+      "When the goalkeeper leaves the goal area and fouls an attacker"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.29.5 states outside the six-metre area, a GPS is awarded for any deliberate or dangerous foul on a player in the act of shooting for a near-certain goal while the goal is not defended.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1030-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.30",
+    "question": "Can a free shot be a direct shot at goal?",
+    "options": [
+      "No, a free shot must be passed first",
+      "Yes, a free shot can be a direct shot at goal",
+      "Only if the shot is taken outside the six-metre area",
+      "Only if the referee signals specifically for a direct shot"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.30.2 states a free shot can be a direct shot at goal.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1031-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.31",
+    "question": "Can a free throw be a direct shot at goal?",
+    "options": [
+      "Yes, always",
+      "Yes, if taken outside the six-metre area",
+      "No, a free throw cannot be a direct shot at goal",
+      "Only if the ball is stationary when thrown"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.31.2 states a free throw cannot be a direct shot at goal.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1031-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.31",
+    "question": "Which of the following are classified as free throws?",
+    "options": [
+      "Goal penalty shots and free shots only",
+      "Sideline throws, goal line throws, corner throws, and centre restarts",
+      "Any throw awarded by the referee",
+      "Only throws taken from outside the six-metre area"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.31.4 states sideline throws, goal line throws, corner throws, and centre restarts are all considered to be free throws.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1032-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.32",
+    "question": "What is the maximum number of sanction cards a player may receive in one game?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Unlimited"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 10.32.2 states a player can receive a maximum of three sanction cards in any one game.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1032-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.32",
+    "question": "What is the sequence of sanction cards issued progressively to a player?",
+    "options": [
+      "Yellow, orange, red",
+      "Green (1st), yellow (2nd), red (3rd)",
+      "White, yellow, red",
+      "Green, red, ejection red"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.32.3.b states the sequence is: 1st card (green), then 2nd card (yellow), then the 3rd and final card (red).",
+    "image": null
+  },
+  {
+    "id": "ch10-r1032-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.32",
+    "question": "When a player receives their third sanction card (red), how long are they excluded and can they be replaced?",
+    "options": [
+      "Excluded for 1 minute; can be replaced",
+      "Excluded for the rest of the game; cannot be replaced for 2 minutes",
+      "Excluded for 2 minutes; can be replaced after 1 minute",
+      "Excluded for the rest of the game; cannot be replaced at all"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.32.3.b states a player receiving a sanction Red Card is excluded from the field of play for the remainder of the game and cannot be replaced for a period of two minutes.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1033-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.33",
+    "question": "How long is the exclusion period for a player receiving their first or second sanction card?",
+    "options": [
+      "One minute",
+      "A maximum of two minutes",
+      "Three minutes",
+      "Five minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.33.2 states a player receiving their 1st or 2nd sanction card is excluded from the field of play and cannot be replaced for a maximum period of two minutes.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1033-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.33",
+    "question": "If the opposition scores during a power play (not involving an Ejection Red Card), what happens?",
+    "options": [
+      "The power play continues for its full duration",
+      "The excluded player or a team-mate can return to the field; play resumes with a centre restart",
+      "The power play ends but the excluded player must stay off",
+      "The power play is extended by two minutes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.33.4 states if the opposition scores during a power play not involving an Ejection Red Card, the excluded player or a team-mate can return to the field and general play resumes with a centre restart.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1034-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.34",
+    "question": "When must an Ejection Red Card be awarded under rule 10.34.2?",
+    "options": [
+      "Whenever a player is sent off",
+      "If a personal attack on a player occurs, or if a player receives a red card (after green and yellow) and disputes it",
+      "Only for violent conduct against the referee",
+      "Whenever a player receives their third sanction card"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.34.2 states an Ejection Red Card must be awarded if a personal attack on a player occurs or if a player receives a red card (following green and yellow) and it is disputed.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1034-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.34",
+    "question": "What is the automatic consequence of receiving an Ejection Red Card during a competition?",
+    "options": [
+      "Disqualification from the entire competition",
+      "A one-game suspension and inability to take part in the next game in that competition",
+      "A fine of 75 euros",
+      "A two-game ban from the following competition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.34.4 states a player receiving an Ejection Red Card during a competition will automatically receive a one-game suspension and be unable to take part in the next game in that competition.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1035-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.35",
+    "question": "Under rule 10.35.6, when is a sanction card specifically required regardless of injury?",
+    "options": [
+      "For any accidental kayak contact with an opponent",
+      "For deliberate contact with the kayak of an opponent who is trying to take a free shot, corner, sideline, or goal line throw",
+      "For any verbal disagreement with the referee",
+      "Whenever advantage is played"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.35.6 states a sanction card will be awarded for any deliberate contact with the kayak of an opponent who is trying to take a free shot, corner, sideline, or goal line throw.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1036-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.36",
+    "question": "When may a coach or team captain ask for clarification of a referee's decision?",
+    "options": [
+      "At any time during or after the game",
+      "Only at half time or when the ball is out of the playing area",
+      "Only before the game begins",
+      "Only between games in the competition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.36.1 states a coach or team captain can ask for clarification of a specific decision only at half time or conclusion of the game, or when the ball is out of the playing area.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1036-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.36",
+    "question": "What is the sanction for any breach of the coach communication rules (10.36.4)?",
+    "options": [
+      "A warning with no card",
+      "One green card applying to all coaches and team officials from that team for the duration of that game",
+      "An immediate yellow card to the offending coach",
+      "Removal from the coaches area"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.36.4 states any breach of the coach communication rules must be penalised by one green card applying to all coaches and team officials from that team for the duration of the game.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1036-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.36",
+    "question": "After a green card warning has been given to coaches/team officials, what is the next card that will be awarded?",
+    "options": [
+      "A yellow card to the specific offender",
+      "An Ejection Red Card",
+      "Another green card",
+      "A red card to the head coach"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.36.7 states an Ejection Red Card will be the next card awarded to a coach or team official after a green card warning has been given to any coach or team official from that team.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1037-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.37",
+    "question": "How must a player indicate they are about to take a free throw or shot?",
+    "options": [
+      "Call out to the referee",
+      "Hold the ball stationary for a moment above shoulder level",
+      "Raise their paddle above their head",
+      "Make eye contact with the nearest referee"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.37.1 states the player must clearly hold the ball stationary for a moment above shoulder level to indicate they are taking the throw.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1037-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.37",
+    "question": "How far must the initial throw travel for the ball to be considered in play?",
+    "options": [
+      "50 centimetres horizontally",
+      "One metre measured horizontally from the point of release (or change possession to a teammate)",
+      "Two metres from the thrower",
+      "Any distance, as soon as the ball is released"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.37.1 states the ball is not in play until it has travelled one metre measured horizontally from point of release, or changed possession to another player of the same team.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1037-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.37",
+    "question": "Under rule 10.37.3, when may defenders block a free shot taken within two metres of the goal?",
+    "options": [
+      "Never — all free shots must travel one metre before any block",
+      "With a stationary paddle or stationary hand(s) after the ball is released, but before it has travelled 1 metre",
+      "Only if two defenders are present",
+      "Only if the goalkeeper signals they will block"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.37.3 states for free shots within two metres of the goal, defenders may block the free shot after release (before 1 metre travel) with a stationary paddle or stationary hand(s). Any movement towards the player or blocking before release results in a GPS.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1038-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.38",
+    "question": "Where must the player taking a goal penalty shot be positioned?",
+    "options": [
+      "At the six-metre line",
+      "Stationary with their body on the four-metre line",
+      "At the centre line",
+      "Anywhere within two metres of the goal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.38.3 states the player taking the goal penalty shot will be stationary with their body on the four-metre line.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1038-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.38",
+    "question": "Where must the goalkeeper be positioned for a goal penalty shot, and what restriction applies?",
+    "options": [
+      "At the goal line; may not paddle",
+      "Under the goal frame, within one metre of centre; must remain stationary until the shot is taken",
+      "On the four-metre line alongside the shooter",
+      "Within the six-metre area; no restrictions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.38.3 states the goalkeeper must be in position under the goal frame with their body within one metre of the centre of the goal, and must remain stationary until after the shot is taken.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1038-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.38",
+    "question": "When does general play resume after a goal penalty shot is taken?",
+    "options": [
+      "When the referee blows the whistle",
+      "Once the ball has left the hand of the player taking the penalty",
+      "After the goal is scored or blocked",
+      "When the goalkeeper collects the ball"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.38.6 states general play resumes for all players on the field once the ball has left the hand of the player taking the penalty.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1038-004",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.38",
+    "question": "Can the shooter play the ball again after a GPS attempt?",
+    "options": [
+      "No, only other players may continue after the shot",
+      "Yes, if the shot is blocked by the keeper or rebounds off the goal frame into play",
+      "Only if they scored the original goal",
+      "Only if no other player is within three metres"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.38.7 states the player taking the shot can play the ball again if the shot is blocked by the keeper or rebounds off the goal frame back into the field of play.",
+    "image": null
+  },
+  {
+    "id": "ch11-r111-001",
+    "source": "rules",
+    "chapter": 11,
+    "rule": "11.1",
+    "question": "Within what time must a protest be submitted after a game incident, and what is the fee?",
+    "options": [
+      "Within 10 minutes, fee of 50 euros",
+      "Within 20 minutes, fee of 75 euros",
+      "Within 30 minutes, fee of 100 euros",
+      "Within 1 hour, fee of 75 euros"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 11.1.4.a states a protest must be made within 20 minutes after the game, accompanied by a fee of 75 euros (refunded if the protest is upheld).",
+    "image": null
+  },
+  {
+    "id": "ch11-r111-002",
+    "source": "rules",
+    "chapter": 11,
+    "rule": "11.1",
+    "question": "Can a protest be made against a Referee's interpretive decision on the rules?",
+    "options": [
+      "Yes, if accompanied by video evidence",
+      "Yes, but only via the Referee Manager",
+      "No, all decisions on questions of fact and rule interpretation by Referees are final",
+      "Yes, if made in writing within 20 minutes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 11.1.3 (and 7.18.2) states all decisions of the Referees on questions of fact are final and their interpretation of the rules must be obeyed. No protest can be made in relation to an interpretive decision of a Referee.",
+    "image": null
+  },
+  {
+    "id": "ch11-r111-003",
+    "source": "rules",
+    "chapter": 11,
+    "rule": "11.1",
+    "question": "For a protest about a player's or team's eligibility to participate, when must it be submitted?",
+    "options": [
+      "Within 20 minutes after the previous game",
+      "At least one hour before the start of the game in question",
+      "At the team briefing the day before",
+      "At least 24 hours before the game"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 11.1.4.b states a protest against the right of a player or team to participate must be made not later than one hour before the start of the game in question.",
+    "image": null
+  },
+  {
+    "id": "ch11-r113-001",
+    "source": "rules",
+    "chapter": 11,
+    "rule": "11.3",
+    "question": "Within how many days after each competition should the results be sent to the ICF Canoe Polo Committee?",
+    "options": [
+      "5 days",
+      "7 days",
+      "10 days",
+      "14 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 11.3 states the HOC should send the results of each competition within ten days to the ICF Canoe Polo Committee, to each National Federation with teams participating, and to each Team Leader.",
+    "image": null
+  },
+  {
+    "id": "clarif-sprint1-001",
+    "source": "clarification",
+    "chapter": 10,
+    "rule": "Sprint Starts",
+    "question": "At a sprint start, a player arrives late and fails to control their kayak, making direct nose contact with an opponent's body. What should the referee call?",
+    "options": [
+      "Normal play — contact at sprint starts is expected",
+      "Illegal Hand Tackle",
+      "Illegal Kayak Tackle, with a sanction card",
+      "A free throw only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 2025 Rule Clarification on Sprint Starts states: if one player arrives late and fails to maintain control, resulting in direct kayak nose contact with the opponent's body, the action is considered deliberate and/or dangerous. The referee calls an Illegal Kayak Tackle and a sanction card is awarded.",
+    "image": null
+  },
+  {
+    "id": "clarif-sprint1-002",
+    "source": "clarification",
+    "chapter": 10,
+    "rule": "Sprint Starts",
+    "question": "At a sprint start, both players arrive at exactly the same time and one kayak slides over the other with no significant impact. What should the referee do?",
+    "options": [
+      "Call an Illegal Kayak Tackle as any kayak contact is illegal",
+      "Award a goal penalty shot",
+      "Allow play to continue — this is normal play; no foul, no card",
+      "Stop play and restart with a Referee's ball"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 2025 Rule Clarification on Sprint Starts states: if both players arrive at exactly the same time and there is incidental contact such as one kayak sliding over the other without significant impact, it is considered normal play. No foul, no card.",
+    "image": null
+  },
+  {
+    "id": "clarif-sprint1-003",
+    "source": "clarification",
+    "chapter": 10,
+    "rule": "Sprint Starts",
+    "question": "At a sprint start, a player dives in front of an opponent's kayak to gain possession and is hit by the opponent's kayak. Who is penalised?",
+    "options": [
+      "The opponent who caused the contact",
+      "Neither player — the diving player is responsible for creating the dangerous situation",
+      "Both players receive sanction cards",
+      "The referee restarts with a Referee's ball"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 2025 Rule Clarification on Sprint Starts states: if a player chooses to dive in front of an opponent's kayak to gain possession and is hit, this will not be considered a dangerous tackle by the opponent, because they did not cause the dangerous kayak tackle.",
+    "image": null
+  },
+  {
+    "id": "clarif-defender-001",
+    "source": "clarification",
+    "chapter": 10,
+    "rule": "Defender's Paddle",
+    "question": "A defender is stationary with their paddle positioned beyond arm's reach. An attacker deliberately moves into that paddle while shooting. What should the referee call?",
+    "options": [
+      "Illegal paddle use by the defender",
+      "No foul, provided the defender's paddle remains stationary — it is the attacker's responsibility to avoid contact",
+      "Illegal hand tackle on the attacker",
+      "A goal penalty shot for dangerous play"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 2025 Rule Clarification on Defender's Paddle states: if a defender is stationary with their hand(s) or paddle beyond arm's reach, and an attacker deliberately initiates contact, no foul will be called provided the defender's hand(s)/paddle remain stationary. It is the attacker's responsibility to avoid contact when attempting to shoot or score.",
+    "image": null
+  },
+  {
+    "id": "clarif-handtackle-001",
+    "source": "clarification",
+    "chapter": 10,
+    "rule": "Illegal Hand Tackle",
+    "question": "Before the throwing action has begun, when may a defender play the ball?",
+    "options": [
+      "Never — any contact with the ball when an attacker is holding it is illegal",
+      "If the attacker's arm is stationary, provided: no forceful/downward action, contact is not dangerous, and only the ball is contacted (not hand or arm)",
+      "Only if the defender is the goalkeeper",
+      "Only if the defender uses both hands"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 2025 Rule Clarification on Illegal Hand Tackle (Part 1) states: before the throwing action begins, the defender may play the ball provided there is no forceful or downward action, the contact is not dangerous, and the defender makes contact only with the ball (not the hand or arm).",
+    "image": null
+  },
+  {
+    "id": "clarif-handtackle-002",
+    "source": "clarification",
+    "chapter": 10,
+    "rule": "Illegal Hand Tackle",
+    "question": "Once the throwing action has begun (ball raised behind the attacker's head), what contact is permitted by a defender?",
+    "options": [
+      "A defender may still play the ball with an open hand",
+      "A defender may contact the ball only, not the arm",
+      "No contact is permitted with the throwing arm or the ball",
+      "The defender may block with a stationary paddle"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 2025 Rule Clarification on Illegal Hand Tackle (Part 2) states: as soon as the ball is raised behind the attacker's head indicating the start of the throwing motion, no contact is permitted with the attacker's throwing arm or the ball.",
+    "image": null
+  }
+]

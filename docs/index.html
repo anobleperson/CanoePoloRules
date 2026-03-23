@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canoe Polo Rules Quiz</title>
+  <link rel="stylesheet" href="shared.css">
+  <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">Canoe Polo Rules Quiz</a>
+      <nav class="site-nav">
+        <a href="index.html" class="active">Quiz</a>
+        <a href="rules.html">Rules</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="quiz-main" id="quizMain">
+
+    <!-- Start screen -->
+    <div id="screenStart" class="screen screen-start">
+      <div class="card start-card">
+        <h1>ICF 2025 Canoe Polo Rules</h1>
+        <p class="subtitle">Test your knowledge of the ICF 2025 Competition Rules — Chapters 7 to 11.</p>
+        <ul class="quiz-info">
+          <li><span class="info-icon">&#10003;</span> 20 random questions per session</li>
+          <li><span class="info-icon">&#10003;</span> Immediate feedback with rule citation</li>
+          <li><span class="info-icon">&#10003;</span> Covers Officials, Equipment, Game Play &amp; more</li>
+        </ul>
+        <button class="btn btn-primary btn-lg" id="btnStart">Start Quiz</button>
+      </div>
+    </div>
+
+    <!-- Question screen -->
+    <div id="screenQuestion" class="screen screen-question" hidden>
+      <div class="quiz-progress">
+        <div class="progress-text">
+          Question <span id="qNum">1</span> of <span id="qTotal">20</span>
+        </div>
+        <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="20">
+          <div class="progress-fill" id="progressFill"></div>
+        </div>
+      </div>
+
+      <div class="card question-card">
+        <div class="question-meta" id="questionMeta"></div>
+        <p class="question-text" id="questionText"></p>
+        <ul class="options-list" id="optionsList" role="radiogroup" aria-label="Answer options"></ul>
+      </div>
+    </div>
+
+    <!-- Feedback screen -->
+    <div id="screenFeedback" class="screen screen-feedback" hidden>
+      <div class="quiz-progress">
+        <div class="progress-text">
+          Question <span id="fbQNum">1</span> of <span id="fbQTotal">20</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="fbProgressFill"></div>
+        </div>
+      </div>
+
+      <div class="card feedback-card" id="feedbackCard">
+        <div class="feedback-result" id="feedbackResult"></div>
+        <p class="feedback-explanation" id="feedbackExplanation"></p>
+        <a class="feedback-rule-link" id="feedbackRuleLink" href="#" target="_blank" rel="noopener" hidden>
+          View Rule <span id="feedbackRuleNum"></span> &rarr;
+        </a>
+      </div>
+
+      <div class="feedback-actions">
+        <button class="btn btn-primary" id="btnNext">Next Question</button>
+      </div>
+    </div>
+
+    <!-- End screen -->
+    <div id="screenEnd" class="screen screen-end" hidden>
+      <div class="card end-card">
+        <h2>Quiz Complete!</h2>
+        <div class="score-display">
+          <span class="score-fraction" id="scoreFraction"></span>
+          <span class="score-percent" id="scorePercent"></span>
+        </div>
+        <p class="score-message" id="scoreMessage"></p>
+        <div class="end-actions">
+          <button class="btn btn-primary btn-lg" id="btnRestart">Try Again</button>
+          <a class="btn btn-secondary btn-lg" href="rules.html">View Rules</a>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <script src="quiz.js"></script>
+</body>
+</html>

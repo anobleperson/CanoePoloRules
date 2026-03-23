@@ -1,0 +1,350 @@
+/* quiz.css — Quiz app styles */
+
+.quiz-main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+/* ── Screens ── */
+.screen {}
+
+/* ── Cards ── */
+.card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  padding: 2rem;
+}
+
+/* ── Start screen ── */
+.screen-start {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+.start-card {
+  max-width: 480px;
+  width: 100%;
+  text-align: center;
+}
+
+.start-card h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 0.75rem;
+}
+
+.subtitle {
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+.quiz-info {
+  list-style: none;
+  text-align: left;
+  margin-bottom: 1.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.quiz-info li {
+  font-size: 0.9rem;
+  color: var(--color-neutral);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.info-icon {
+  color: var(--color-correct);
+  font-weight: 700;
+}
+
+/* ── Progress ── */
+.quiz-progress {
+  margin-bottom: 1rem;
+}
+
+.progress-text {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-bottom: 0.4rem;
+}
+
+.progress-bar {
+  height: 6px;
+  background: var(--color-border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--color-primary);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+  width: 0%;
+}
+
+/* ── Question screen ── */
+.question-card {
+  padding: 1.75rem;
+}
+
+.question-meta {
+  font-size: 0.75rem;
+  color: var(--color-muted);
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.question-text {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--color-neutral);
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+}
+
+/* ── Options ── */
+.options-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.option-btn {
+  width: 100%;
+  text-align: left;
+  background: var(--color-bg);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  color: var(--color-neutral);
+  transition: border-color 0.15s, background 0.15s;
+  line-height: 1.45;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.option-btn:hover:not(:disabled) {
+  border-color: var(--color-primary);
+  background: #f0f7fb;
+}
+
+.option-btn:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.option-letter {
+  flex-shrink: 0;
+  font-weight: 700;
+  color: var(--color-muted);
+  font-size: 0.8rem;
+  margin-top: 0.05rem;
+}
+
+.option-btn.correct {
+  border-color: var(--color-correct);
+  background: var(--color-correct-bg);
+  color: var(--color-correct);
+}
+
+.option-btn.correct .option-letter {
+  color: var(--color-correct);
+}
+
+.option-btn.incorrect {
+  border-color: var(--color-incorrect);
+  background: var(--color-incorrect-bg);
+  color: var(--color-incorrect);
+}
+
+.option-btn.incorrect .option-letter {
+  color: var(--color-incorrect);
+}
+
+.option-btn:disabled {
+  cursor: default;
+}
+
+/* ── Feedback screen ── */
+.screen-feedback .card {
+  padding: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.feedback-result {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.feedback-result.correct {
+  color: var(--color-correct);
+  background: var(--color-correct-bg);
+}
+
+.feedback-result.incorrect {
+  color: var(--color-incorrect);
+  background: var(--color-incorrect-bg);
+}
+
+.feedback-explanation {
+  font-size: 0.9rem;
+  line-height: 1.65;
+  color: var(--color-neutral);
+  margin-bottom: 0.75rem;
+}
+
+.feedback-rule-link {
+  font-size: 0.82rem;
+  color: var(--color-primary);
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.feedback-rule-link:hover {
+  text-decoration: underline;
+}
+
+.feedback-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* ── End screen ── */
+.screen-end {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+.end-card {
+  max-width: 440px;
+  width: 100%;
+  text-align: center;
+}
+
+.end-card h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 1.25rem;
+}
+
+.score-display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.score-fraction {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  line-height: 1;
+}
+
+.score-percent {
+  font-size: 1.2rem;
+  color: var(--color-muted);
+  margin-top: 0.25rem;
+}
+
+.score-message {
+  font-size: 0.9rem;
+  color: var(--color-muted);
+  margin-bottom: 1.75rem;
+  line-height: 1.5;
+}
+
+.end-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+/* ── Buttons ── */
+.btn {
+  display: inline-block;
+  padding: 0.625rem 1.25rem;
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  line-height: 1.4;
+}
+
+.btn:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: #fff;
+  border-color: var(--color-primary);
+}
+
+.btn-primary:hover {
+  background: var(--color-primary-dark);
+  border-color: var(--color-primary-dark);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.btn-secondary:hover {
+  background: #e8f2f9;
+}
+
+.btn-lg {
+  padding: 0.75rem 1.75rem;
+  font-size: 1rem;
+  width: 100%;
+}
+
+/* ── Mobile ── */
+@media (max-width: 480px) {
+  .quiz-main {
+    padding: 1.25rem 0.75rem 2rem;
+  }
+
+  .card {
+    padding: 1.25rem;
+  }
+
+  .question-text {
+    font-size: 0.95rem;
+  }
+
+  .score-fraction {
+    font-size: 2.5rem;
+  }
+}
