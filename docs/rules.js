@@ -128,10 +128,14 @@
     const bodyDiv = document.createElement('div');
     bodyDiv.className = 'rule-body';
 
-    const text = document.createElement('p');
-    text.className = 'rule-text';
-    text.textContent = section.text || '(No text available for this section.)';
-    bodyDiv.appendChild(text);
+    const textLines = (section.text || '').split('\n').filter(l => l.trim());
+    if (textLines.length === 0) textLines.push('(No text available for this section.)');
+    textLines.forEach(line => {
+      const p = document.createElement('p');
+      p.className = 'rule-text';
+      p.textContent = line;
+      bodyDiv.appendChild(p);
+    });
 
     const permalink = document.createElement('a');
     permalink.className = 'rule-permalink';

@@ -57,14 +57,14 @@ def parse_rules():
 
     def flush_section():
         if current_section is not None:
-            text = ' '.join(
+            lines_out = [
                 line.strip() for line in current_text_lines
                 if line.strip()
                 and not PAGE_BREAK_RE.match(line.strip())
                 and not IMAGE_RE.match(line.strip())
                 and not GOVERNANCE_RE.match(line.strip())
-            )
-            current_section['text'] = text
+            ]
+            current_section['text'] = '\n'.join(lines_out)
 
     in_scope = False
 
