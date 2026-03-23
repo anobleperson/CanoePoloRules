@@ -28,6 +28,9 @@ scripts/                Offline developer tools
   parse_rules.py        Parses rules markdown → docs/rules.json
   generate_questions.py Template for AI-assisted question generation
   validate_questions.py Validates docs/questions.json schema
+planning/               Planning and requirements documents
+  brainstorms/          Feature brainstorm / requirements docs
+  plans/                Implementation plans
 docs/                   GitHub Pages source root
   index.html            Quiz app
   quiz.js
