@@ -27,13 +27,15 @@ CHAPTER_TITLES = {
 
 # Chapter heading pattern: ## **7.1 - COMPETITION COMMITTEE**
 SECTION_HEADING_RE = re.compile(r'^##\s+\*?\*?(\d+)\.(\d+(?:\.\d+)*)\s*[-–]\s*(.+?)\*?\*?\s*$')
+# Some sections lack ## and are just bold: **10.11 - REFEREE'S BALL [SR]**
+SECTION_HEADING_BOLD_RE = re.compile(r'^\*\*(\d+)\.(\d+(?:\.\d+)*)\s*[-–]\s*(.+?)\*\*\s*$')
 CHAPTER_START_RE = re.compile(r'^##\s+\*?\*?CHAPTER\s+(\d+)', re.IGNORECASE)
 
 # Sub-rule inline pattern: "10.22.3.a - text..."
 SUBRULE_INLINE_RE = re.compile(r'^(\d+(?:\.\d+)+)\s*[-–]\s+(.+)$')
 
-# Governance tag lines like ## **[SR]**
-GOVERNANCE_RE = re.compile(r'^##\s+\*?\*?\[(?:SR|PR|CR)\]\*?\*?\s*$')
+# Governance tag lines like ## **[SR]** or standalone **[SR]**
+GOVERNANCE_RE = re.compile(r'^(?:##\s+)?\*?\*?\[(?:SR|PR|CR)\]\*?\*?\s*$')
 
 # Page break artifacts
 PAGE_BREAK_RE = re.compile(r'^ICF Canoe Polo Competition Rules 2025 \d+ of 134')
@@ -91,7 +93,7 @@ def parse_rules():
                 in_scope = False
             continue
 
-        m_section = SECTION_HEADING_RE.match(line_stripped)
+        m_section = SECTION_HEADING_RE.match(line_stripped) or SECTION_HEADING_BOLD_RE.match(line_stripped)
         if m_section:
             ch_num = int(m_section.group(1))
             if 7 <= ch_num <= 11:
