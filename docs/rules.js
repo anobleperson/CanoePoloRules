@@ -19,8 +19,10 @@
       handleHash();
     })
     .catch(err => {
-      document.getElementById('navLoading').textContent = 'Error loading rules.';
-      document.getElementById('contentLoading').textContent = 'Could not load rules: ' + err.message;
+      const navMsg = document.getElementById('navLoading');
+      const contentMsg = document.getElementById('contentLoading');
+      if (navMsg) navMsg.textContent = 'Error loading rules.';
+      if (contentMsg) contentMsg.textContent = 'Could not load rules: ' + err.message;
     });
 
   window.addEventListener('hashchange', handleHash);
@@ -80,7 +82,6 @@
       nav.appendChild(group);
     });
 
-    document.getElementById('navLoading').remove();
   }
 
   // ── Build main content ─────────────────────────────────────────────────────

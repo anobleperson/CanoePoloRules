@@ -100,3 +100,8 @@ button {
   cursor: pointer;
   font-family: var(--font);
 }
+
+/* Ensure the hidden attribute always wins over display rules */
+[hidden] {
+  display: none !important;
+}
