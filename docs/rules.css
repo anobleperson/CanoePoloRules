@@ -235,7 +235,16 @@
   font-size: 0.875rem;
   line-height: 1.7;
   color: var(--color-neutral);
-  margin-top: 0.75rem;
+  margin-top: 0.6rem;
+}
+
+.rule-text + .rule-text {
+  margin-top: 0.5rem;
+}
+
+/* Indent sub-items that start with a lettered/numbered sub-rule (e.g. 10.25.2.a) */
+.rule-text.sub-item {
+  padding-left: 1.25rem;
 }
 
 .rule-permalink {

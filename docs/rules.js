@@ -130,9 +130,11 @@
 
     const textLines = (section.text || '').split('\n').filter(l => l.trim());
     if (textLines.length === 0) textLines.push('(No text available for this section.)');
+    // Sub-item pattern: line starts with a rule number containing 3+ parts (e.g. 10.25.2.a)
+    const subItemRe = /^\d+\.\d+\.\d+/;
     textLines.forEach(line => {
       const p = document.createElement('p');
-      p.className = 'rule-text';
+      p.className = subItemRe.test(line) ? 'rule-text sub-item' : 'rule-text';
       p.textContent = line;
       bodyDiv.appendChild(p);
     });
