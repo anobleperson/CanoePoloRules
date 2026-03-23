@@ -15,6 +15,7 @@ import re
 import os
 
 RULES_MD = os.path.join(os.path.dirname(__file__), '..', 'rules_extract', '2025_icf_canoe_polo_rules.md')
+CLARIF_MD = os.path.join(os.path.dirname(__file__), '..', 'rules_extract', '2025_icf_canoe_polo_rule_clarifications.md')
 OUTPUT = os.path.join(os.path.dirname(__file__), '..', 'docs', 'rules.json')
 
 CHAPTER_TITLES = {
@@ -152,9 +153,71 @@ def parse_rules():
     return chapters
 
 
+def parse_clarifications():
+    """Parse the rule clarifications markdown into a chapter-like structure."""
+    # Topic names map (part numbers stripped) → canonical id/heading
+    TOPICS = {
+        'SPRINT STARTS': ('clarif-sprint-starts', 'Sprint Starts'),
+        "DEFENDER'S PADDLE": ('clarif-defenders-paddle', "Defender's Paddle"),
+        'ILLEGAL HAND TACKLE': ('clarif-illegal-hand-tackle', 'Illegal Hand Tackle'),
+    }
+    # Pattern: ALL CAPS heading optionally followed by (N); allow smart apostrophe
+    HEADING_RE = re.compile(r"^([A-Z][A-Z\s'\u2019]+[A-Z])(?:\s*\(\d+\))?\s*$")
+
+    def normalise(s):
+        return s.replace('\u2019', "'").replace('\u2018', "'")
+    PAGE_RE = re.compile(r'^<!--\s*Page')
+    CLARIF_PAGE_BREAK_RE = re.compile(r'^ICF Canoe Polo\s*$|^\d+\s*$')
+
+    sections = {}  # topic_key -> {'id', 'heading', 'lines'}
+    current_key = None
+
+    with open(CLARIF_MD, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    for line in lines:
+        ls = line.rstrip('\n').strip()
+        if not ls or PAGE_RE.match(ls) or IMAGE_RE.match(ls) or CLARIF_PAGE_BREAK_RE.match(ls):
+            continue
+        # Detect topic heading
+        m = HEADING_RE.match(ls)
+        if m:
+            topic = normalise(m.group(1).strip())
+            if topic in TOPICS:
+                current_key = topic
+                if topic not in sections:
+                    tid, theading = TOPICS[topic]
+                    sections[topic] = {'id': tid, 'heading': theading, 'lines': []}
+                continue
+            # Sub-headings (e.g. "Not at the Same Time:") — keep as text
+        if current_key:
+            sections[current_key]['lines'].append(ls)
+
+    result_sections = []
+    for topic_key in ['SPRINT STARTS', "DEFENDER'S PADDLE", 'ILLEGAL HAND TACKLE']:
+        if topic_key in sections:
+            s = sections[topic_key]
+            result_sections.append({
+                'id': s['id'],
+                'heading': s['heading'],
+                'text': '\n'.join(l for l in s['lines'] if l),
+                'subsections': [],
+            })
+
+    return {
+        'chapter': 'clarifications',
+        'title': 'Rule Clarifications',
+        'sections': result_sections,
+    }
+
+
 def main():
     print("Parsing rules markdown...")
     chapters = parse_rules()
+
+    print("Parsing clarifications...")
+    clarif_chapter = parse_clarifications()
+    chapters.append(clarif_chapter)
 
     total_sections = sum(len(c['sections']) for c in chapters)
     print(f"Found {len(chapters)} chapters, {total_sections} sections")

@@ -47,9 +47,12 @@
       const btn = document.createElement('button');
       btn.className = 'nav-chapter-btn';
       btn.setAttribute('aria-expanded', 'false');
+      const chLabel = typeof chapter.chapter === 'number'
+        ? 'Chapter ' + chapter.chapter + ' &mdash; ' + chapter.title
+        : chapter.title;
       btn.innerHTML =
         '<span class="chevron">&#9658;</span>' +
-        '<span class="ch-title">Chapter ' + chapter.chapter + ' &mdash; ' + chapter.title + '</span>';
+        '<span class="ch-title">' + chLabel + '</span>';
 
       const ul = document.createElement('ul');
       ul.className = 'nav-section-list';
@@ -98,7 +101,9 @@
 
       const chTitle = document.createElement('h2');
       chTitle.className = 'chapter-title';
-      chTitle.textContent = 'Chapter ' + chapter.chapter + ' — ' + chapter.title;
+      chTitle.textContent = typeof chapter.chapter === 'number'
+        ? 'Chapter ' + chapter.chapter + ' — ' + chapter.title
+        : chapter.title;
       chDiv.appendChild(chTitle);
 
       chapter.sections.forEach(section => {
@@ -179,8 +184,7 @@
     }
 
     // Expand the parent chapter in the sidebar nav
-    const chapterNum = hash.split('.')[0];
-    expandNavChapter(chapterNum);
+    expandNavChapterForRule(hash);
 
     // Highlight active nav link
     setActiveNavLink(hash);
@@ -201,9 +205,11 @@
     if (header) header.setAttribute('aria-expanded', 'true');
   }
 
-  function expandNavChapter(chapterNum) {
+  function expandNavChapterForRule(ruleId) {
     if (!rulesData) return;
-    const group = document.querySelector('[data-chapter="' + chapterNum + '"]');
+    const chapter = rulesData.find(ch => ch.sections.some(s => s.id === ruleId));
+    if (!chapter) return;
+    const group = document.querySelector('[data-chapter="' + chapter.chapter + '"]');
     if (!group) return;
     const btn = group.querySelector('.nav-chapter-btn');
     const ul = group.querySelector('.nav-section-list');

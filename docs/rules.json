@@ -532,5 +532,29 @@
         "subsections": []
       }
     ]
+  },
+  {
+    "chapter": "clarifications",
+    "title": "Rule Clarifications",
+    "sections": [
+      {
+        "id": "clarif-sprint-starts",
+        "heading": "Sprint Starts",
+        "text": "Not at the Same Time:\nIf one player arrives late and fails to maintain control of their kayak, resulting\nin direct contact with the nose of their kayak on the opponent’s body, PFD,\nor helmet, the action will be considered deliberate and/or dangerous.\n•\nThe referee shall call an Illegal Kayak Tackle,\n•\nA sanction card will be awarded,\n•\nThe color of the card will be determined based on the severity and\nimpact of the contact.\nIf a player chooses to dive in front of an opponent’s kayak to gain\npossession of the ball, and as a result is hit by the opponent' s kayak, this\nwill not be considered as a dangerous tackle by the opponent because they\ndid not cause the dangerous kayak tackle.\nIf one player is clearly first to the ball, the other player (who does not get\nthe ball) must make the effort to avoid any dangerous kayak tackle or\ncontact with the opponent's body.\nBoth arrive at the Same Time:\nIf both players arrive at exactly the same time\nand there is incidental contact, such as one\nkayak sliding over the other without significant\nimpact, it will be considered normal play.\n•\nNo foul will be called,\n•\nNo card will be issued, as the contact is\nnot deliberate, as both players are\ncontesting the ball fairly.",
+        "subsections": []
+      },
+      {
+        "id": "clarif-defenders-paddle",
+        "heading": "Defender's Paddle",
+        "text": "If a defender is stationary with their hand(s) or paddle\npositioned beyond arm’s reach, and an\nattacker\ndeliberately initiates contact by moving into that area:\n•\nNo foul will be called, provided that,\n•\nThe defender’s hand(s) or paddle remain stationary,\n•\nIt is the attacker’s responsibility to avoid contact in\nsuch situations when attempting to shoot or score a goal.",
+        "subsections": []
+      },
+      {
+        "id": "clarif-illegal-hand-tackle",
+        "heading": "Illegal Hand Tackle",
+        "text": "Before the Throwing Action begins:\nIf the attacker’s arm is stationary and the throwing action has not\nyet started,\nThe defender may play the ball, provided that:\n•\nThere is no forceful or downward action,\n•\nThe contact is not dangerous, and\n•\nThe defender makes contact only with the ball, not the hand or\narm.\nOnce the Throwing Action begins:\nAs soon as the ball is raised behind the attacker’s head,\nindicating the start of the throwing motion:\n•\nNo contact is permitted with the attacker’s\nthrowing arm or the ball.\n10.21.2.d - Any hand-tackle from the side or from\nbehind, that either strikes or pulls back the throwing\narm of a player who is in the process of throwing or\npassing the ball.",
+        "subsections": []
+      }
+    ]
   }
 ]
