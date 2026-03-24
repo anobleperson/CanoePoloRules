@@ -1,7 +1,7 @@
 ---
 title: "feat: Add offline PWA support (service worker + manifest)"
 type: feat
-status: active
+status: completed
 date: 2026-03-25
 origin: planning/brainstorms/2026-03-25-offline-pwa-requirements.md
 ---
