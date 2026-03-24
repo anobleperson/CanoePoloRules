@@ -1028,15 +1028,15 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.22",
-    "question": "Under rule 10.22.3.e, when is tackling an opponent illegal regardless of how it is performed?",
+    "question": "Rule 10.22.3.e makes it illegal to tackle an opponent not within 3 metres of the ball. Which situation is an exception to this rule?",
     "options": [
-      "When the opponent is in the substitutes area",
-      "When the opponent is not within three metres of the ball",
-      "When the opponent is moving at speed",
-      "When the opponent has just received the ball"
+      "Jostling for position within the 6m zone at the attacking end — this is governed by rule 10.23, not 10.22",
+      "When the opponent is stationary near the sideline",
+      "When the tackler is moving faster than the opponent",
+      "When the ball has just been thrown and is in the air"
     ],
-    "correctIndex": 1,
-    "explanation": "Rule 10.22.3.e states tackling an opponent who is not within three metres of the ball is illegal.",
+    "correctIndex": 0,
+    "explanation": "Within the 6m zone at the attacking end, manoeuvring a kayak against an opponent to gain position is \"jostling\" under rule 10.23, not a kayak tackle under 10.22. The 3m restriction of rule 10.22.3.e does not apply there — rule 10.23 governs what contact is and is not permitted in that zone.",
     "image": null
   },
   {
