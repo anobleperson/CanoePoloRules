@@ -7,6 +7,9 @@
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#005b8e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
   <link rel="stylesheet" href="shared.css">
   <link rel="stylesheet" href="rules.css">
 </head>
@@ -65,5 +68,30 @@
   </div>
 
   <script src="rules.js"></script>
+
+  <div id="swUpdateBanner" hidden>
+    <span>New version available.</span>
+    <button id="swUpdateReload">Reload</button>
+  </div>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/CanoePoloRules/sw.js').then(reg => {
+        reg.addEventListener('updatefound', () => {
+          const newWorker = reg.installing;
+          newWorker.addEventListener('statechange', () => {
+            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+              document.getElementById('swUpdateBanner').hidden = false;
+            }
+          });
+        });
+      });
+      document.getElementById('swUpdateReload').addEventListener('click', () => {
+        navigator.serviceWorker.getRegistration().then(reg => {
+          if (reg && reg.waiting) reg.waiting.postMessage({ type: 'SKIP_WAITING' });
+        });
+        window.location.reload();
+      });
+    }
+  </script>
 </body>
 </html>
