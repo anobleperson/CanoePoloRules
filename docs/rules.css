@@ -247,6 +247,24 @@
   padding-left: 1.25rem;
 }
 
+.signal-img {
+  display: block;
+  max-width: 220px;
+  margin: 0.75rem 0;
+  border-radius: 4px;
+}
+
+.signal-link {
+  color: var(--color-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: 600;
+}
+
+.signal-link:hover {
+  color: var(--color-primary-dark);
+}
+
 .rule-permalink {
   display: inline-block;
   margin-top: 0.5rem;

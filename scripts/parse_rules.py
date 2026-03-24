@@ -24,12 +24,17 @@ CHAPTER_TITLES = {
     9: "Competition Schedule",
     10: "Game Play",
     11: "Protests and Disciplinary",
+    15: "Referee Hand Signals",
 }
+
+CHAPTERS_IN_SCOPE = {7, 8, 9, 10, 11, 15}
 
 # Chapter heading pattern: ## **7.1 - COMPETITION COMMITTEE**
 SECTION_HEADING_RE = re.compile(r'^##\s+\*?\*?(\d+)\.(\d+(?:\.\d+)*)\s*[-–]\s*(.+?)\*?\*?\s*$')
 # Some sections lack ## and are just bold: **10.11 - REFEREE'S BALL [SR]**
 SECTION_HEADING_BOLD_RE = re.compile(r'^\*\*(\d+)\.(\d+(?:\.\d+)*)\s*[-–]\s*(.+?)\*\*\s*$')
+# Chapter 15 uses ### headings with no dash: ### 15.1 START / INFRINGEMENT
+SECTION_HEADING_H3_RE = re.compile(r'^###\s+(\d+)\.(\d+(?:\.\d+)*)[.\s]+(.+)$')
 CHAPTER_START_RE = re.compile(r'^##\s+\*?\*?CHAPTER\s+(\d+)', re.IGNORECASE)
 
 # Sub-rule inline pattern: "10.22.3.a - text..."
@@ -59,73 +64,86 @@ def parse_rules():
     current_text_lines = []
 
     def flush_section():
-        if current_section is not None:
-            lines_out = [
-                line.strip() for line in current_text_lines
-                if line.strip()
-                and not PAGE_BREAK_RE.match(line.strip())
-                and not IMAGE_RE.match(line.strip())
-                and not GOVERNANCE_RE.match(line.strip())
-            ]
+        if current_section is not None and '_chapter' in current_section:
+            ch_num = current_section.pop('_chapter')
+            include_images = (ch_num == 15)
+            lines_out = []
+            for line in current_text_lines:
+                ls = line.strip()
+                if not ls:
+                    continue
+                if PAGE_BREAK_RE.match(ls):
+                    continue
+                if GOVERNANCE_RE.match(ls):
+                    continue
+                if IMAGE_RE.match(ls):
+                    if include_images:
+                        # Extract filename from ![](images/filename.png)
+                        m = re.match(r'^\!\[\]\(images/(.+?)\)', ls)
+                        if m:
+                            lines_out.append('IMAGE:' + m.group(1))
+                    continue
+                lines_out.append(ls)
             current_section['text'] = '\n'.join(lines_out)
+
+    def find_or_create_chapter(ch_num):
+        existing = next((c for c in chapters if c['chapter'] == ch_num), None)
+        if existing:
+            return existing
+        ch = {
+            'chapter': ch_num,
+            'title': CHAPTER_TITLES.get(ch_num, f'Chapter {ch_num}'),
+            'sections': []
+        }
+        chapters.append(ch)
+        return ch
+
+    def start_section(ch_num, sub, heading_raw):
+        nonlocal current_chapter, current_section, current_text_lines
+        flush_section()
+        in_scope_flag = True
+        current_chapter = find_or_create_chapter(ch_num)
+        rule_num = f"{ch_num}.{sub}"
+        current_section = {
+            'id': rule_num,
+            'heading': clean_heading(heading_raw),
+            'text': '',
+            'subsections': [],
+            '_chapter': ch_num,
+        }
+        current_chapter['sections'].append(current_section)
+        current_text_lines = []
+        return in_scope_flag
 
     in_scope = False
 
     for line in lines:
         line_stripped = line.rstrip('\n')
 
-        # Detect chapter 7 start
+        # Detect chapter start
         m_chapter = CHAPTER_START_RE.match(line_stripped)
         if m_chapter:
             ch_num = int(m_chapter.group(1))
-            if 7 <= ch_num <= 11:
+            if ch_num in CHAPTERS_IN_SCOPE:
                 flush_section()
-                current_chapter = {
-                    'chapter': ch_num,
-                    'title': CHAPTER_TITLES.get(ch_num, f'Chapter {ch_num}'),
-                    'sections': []
-                }
-                chapters.append(current_chapter)
+                current_chapter = find_or_create_chapter(ch_num)
                 current_section = None
                 current_text_lines = []
                 in_scope = True
-            elif ch_num > 11:
+            elif ch_num > max(CHAPTERS_IN_SCOPE):
                 flush_section()
                 in_scope = False
             continue
 
-        m_section = SECTION_HEADING_RE.match(line_stripped) or SECTION_HEADING_BOLD_RE.match(line_stripped)
+        # Try all section heading patterns
+        m_section = (SECTION_HEADING_RE.match(line_stripped)
+                     or SECTION_HEADING_BOLD_RE.match(line_stripped)
+                     or SECTION_HEADING_H3_RE.match(line_stripped))
         if m_section:
             ch_num = int(m_section.group(1))
-            if 7 <= ch_num <= 11:
-                flush_section()
-                in_scope = True
-
-                # Ensure we have the right chapter
-                if current_chapter is None or current_chapter['chapter'] != ch_num:
-                    # Find or create chapter
-                    existing = next((c for c in chapters if c['chapter'] == ch_num), None)
-                    if existing:
-                        current_chapter = existing
-                    else:
-                        current_chapter = {
-                            'chapter': ch_num,
-                            'title': CHAPTER_TITLES.get(ch_num, f'Chapter {ch_num}'),
-                            'sections': []
-                        }
-                        chapters.append(current_chapter)
-
-                rule_num = f"{ch_num}.{m_section.group(2)}"
-                heading = clean_heading(m_section.group(3))
-                current_section = {
-                    'id': rule_num,
-                    'heading': heading,
-                    'text': '',
-                    'subsections': []
-                }
-                current_chapter['sections'].append(current_section)
-                current_text_lines = []
-            elif ch_num > 11:
+            if ch_num in CHAPTERS_IN_SCOPE:
+                in_scope = start_section(ch_num, m_section.group(2), m_section.group(3))
+            elif ch_num > max(CHAPTERS_IN_SCOPE):
                 flush_section()
                 in_scope = False
             continue
@@ -133,15 +151,7 @@ def parse_rules():
         if not in_scope:
             continue
 
-        # Skip governance tags, page breaks, images
-        if GOVERNANCE_RE.match(line_stripped):
-            continue
-        if PAGE_BREAK_RE.match(line_stripped.strip()):
-            continue
-        if IMAGE_RE.match(line_stripped.strip()):
-            continue
-
-        # Accumulate text for current section
+        # Accumulate text for current section (filtering happens in flush_section)
         if current_section is not None and line_stripped.strip():
             current_text_lines.append(line_stripped)
 
@@ -155,21 +165,20 @@ def parse_rules():
 
 def parse_clarifications():
     """Parse the rule clarifications markdown into a chapter-like structure."""
-    # Topic names map (part numbers stripped) → canonical id/heading
+    def normalise(s):
+        return s.replace('\u2019', "'").replace('\u2018', "'")
+
     TOPICS = {
         'SPRINT STARTS': ('clarif-sprint-starts', 'Sprint Starts'),
         "DEFENDER'S PADDLE": ('clarif-defenders-paddle', "Defender's Paddle"),
         'ILLEGAL HAND TACKLE': ('clarif-illegal-hand-tackle', 'Illegal Hand Tackle'),
     }
-    # Pattern: ALL CAPS heading optionally followed by (N); allow smart apostrophe
-    HEADING_RE = re.compile(r"^([A-Z][A-Z\s'\u2019]+[A-Z])(?:\s*\(\d+\))?\s*$")
+    SKIP_HEADINGS = {'WWW.CANOEICF.COM/RULES', 'CONTENTS', 'Contents'}
+    H2_RE = re.compile(r'^##\s+(.+)$')
+    PART_RE = re.compile(r'\s*\(\d+\)\s*$')
 
-    def normalise(s):
-        return s.replace('\u2019', "'").replace('\u2018', "'")
-    PAGE_RE = re.compile(r'^<!--\s*Page')
-    CLARIF_PAGE_BREAK_RE = re.compile(r'^ICF Canoe Polo\s*$|^\d+\s*$')
-
-    sections = {}  # topic_key -> {'id', 'heading', 'lines'}
+    sections = {}
+    order = []
     current_key = None
 
     with open(CLARIF_MD, 'r', encoding='utf-8') as f:
@@ -177,39 +186,47 @@ def parse_clarifications():
 
     for line in lines:
         ls = line.rstrip('\n').strip()
-        if not ls or PAGE_RE.match(ls) or IMAGE_RE.match(ls) or CLARIF_PAGE_BREAK_RE.match(ls):
+        if not ls or IMAGE_RE.match(ls):
             continue
-        # Detect topic heading
-        m = HEADING_RE.match(ls)
+
+        m = H2_RE.match(ls)
         if m:
-            topic = normalise(m.group(1).strip())
-            if topic in TOPICS:
-                current_key = topic
-                if topic not in sections:
-                    tid, theading = TOPICS[topic]
-                    sections[topic] = {'id': tid, 'heading': theading, 'lines': []}
+            raw = normalise(m.group(1).strip())
+            topic = PART_RE.sub('', raw).strip()
+            if topic in SKIP_HEADINGS or topic not in TOPICS:
+                current_key = None
                 continue
-            # Sub-headings (e.g. "Not at the Same Time:") — keep as text
+            current_key = topic
+            if topic not in sections:
+                tid, theading = TOPICS[topic]
+                sections[topic] = {'id': tid, 'heading': theading, 'lines': []}
+                order.append(topic)
+            continue
+
+        if ls.startswith('# '):
+            current_key = None
+            continue
+
         if current_key:
-            sections[current_key]['lines'].append(ls)
+            text_line = re.sub(r'^[*\-]\s+', '\u2022 ', ls)
+            text_line = re.sub(r'_(.+?)_', r'\1', text_line)
+            sections[current_key]['lines'].append(text_line)
 
     result_sections = []
-    for topic_key in ['SPRINT STARTS', "DEFENDER'S PADDLE", 'ILLEGAL HAND TACKLE']:
-        if topic_key in sections:
-            s = sections[topic_key]
-            result_sections.append({
-                'id': s['id'],
-                'heading': s['heading'],
-                'text': '\n'.join(l for l in s['lines'] if l),
-                'subsections': [],
-            })
+    for topic_key in order:
+        s = sections[topic_key]
+        result_sections.append({
+            'id': s['id'],
+            'heading': s['heading'],
+            'text': '\n'.join(l for l in s['lines'] if l),
+            'subsections': [],
+        })
 
     return {
         'chapter': 'clarifications',
         'title': 'Rule Clarifications',
         'sections': result_sections,
     }
-
 
 def main():
     print("Parsing rules markdown...")

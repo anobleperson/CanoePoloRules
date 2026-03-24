@@ -12,7 +12,7 @@ INTERNATIONAL CANOE FEDERATION
 
 ## Taking effect from 1 January 2025 
 
-ICF Canoe Polo Competition Rules 2025 2 of 134 
+
 
 ## **INTRODUCTION** 
 
@@ -36,7 +36,7 @@ These rules may be photocopied.
 
 The original version of this rule book can be found on the ICF website www.canoeicf.com. 
 
-ICF Canoe Polo Competition Rules 2025 3 of 134 
+
 
 ## **RULES STRUCTURE** 
 
@@ -48,7 +48,7 @@ ICF Canoe Polo Competition Rules 2025 3 of 134
 
 
 
-ICF Canoe Polo Competition Rules 2025 4 of 134 
+
 
 ## **RULES DECISION PROCESS** 
 
@@ -85,7 +85,7 @@ ICF Canoe Polo Competition Rules 2025 4 of 134
 
 
 
-ICF Canoe Polo Competition Rules 2025 5 of 134 
+
 
 ## **PROCEDURE FOR REVIEW OF ICF RULES** 
 
@@ -102,7 +102,7 @@ ICF Canoe Polo Competition Rules 2025 5 of 134
 
 
 
-ICF Canoe Polo Competition Rules 2025 6 of 134 
+
 
 ## GLOSSARY 
 
@@ -122,7 +122,7 @@ ICF Canoe Polo Competition Rules 2025 6 of 134
 
 
 
-ICF Canoe Polo Competition Rules 2025 7 of 134 
+
 
 |**Type of event**|• **Individual events:**A boat comprised of one (1) or more athletes<br>competing against other boats.<br>• **Team events:**two (2) or more boats competing together against other<br>teams.|
 |---|---|
@@ -137,7 +137,7 @@ ICF Canoe Polo Competition Rules 2025 7 of 134
 
 
 
-ICF Canoe Polo Competition Rules 2025 8 of 134 
+
 
 ## LIST OF ABBREVIATIONS 
 
@@ -149,29 +149,29 @@ ICF Canoe Polo Competition Rules 2025 8 of 134
 
 
 
-ICF Canoe Polo Competition Rules 2025 9 of 134 
+
 
 ## TABLE OF CONTENTS 
 
 **CHAPTER 1 - SPORT GOVERNANCE ................................................................... 15** 1.1 - International competitions .................................................... [CR] ......................................... 15 1.2 - International competition calendar ........................................ [CR] ......................................... 15 1.3 - Athlete eligibility for ICF competition (level 1 to 3)  ............... [CR] ......................................... 16 1.4 - Age group ............................................................................. [CR] ......................................... 17 1.5 - Athlete sporting nationality change ....................................... [CR] ......................................... 17 1.6 - Entries process ..................................................................... [CR] ......................................... 18 1.7 - Validity of a competition ....................................................... [CR] ......................................... 20 1.8 - ICF World Championships (level 1) ......................................... [CR] ......................................... 20 1.9 - Masters World Championships (level 4) ................................... [CR] ......................................... 22 1.10 - Anti-doping ......................................................................... [CR] ......................................... 22 1.11 - Appeal to the ICF Board of Directors .................................... [CR] ......................................... 22 1.12 - Disqualification for serious unsportsmanlike behaviour .......... [CR] ......................................... 23 1.13 - Results ............................................................................... [CR] ......................................... 23 1.14 - Trademarks and advertising ................................................. [CR] ......................................... 23 1.15 - International Technical Official (ITO) – examination .............. [CR] ......................................... 24 1.16 - ITO – nomination for ICF competitions .................................. [CR] ......................................... 25 **CHAPTER 2 - INTRODUCTION ........................................................................... 26** 2.1 - Objective ............................................................................. [PR] ......................................... 26 2.2 - International competitions .................................................... [PR] ......................................... 26 2.3 - Participating delegations ........................................................ [SR] ......................................... 26 2.4 - Host organising committee ..................................................... [SR] ......................................... 27 2.5 - Duties of the HOC .................................................................. [SR] ......................................... 27 **CHAPTER 3 - PLAYER EQUIPMENT .................................................................... 30** _**I - EQUIPMENT ..................................................................................................... 30**_ 3.1 - Kayaks ................................................................................. [PR] ......................................... 30 3.2 - Paddles ................................................................................. [SR] ......................................... 30 3.3 - Personal equipment ............................................................... [SR] ......................................... 30 3.4 - Exchanging equipment ........................................................... [SR] ......................................... 31 3.5 - Scrutineering ........................................................................ [SR] ......................................... 31 _**II - IDENTIFICATIONS ............................................................................................... 32**_ 3.6 - Identification ........................................................................ [SR] ......................................... 32 **CHAPTER 4 - COMPETITION PROGRAMME ............................................................ 33** 4.1 - Events .................................................................................. [PR] ......................................... 33 **CHAPTER 5 - COMPETITION FORMAT ................................................................. 34** 5.1 - Competition systems .............................................................. [SR] ......................................... 34 5.2 - Preliminary round .................................................................. [SR] ......................................... 34 5.3 - Intermediate round ................................................................ [SR] ......................................... 35 5.4 - Final round ............................................................................ [SR] ......................................... 35 5.5 - Procedure for deciding League points and positions ................. [SR] ......................................... 35 5.6 - Advancement to later rounds ................................................. [SR] ......................................... 36 5.7 - Tie breaking .......................................................................... [SR] ......................................... 36 
 
-ICF Canoe Polo Competition Rules 2025 10 of 134 
+
 
 **CHAPTER 6 - INVITATIONS AND ENTRIES ............................................................ 37** 6.1 - Form of communication ......................................................... [SR] ......................................... 37 6.2 - Invitations ............................................................................ [PR] ......................................... 37 6.3 - Entries policies ..................................................................... [PR] ......................................... 38 6.4 - Entries process ..................................................................... [PR] ......................................... 38 6.5 - Determination of events ......................................................... [SR] ......................................... 40 6.6 - Selection of entries ................................................................ [SR] ......................................... 40 6.7 - Advice of acceptance ............................................................. [SR] ......................................... 40 6.8 - Coaches and anti-doping rules ................................................ [SR] ......................................... 40 **CHAPTER 7 - COMPETITION OFFICIALS ............................................................... 41** _**I - THE OFFICIALS .................................................................................................. 41**_ 7.1 - Competition Committee ........................................................ [PR] ......................................... 41 7.2 - Competition Committee – duties ............................................. [SR] ......................................... 41 7.3 - Officials - definition ............................................................... [SR] ......................................... 42 7.4 - Officials – Appointment .......................................................... [SR] ......................................... 43 7.5 - Chief Official ......................................................................... [SR] ......................................... 43 7.6 - Competition Organiser ........................................................... [SR] ......................................... 43 7.7 - Technical Organiser ............................................................... [SR] ......................................... 44 7.8 - Referee Manager(s) ................................................................ [SR] ......................................... 44 7.9 - Chief Scrutineer .................................................................... [SR] ......................................... 45 7.10 - Chief Table Official .............................................................. [SR] ......................................... 45 7.11 - Timekeepers ........................................................................ [SR] ......................................... 46 7.12 - Scorekeepers ....................................................................... [SR] ......................................... 46 7.13 - Referees .............................................................................. [SR] ......................................... 46 7.14 - Goal Line Judge ................................................................... [SR] ......................................... 47 7.15 - Scrutineer ........................................................................... [SR] ......................................... 48 7.16 - Assistants ............................................................................ [SR] ......................................... 48 _**II - THE GAMES OFFICIALS .......................................................................................... 49**_ 7.17 - Games officials .................................................................... [SR] ......................................... 49 7.18 - Referees .............................................................................. [SR] ......................................... 49 7.19 - Goal Line Judges .................................................................. [SR] ......................................... 50 7.20 - Scrutineer ........................................................................... [SR] ......................................... 51 7.21 - Timekeepers ........................................................................ [SR] ......................................... 51 7.22 - Scorekeeper ........................................................................ [SR] ......................................... 52 **CHAPTER 8 - FIELD OF PLAY ........................................................................... 53** 8.1 - Layout .................................................................................. [SR] ......................................... 53 8.2 - Playing area – overview .......................................................... [SR] ......................................... 54 8.3 - Playing area – definition ......................................................... [SR] ......................................... 54 8.4 - Playing area boundaries and markers ...................................... [SR] ......................................... 54 8.5 - Goals .................................................................................... [SR] ......................................... 55 8.6 - Balls ..................................................................................... [SR] ......................................... 56 8.7 - Substitutes area .................................................................... [SR] ......................................... 56 8.8 - Referee’s area ....................................................................... [SR] ......................................... 57 8.9 - Warm-up area ....................................................................... [SR] ......................................... 57 8.10 - Officials area ....................................................................... [SR] ......................................... 57 8.11 - Coaches area ....................................................................... [SR] ......................................... 58 8.12 - Competition area ................................................................. [SR] ......................................... 58 
 
-ICF Canoe Polo Competition Rules 2025 11 of 134 
+
 
 **CHAPTER 9 - PRE-COMPETITION ....................................................................... 59** 9.1 - Competition schedule ............................................................ [SR] ......................................... 59 9.2 - Scrutineering ........................................................................ [SR] ......................................... 60 **CHAPTER 10 - COMPETITION ........................................................................... 61** _**I - GAME ............................................................................................................ 61**_ 10.1 - Number of players ................................................................ [SR] ......................................... 61 10.2 - Playing time ........................................................................ [SR] ......................................... 61 10.3 - Choice of end ...................................................................... [SR] ......................................... 61 10.4 - Commencement of play ........................................................ [SR] ......................................... 62 10.5 - Ball out of play .................................................................... [SR] ......................................... 63 10.6 - Time-out ............................................................................. [SR] ......................................... 64 10.7 - Live stream and time out ...................................................... [SR] ......................................... 65 10.8 - Scoring a goal ...................................................................... [SR] ......................................... 65 10.9 - Restart after goal ................................................................. [SR] ......................................... 66 10.10 - Defence of goal .................................................................. [SR] ......................................... 66 10.11 - Referee’s ball .................................................................... [SR] ......................................... 67 10.12 - Advantage ......................................................................... [SR] ......................................... 68 10.13 - Capsized player .................................................................. [SR] ......................................... 69 10.14 - Entry, re-entry, substitution and exchanging equipment ....... [SR] ......................................... 69 10.15 - Outside assistance or interference....................................... [SR] ......................................... 70 10.16 - Completion of play ............................................................ [SR] ......................................... 70 10.17 - Overtime ........................................................................... [SR] ......................................... 70 _**II - ILLEGAL-PLAY ................................................................................................... 71**_ 10.18 - Illegal substitution and entry to the playing area .................. [SR] ......................................... 71 10.19 - Illegal use of paddle ........................................................... [SR] ......................................... 71 10.20 - Illegal possession ............................................................... [SR] ......................................... 72 10.21 - Illegal hand tackle .............................................................. [SR] ......................................... 72 10.22 - Illegal kayak tackle ............................................................ [SR] ......................................... 73 10.23 - Illegal jostle....................................................................... [SR] ......................................... 74 10.24 - Illegal obstruction .............................................................. [SR] ......................................... 74 10.25 - Illegal holding .................................................................... [SR] ......................................... 75 10.26 - Unsporting behaviour .......................................................... [SR] ......................................... 76 10.27 - Dishonourable play ............................................................. [SR] ......................................... 77 _**III - SANCTIONS ..................................................................................................... 78**_ 10.28 - Sanctions – Definitions ........................................................ [SR] ......................................... 78 10.29 - Goal penalty shot ............................................................... [SR] ......................................... 79 10.30 - Free shot ........................................................................... [SR] ......................................... 79 10.31 - Free throw ......................................................................... [SR] ......................................... 80 10.32 - Sanction Card system ......................................................... [SR] ......................................... 80 10.33 - Power play – definition ....................................................... [SR] ......................................... 81 10.34 - Ejection red card ............................................................... [SR] ......................................... 81 10.35 - Green, yellow and red SANCTION Cards  .............................. [SR] ......................................... 82 10.36 - Team officials and coaches ................................................. [SR] ......................................... 83 _**IV - RESTART AFTER A SANCTION.................................................................................. 85**_ 10.37 - Taking throws .................................................................... [SR] ......................................... 85 10.38 - Taking a goal penalty shot .................................................. [SR] ......................................... 86 
 
-ICF Canoe Polo Competition Rules 2025 12 of 134 
+
 
 **CHAPTER 11 - POST-COMPETITION ................................................................... 88** 11.1 - Protest to Competition Committee ....................................... [PR] ......................................... 88 11.2 - Disciplinary action by the Competition Committee ................. [SR] ......................................... 90 11.3 - Results ................................................................................ [SR] ......................................... 91 **CHAPTER 12 - WORLD GAMES .......................................................................... 92** 12.1 - Qualification system - principles ........................................... [SR] ......................................... 92 12.2 - Competition format ............................................................. [SR] ......................................... 92 12.3 - Trademarks, advertising symbols and words ........................... [SR] ......................................... 93 12.4 - Playing area......................................................................... [SR] ......................................... 93 12.5 - Competition schedule ........................................................... [SR] ......................................... 93 12.6 - Referees .............................................................................. [SR] ......................................... 93 **CHAPTER 13 - WORLD CHAMPIONSHIPS .............................................................. 94** 13.1 - Organisation ....................................................................... [PR] ......................................... 94 13.2 - Competition programme ...................................................... [PR] ......................................... 94 13.3 - Competition format ............................................................. [SR] ......................................... 94 13.4 - Qualification phase for the World Championships ................... [SR] ......................................... 95 13.5 - Qualification system for World Championships ...................... [PR] ......................................... 95 13.6 - Entries ............................................................................... [PR] ......................................... 96 13.7 - Field of play ........................................................................ [SR] ......................................... 96 13.8 - The ball ............................................................................... [SR] ......................................... 96 13.9 - Competition Committeee .................................................... [PR] ......................................... 96 13.10 - Appointement of the officials .............................................. [SR] ......................................... 97 13.11 - Referees / Officials – APPOINTMENT  ................................... [SR] ......................................... 97 13.12 - Referees / Officials – Travel costs ...................................... [PR] ......................................... 98 13.13 - Competition schedule ......................................................... [SR] ......................................... 98 13.14 - Trademarks, advertising symbols and words ......................... [SR] ......................................... 99 13.15 - Identification ..................................................................... [SR] ......................................... 99 13.16 - Playing time ....................................................................... [SR] ......................................... 99 13.17 - Ejection red card in a final ................................................. [SR] ....................................... 100 13.18 - Appeal to the Jury ............................................................. [PR] ....................................... 100 13.19 - Awards ............................................................................. [PR] ....................................... 100 13.20 - Nations Cup ...................................................................... [PR] ....................................... 101 **CHAPTER 14 - INTERNATIONAL TECHNICAL OFFICIALS – TRAINING PATHWAY ............. 102** 14.1 - Definition ........................................................................... [PR] ....................................... 102 14.2 - International Canoe Polo official ........................................... [SR] ....................................... 102 14.3 - International Canoe Polo Referee .......................................... [SR] ....................................... 103 **CHAPTER 15 - REFEREE HAND SIGNALS ............................................................ 105** 15.1 - Definition ............................................................................ [SR] ....................................... 105 
 
-ICF Canoe Polo Competition Rules 2025 13 of 134 
+
 
 **CHAPTER 16 - EQUIPMENT AND SCRUTINERRING ................................................ 109** 16.1 - ICF Canoe Polo kayak manufacturers scheme ......................... [SR] ....................................... 109 16.2 - Kayak safety requirments ..................................................... [SR] ....................................... 111 16.3 - Kayak dimensions, measurements and gauges ........................ [SR] ....................................... 111 16.4 - Kayak gauges – requirements ................................................ [SR] ....................................... 115 16.5 - Kayak gauges - definition ...................................................... [SR] ....................................... 116 16.6 - Padding ............................................................................... [SR] ....................................... 119 16.7 - Paddle ................................................................................. [SR] ....................................... 122 16.8 - Paddle Gauge ...................................................................... [SR] ....................................... 122 16.9 - Helmet and facemask .......................................................... [SR] ....................................... 122 16.10 - Body protection ................................................................. [SR] ....................................... 124 16.11 - Scrutineering – major competitions ..................................... [SR] ....................................... 125 **CHAPTER 17 - SHOT CLOCK .......................................................................... 130** 17.1 - Definition ............................................................................ [SR] ....................................... 130 17.2 - Operation ............................................................................ [SR] ....................................... 131 17.3 - Visiblity and sound system .................................................... [SR] ....................................... 131 17.4 - Shot clock expiry ................................................................. [SR] ....................................... 132 17.5 - Shot clock reset ................................................................... [SR] ....................................... 132 **CHAPTER 18 - ICF CANOE POLO WORLD RANKING ............................................... 133** 18.1 - Principles ............................................................................ [SR] ....................................... 133 18.2 - Results and ranking management .......................................... [SR] ....................................... 133 18.3 - Points system....................................................................... [SR] ....................................... 133 **CHAPTER 19 - APPENDICES ........................................................................... 134** 19.1 - List of appendices ................................................................ [SR] ....................................... 134 19.2 - Validation ............................................................................ [SR] ....................................... 134 19.3 - Publication .......................................................................... [SR] ....................................... 134 
 
-ICF Canoe Polo Competition Rules 2025 14 of 134 
+
 
 ## **CHAPTER 1 - SPORT GOVERNANCE** 
 
@@ -206,7 +206,7 @@ ICF Canoe Polo Competition Rules 2025 14 of 134
 
 1.2.3 - A calendar application for an international competition level 1 and level 2 is outlined in the ICF statutes. 
 
-ICF Canoe Polo Competition Rules 2025 15 of 134 
+
 
 1.2.4 - A calendar application for an international competition level 3 (if applicable) and level 4 can be made by the following process: 
 
@@ -234,7 +234,7 @@ ICF Canoe Polo Competition Rules 2025 15 of 134
 
 1.3.4 - Each National Federation must ensure that their athletes, team officials, as well as the National Federation itself, carry appropriate health, accident, and personal belongings insurance. 
 
-ICF Canoe Polo Competition Rules 2025 16 of 134 
+
 
 ## **1.4 - AGE GROUP** 
 
@@ -266,7 +266,7 @@ ICF Canoe Polo Competition Rules 2025 16 of 134
 
 1.5.3 - An athlete who is aged 18 or under can change sporting nationality with the approval of the two (2) National Federations involved.  He/she is not required to fulfil the one (1) year residency rule. 
 
-ICF Canoe Polo Competition Rules 2025 17 of 134 
+
 
 1.5.4 - The request for the change of sporting nationality must be made to the ICF by the new National Federation no later than 30[th] of November the year before the athlete wants to compete. 
 
@@ -302,7 +302,7 @@ ICF Canoe Polo Competition Rules 2025 17 of 134
 
 - The country of birth of the athlete(s); 
 
-ICF Canoe Polo Competition Rules 2025 18 of 134 
+
 
 - The gender of the athlete(s); 
 
@@ -344,7 +344,7 @@ ICF Canoe Polo Competition Rules 2025 18 of 134
 
 1.6.2.d - The HOC must acknowledge in writing or electronically the receipt of each entry within two (2) days. 
 
-ICF Canoe Polo Competition Rules 2025 19 of 134 
+
 
 ## **1.7 - VALIDITY OF A COMPETITION** 
 
@@ -376,7 +376,7 @@ ICF Canoe Polo Competition Rules 2025 19 of 134
 
 1.8.3 - The ICF Board of Directors will determine the competition programme, based on the recommendation of the concerned Technical Committee. 
 
-ICF Canoe Polo Competition Rules 2025 20 of 134 
+
 
 1.8.4 - The competition schedule is the responsibility of the ICF. The ICF will consider the broadcasting needs and / or other external factors affecting the schedule. 
 
@@ -414,7 +414,7 @@ ICF Canoe Polo Competition Rules 2025 20 of 134
 
 1.8.7.b - The ranking list will be produced according to the system defined for each discipline. 
 
-ICF Canoe Polo Competition Rules 2025 21 of 134 
+
 
 ## **1.9 - MASTERS WORLD CHAMPIONSHIPS (LEVEL 4)** 
 
@@ -448,7 +448,7 @@ ICF Canoe Polo Competition Rules 2025 21 of 134
 
 1.11.4 - The ICF Board of Directors makes its decision and addresses it in writing to the National Federation. 
 
-ICF Canoe Polo Competition Rules 2025 22 of 134 
+
 
 ## **1.12 - DISQUALIFICATION FOR SERIOUS UNSPORTSMANLIKE BEHAVIOUR [CR]** 
 
@@ -480,7 +480,7 @@ ICF Canoe Polo Competition Rules 2025 22 of 134
 
 1.14.2 - Boats/boards, accessories and clothing may carry trademarks, advertising symbols and written text. 
 
-ICF Canoe Polo Competition Rules 2025 23 of 134 
+
 
 1.14.3 - Images, symbols, slogans and written text unrelated to sport funding or any political messages are not permitted. 
 
@@ -512,7 +512,7 @@ ICF Canoe Polo Competition Rules 2025 23 of 134
 
 1.15.3.a - A sub-committee, appointed by the concerned Technical Chair, will administer the examination; 
 
-ICF Canoe Polo Competition Rules 2025 24 of 134 
+
 
 1.15.3.b - The examination will be carried out in English for officials who wish to be considered as officials for ICF competitions and will be based on their knowledge of the ICF statutes and the ICF rules. Each discipline may add a practical assessment or minimum experience requirement; 
 
@@ -542,7 +542,7 @@ ICF Canoe Polo Competition Rules 2025 24 of 134
 
 - 1.16.4 - The Technical Chair will present a list of Officials to the ICF Board of Directors for their approval at the latest by 1[st] of March. 
 
-ICF Canoe Polo Competition Rules 2025 25 of 134 
+
 
 ## **CHAPTER 2 - INTRODUCTION** 
 
@@ -579,7 +579,7 @@ The aim of Canoe Polo is a competitive ball game between two (2) teams, each of 
 
 2.3.2 - Team Leader: For every competition a National Federation or club will appoint a Team Leader who is responsible for the delegation during the competition. 
 
-ICF Canoe Polo Competition Rules 2025 26 of 134 
+
 
 ## 2.3.3 - Players 
 
@@ -629,7 +629,7 @@ For each competition the host National Federation will appoint a Host Organising
 
 - Appointing a Competition Organiser to liaise with the Competition Committee. 
 
-ICF Canoe Polo Competition Rules 2025 27 of 134 
+
 
 ## 2.5.3 - The HOC will: 
 
@@ -657,7 +657,7 @@ ICF Canoe Polo Competition Rules 2025 27 of 134
 
 2.5.3.l - Arrange for the recording of the results of each game and compile the results of games into a league table or knockout diagram as required; 
 
-ICF Canoe Polo Competition Rules 2025 28 of 134 
+
 
 2.5.3.m - Arrange for the updating of the programme with actual team names where these are dependent on the results of the game; 
 
@@ -665,7 +665,7 @@ ICF Canoe Polo Competition Rules 2025 28 of 134
 
 2.5.3.o - All matters relating to Invitations and entries, undertaken by the HOC, are supervised by the Competition Organisers and are subject to the approval of the Competition Committee. 
 
-ICF Canoe Polo Competition Rules 2025 29 of 134 
+
 
 ## **CHAPTER 3 - PLAYER EQUIPMENT** 
 
@@ -699,7 +699,7 @@ _**I - Equipment**_
 
 3.3.3 - Each team member must wear a shirt of the same colour, with sleeves, which at least covers the mid upper arm. The players cannot have any slippery substance on their arms and neck. 
 
-ICF Canoe Polo Competition Rules 2025 30 of 134 
+
 
 3.3.4 - Beside the equipment and clothing listed above, personal clothing and effects, and a spray deck for the player is permitted. Extra protective equipment on the hands, forearm and elbows is permitted provided it is firm fitting, securely attached and with no sharp edges such that they do not endanger any other player. No other equipment is permitted. A player must not wear any items (such as jewellery) that can endanger either the wearer or any other player. 
 
@@ -721,7 +721,7 @@ Each player is permitted to leave the playing area and exchange any piece of equ
 
 3.5.2 - A Referee must dismiss from the playing area, once aware of the infringement, any player whose equipment is in breach of the rules, either at the first break in play or immediately if the equipment has become dangerous for the players. 
 
-ICF Canoe Polo Competition Rules 2025 31 of 134 
+
 
 ## _**II - Identifications**_ 
 
@@ -737,7 +737,7 @@ ICF Canoe Polo Competition Rules 2025 31 of 134
 
 3.6.4 - The numbers will be clearly legible to the Referees from anywhere on the field and must clearly individually identify each player in a team. A number at least 20 cm high must be on the back of the body. A number at least 10 cm height must be on the front of the body. Numbers at least 7.5 cm high must be on each side of the helmet. The captain of each team must be distinguished from the rest of the team by an armband. 
 
-ICF Canoe Polo Competition Rules 2025 32 of 134 
+
 
 ## **CHAPTER 4 - COMPETITION PROGRAMME** 
 
@@ -757,7 +757,7 @@ ICF Canoe Polo Competition Rules 2025 32 of 134
 
 
 
-ICF Canoe Polo Competition Rules 2025 33 of 134 
+
 
 ## **CHAPTER 5 - COMPETITION FORMAT** 
 
@@ -785,7 +785,7 @@ ICF Canoe Polo Competition Rules 2025 33 of 134
 
 5.2.2.c - In a competition with more than one (1) round, all teams in a group will play each other at least once in a league system. At the completion of this round, the teams are ranked in each group according to their results. The top two (2) or more teams from each group will progress to subsequent rounds of competition. 
 
-ICF Canoe Polo Competition Rules 2025 34 of 134 
+
 
 ## **5.3 - INTERMEDIATE ROUND** 
 
@@ -813,7 +813,7 @@ ICF Canoe Polo Competition Rules 2025 34 of 134
 
 5.5.3 - Three (3) points are awarded for a win, one (1) point for a draw, and zero (0) points for a loss. Where a team is unable to play a game or forfeits a game, they will be awarded no points and the score will be recorded as a 7-0 loss for the forfeiting team. 
 
-ICF Canoe Polo Competition Rules 2025 35 of 134 
+
 
 5.5.4 - Where two (2) or more teams have gained the same number of points, they will be ranked in order according to the following procedures: 
 
@@ -847,7 +847,7 @@ The competition system selected for an event determines the number of teams from
 
 Where a game is tied at the end of normal playing time and a result is required then Overtime (see article 10.17) will be played to obtain a result. 
 
-ICF Canoe Polo Competition Rules 2025 36 of 134 
+
 
 ## **CHAPTER 6 - INVITATIONS AND ENTRIES** 
 
@@ -895,7 +895,7 @@ ICF Canoe Polo Competition Rules 2025 36 of 134
 
 6.2.4 - Information regarding publicity, progress, and details of entries received or indicated etc. must be provided on request. 
 
-ICF Canoe Polo Competition Rules 2025 37 of 134 
+
 
 ## **6.3 - ENTRIES POLICIES** 
 
@@ -927,7 +927,7 @@ ICF Canoe Polo Competition Rules 2025 37 of 134
 
 - Where the entry of one (1) team is conditional upon the acceptance for entry of another team, this must be clearly specified in the application for entry 
 
-ICF Canoe Polo Competition Rules 2025 38 of 134 
+
 
 ## 6.4.2 - Final application 
 
@@ -957,7 +957,7 @@ ICF Canoe Polo Competition Rules 2025 38 of 134
 
 6.4.5 - No changes may be made to team details after completion of the accreditation process, or the Team Leaders meeting if there is no formal accreditation process. 
 
-ICF Canoe Polo Competition Rules 2025 39 of 134 
+
 
 ## **6.5 - DETERMINATION OF EVENTS** 
 
@@ -987,7 +987,7 @@ If more teams enter a competition than can be accommodated, due to the categorie
 
 Coaches entered in any ICF competition or Continental Championships will be required before coaching to complete the ICF’s Anti-Doping Education Programme or equivalent following ICF requirements. 
 
-ICF Canoe Polo Competition Rules 2025 40 of 134 
+
 
 ## **CHAPTER 7 - COMPETITION OFFICIALS** 
 
@@ -1025,7 +1025,7 @@ The overall control of any competition is in the hands of a Competition Committe
 
 7.2.5 - Decide action in cases where any regulations are broken. Decisions will be based on the ICF Canoe Polo Rules. Penalties in accordance with the ICF Statutes may also be imposed. For example, disqualification for a longer period than the duration of the competition in question. 
 
-ICF Canoe Polo Competition Rules 2025 41 of 134 
+
 
 ## **7.3 - OFFICIALS - DEFINITION** 
 
@@ -1061,7 +1061,7 @@ ICF Canoe Polo Competition Rules 2025 41 of 134
 
 7.3.4 - Where possible, all games must be refereed by neutral Referees, i.e. from countries other than those represented by the two (2) teams playing, except if the two (2) teams are from the same country. If this is not possible then one (1) Referee should be from each country involved in the game. 
 
-ICF Canoe Polo Competition Rules 2025 42 of 134 
+
 
 ## **7.4 - OFFICIALS – APPOINTMENT** 
 
@@ -1095,7 +1095,7 @@ As Chairperson of the Competition Committee the Chief Official has:
 
 The Competition Organiser is responsible for co-ordinating the HOC in both fulfilling its obligations to the Competition Committee and achieving its own objectives in hosting the competition. 
 
-ICF Canoe Polo Competition Rules 2025 43 of 134 
+
 
 ## **7.7 - TECHNICAL ORGANISER** 
 
@@ -1133,7 +1133,7 @@ The Referee Manager(s) will:
 
 7.8.4 - Ensure all Game Officials are briefed as necessary; 
 
-ICF Canoe Polo Competition Rules 2025 44 of 134 
+
 
 7.8.5 - Pass on to the Chief Official all written reports from Referees on incidents where disciplinary action is requested and request that the Competition Committee consider disciplinary action against players for repeated offences. 
 
@@ -1165,7 +1165,7 @@ The Chief Table Official will:
 
 - 7.10.3 - Ensure that the HOC provides results to the official notice board, Team Leaders, officials and Jury. 
 
-ICF Canoe Polo Competition Rules 2025 45 of 134 
+
 
 ## **7.11 - TIMEKEEPERS** 
 
@@ -1203,7 +1203,7 @@ The Scorekeepers will:
 
 7.13.3.a - Provide their own equipment; Referees will wear either black or white shirt and black shorts or trousers. Referees should also wear sports shoes or appropriate alternatives. Both Referees must appear similar - both wearing either a black or white shirt but not one (1) of each. 
 
-ICF Canoe Polo Competition Rules 2025 46 of 134 
+
 
 7.13.3.b - Provide written reports (one (1) from each Referee) to the Referee Manager(s) of all incidents resulting in a player being sent off, immediately upon completion of the game in which the incident occurred. Such report should include any request for further disciplinary action; 
 
@@ -1237,7 +1237,7 @@ ICF Canoe Polo Competition Rules 2025 46 of 134
 
 7.14.2.d - Not officiate for more than two (2) games in succession. 
 
-ICF Canoe Polo Competition Rules 2025 47 of 134 
+
 
 ## **7.15 - SCRUTINEER** 
 
@@ -1253,7 +1253,7 @@ ICF Canoe Polo Competition Rules 2025 47 of 134
 
 The Chief Official, Competition Organiser, Technical Organiser, Referee Manager/s, Chief Scrutineer and Chief Table Official may appoint people to assist them in the conduct of their duties, but they may not hand over their responsibilities to these Assistants. 
 
-ICF Canoe Polo Competition Rules 2025 48 of 134 
+
 
 ## _**II - The games officials**_ 
 
@@ -1279,7 +1279,7 @@ ICF Canoe Polo Competition Rules 2025 48 of 134
 
 7.18.5 - The Referees have the power to abandon the game at any time if, in their opinion, the behaviour of the players, team-officials or other circumstances prevent it from being brought to a proper conclusion. If the game has to be abandoned the Referees must report their actions to the Chief Official and the team that causes the game to be abandoned will be disqualified from the competition. 
 
-ICF Canoe Polo Competition Rules 2025 49 of 134 
+
 
 7.18.6 - If the game being abandoned is the Grand Final (1[st] /2[nd] place) or 3[rd] /4[th] playoff the offending team will be disqualified from entering the next major championships. 
 
@@ -1309,7 +1309,7 @@ ICF Canoe Polo Competition Rules 2025 49 of 134
 
 7.19.4 - Each Goal Line Judge will be provided by the HOC with a supply of balls of the correct size. When the original ball has gone outside the field of play, they will throw a new ball, when directed by the Referee, to the goalkeeper (for a goal throw) or to the nearest player of the attacking team (for a corner throw). 
 
-ICF Canoe Polo Competition Rules 2025 50 of 134 
+
 
 7.19.5 - Static cameras linked to the officials table may be used instead of Goal Line Judges. In this case if infringement occurs a table official (the person with headset in communication with the Referees if possible) will raise a red flag and notify the Referee. 
 
@@ -1341,7 +1341,7 @@ ICF Canoe Polo Competition Rules 2025 50 of 134
 
 7.21.4 - The first Timekeepers will perform the duties stated in 7.21.2.a and 7.21.2.b and the second Timekeeper will perform 7.21.2.c and 7.21.2.d. 
 
-ICF Canoe Polo Competition Rules 2025 51 of 134 
+
 
 **[SR]** 
 
@@ -1355,7 +1355,7 @@ ICF Canoe Polo Competition Rules 2025 51 of 134
 
 7.22.2.b - Maintain the record of the game, including the players, the score, time-outs, green, yellow and red cards awarded against each player. 
 
-ICF Canoe Polo Competition Rules 2025 52 of 134 
+
 
 ## **CHAPTER 8 - FIELD OF PLAY** 
 
@@ -1367,7 +1367,7 @@ ICF Canoe Polo Competition Rules 2025 52 of 134
 ![](images/2025_icf_canoe_polo_rules.pdf-0053-03.png)
 
 
-ICF Canoe Polo Competition Rules 2025 53 of 134 
+
 
 ## **8.2 - PLAYING AREA – OVERVIEW** 
 
@@ -1401,7 +1401,7 @@ ICF Canoe Polo Competition Rules 2025 53 of 134
 
 8.4.3 - Markers indicating the goal lines, centre line, six (6) metre and four (4) metre points from each goal line are to be placed along the sidelines and be clearly visible to both Referees and players. 
 
-ICF Canoe Polo Competition Rules 2025 54 of 134 
+
 
 8.4.4 - Markers indicating the substitute areas are to be placed on the goal lines four (4) metres either side of the centre of the goal frame and be clearly visible to both Referees and players. 
 
@@ -1431,7 +1431,7 @@ ICF Canoe Polo Competition Rules 2025 54 of 134
 
 8.5.2.f - For venues involving multiple fields all goals must be identical. 
 
-ICF Canoe Polo Competition Rules 2025 55 of 134 
+
 
 ## 8.5.3 - Net 
 
@@ -1467,7 +1467,7 @@ ICF Canoe Polo Competition Rules 2025 55 of 134
 
 8.7.2 - These are reserved during a game for substitutes waiting to take part in a game. 
 
-ICF Canoe Polo Competition Rules 2025 56 of 134 
+
 
 ## **8.8 - REFEREE’S AREA** 
 
@@ -1497,7 +1497,7 @@ ICF Canoe Polo Competition Rules 2025 56 of 134
 
 8.10.2 - Only people directly involved in the game in progress or the game about to commence (officials, players, listed team personnel such as coach, manager, doctor) or accredited media representatives, are permitted in the officials’ area during a competition. 
 
-ICF Canoe Polo Competition Rules 2025 57 of 134 
+
 
 ## **8.11 - COACHES AREA** 
 
@@ -1521,7 +1521,7 @@ ICF Canoe Polo Competition Rules 2025 57 of 134
 
 8.12.3 - Any official may request the removal from this area of people interfering with the smooth running of the competition. 
 
-ICF Canoe Polo Competition Rules 2025 58 of 134 
+
 
 ## **CHAPTER 9 - PRE-COMPETITION** 
 
@@ -1549,7 +1549,7 @@ ICF Canoe Polo Competition Rules 2025 58 of 134
 
 9.1.11 - A team must play at least one (1) game on the same day as and prior to playing in a grand final. 
 
-ICF Canoe Polo Competition Rules 2025 59 of 134 
+
 
 ## **9.2 - SCRUTINEERING** 
 
@@ -1565,7 +1565,7 @@ ICF Canoe Polo Competition Rules 2025 59 of 134
 
 9.2.5 - A Referee must dismiss from the playing area, once aware of the infringement, any player whose equipment is in breach of the rules, either at the first break in play or immediately if the equipment is potentially dangerous. 
 
-ICF Canoe Polo Competition Rules 2025 60 of 134 
+
 
 ## **CHAPTER 10 - COMPETITION** 
 
@@ -1601,7 +1601,7 @@ ICF Canoe Polo Competition Rules 2025 60 of 134
 
 The first named team on the game sheet will start on the goal line at the lefthand side of the official table unless one (1) of the captains or the Chief Official request a toss of a coin to determine the choice of ends. 
 
-ICF Canoe Polo Competition Rules 2025 61 of 134 
+
 
 ## **10.4 - COMMENCEMENT OF PLAY** 
 
@@ -1623,7 +1623,7 @@ ICF Canoe Polo Competition Rules 2025 61 of 134
 
 10.4.8 - Only one (1) player from each team may make an attempt to gain possession of the ball. All other players must not be within a radius of three (3) metres from the body of the player attempting for the ball until one (1) player has touched the ball with their hand/s. Infringement incurs a free shot. Signals 1 and 15 apply. 
 
-ICF Canoe Polo Competition Rules 2025 62 of 134 
+
 
 **[SR]** 
 
@@ -1651,7 +1651,7 @@ ICF Canoe Polo Competition Rules 2025 62 of 134
 
 10.5.3.c - The player taking the throw must be positioned with their kayak in the corner of the playing area. 
 
-ICF Canoe Polo Competition Rules 2025 63 of 134 
+
 
 ## **10.6 - TIME-OUT** 
 
@@ -1671,7 +1671,7 @@ ICF Canoe Polo Competition Rules 2025 63 of 134
 
 10.6.7 - If the Referee cannot determine who had possession at the time of the whistle, the Referee will restart the game with a Referee’s ball. Signal 8 applies. 
 
-ICF Canoe Polo Competition Rules 2025 64 of 134 
+
 
 ## **10.7 - LIVE STREAM AND TIME OUT** 
 
@@ -1701,7 +1701,7 @@ ICF Canoe Polo Competition Rules 2025 64 of 134
 
 10.8.2 - If the ball is prevented from entering a goal by either a defender's or substitutes paddle that enters the goal from behind, then a goal is awarded. 
 
-ICF Canoe Polo Competition Rules 2025 65 of 134 
+
 
 ## **10.9 - RESTART AFTER GOAL** 
 
@@ -1725,7 +1725,7 @@ ICF Canoe Polo Competition Rules 2025 65 of 134
 
 10.10.4 - If the defender has an opportunity to avoid contact with the goalkeeper after being pushed, but does not, the attacker **will not be** penalised. 
 
-ICF Canoe Polo Competition Rules 2025 66 of 134 
+
 
 10.10.5 - If a defender pushes the attacker onto the goalkeeper, then the attacker **will not be** penalised. 
 
@@ -1747,7 +1747,7 @@ ICF Canoe Polo Competition Rules 2025 66 of 134
 
 10.11.3 - If the Referee needs to stop the game, not during a break in play and where neither team is at fault (e.g. Referee error, faulty goals, injury) and the Referee cannot determine who had possession at the time of the whistle, the Referee will restart the game with a Referee’ s ball. 
 
-ICF Canoe Polo Competition Rules 2025 67 of 134 
+
 
 10.11.4 - A Referees ball will be taken at the nearest point on the sideline to the incident. Where a Referee’s ball is awarded for an incident that occurs between the six (6) metre line and the goal line, the Referee’s ball will be held at the nearest six (6) metre line. Signal 8 and Time-out applies. 
 
@@ -1767,7 +1767,7 @@ ICF Canoe Polo Competition Rules 2025 67 of 134
 
 10.12.3 - When playing advantage, if the next pass or shot is affected by the original foul or there is no clear advantage to the fouled team, the original infringement must be called, and appropriate sanction(s) and signals given. The Referee is to indicate where the sanction should be taken. 
 
-ICF Canoe Polo Competition Rules 2025 68 of 134 
+
 
 ## **10.13 - CAPSIZED PLAYER** 
 
@@ -1793,7 +1793,7 @@ ICF Canoe Polo Competition Rules 2025 68 of 134
 
 10.14.5 - Each player is permitted to leave the playing area and exchange any piece of equipment, at any time during the game, provided the equipment has been approved by the Scrutineer. The player concerned must collect equipment being exchanged from their substitute’s area. 
 
-ICF Canoe Polo Competition Rules 2025 69 of 134 
+
 
 ## **10.15 - OUTSIDE ASSISTANCE OR INTERFERENCE** 
 
@@ -1821,7 +1821,7 @@ No electrical assistance may be used to direct or communicate with the players d
 
 10.17.2 - There must be a three (3) minute break before overtime commences and a one (1) minute break between periods, with a change of ends. 
 
-ICF Canoe Polo Competition Rules 2025 70 of 134 
+
 
 ## _**II - Illegal-play**_ 
 
@@ -1853,7 +1853,7 @@ ICF Canoe Polo Competition Rules 2025 70 of 134
 
 10.19.9 - Any other use of a paddle that endangers a player. 
 
-ICF Canoe Polo Competition Rules 2025 71 of 134 
+
 
 ## **10.20 - ILLEGAL POSSESSION** 
 
@@ -1885,7 +1885,7 @@ ICF Canoe Polo Competition Rules 2025 71 of 134
 
 10.21.2.c - Any hand-tackle, which endangers the tackled player. 
 
-ICF Canoe Polo Competition Rules 2025 72 of 134 
+
 
 10.21.2.d - Any hand-tackle from the side or from behind, that either strikes or pulls back the throwing arm of a player who is in the process of throwing or passing the ball. 
 
@@ -1911,7 +1911,7 @@ ICF Canoe Polo Competition Rules 2025 72 of 134
 
 10.22.3.f - Tackling an opponent when the tackler is not competing for the ball. 
 
-ICF Canoe Polo Competition Rules 2025 73 of 134 
+
 
 ## **10.23 - ILLEGAL JOSTLE** 
 
@@ -1937,7 +1937,7 @@ ICF Canoe Polo Competition Rules 2025 73 of 134
 
 10.24.2.b - A player who is not competing for the ball who actively impedes the progress of an opponent who is competing for the ball on the water and not in the air. 
 
-ICF Canoe Polo Competition Rules 2025 74 of 134 
+
 
 **[SR]** 
 
@@ -1957,7 +1957,7 @@ ICF Canoe Polo Competition Rules 2025 74 of 134
 
 10.25.2.e - A defending player using one or both hands that results in contact with the opponents arm, or with the ball that is still in contact with the opponents hand, while they are in the act of shooting or passing, that affects the throwing action of the opponent. If the player who is attempting a shot or pass contacts the stationary hands or arms of a defending player, as part of the throwing action, the defending player will not be penalised. 
 
-ICF Canoe Polo Competition Rules 2025 75 of 134 
+
 
 ## **10.26 - UNSPORTING BEHAVIOUR** 
 
@@ -1985,7 +1985,7 @@ ICF Canoe Polo Competition Rules 2025 75 of 134
 
 10.26.2.i - Bouncing the ball out of play off an opponent's kayak to gain advantage. 
 
-ICF Canoe Polo Competition Rules 2025 76 of 134 
+
 
 ## **10.27 - DISHONOURABLE PLAY** 
 
@@ -1999,7 +1999,7 @@ ICF Canoe Polo Competition Rules 2025 76 of 134
 
 10.27.4 - Any team member, team official or delegation member who approaches any other designated official e.g. Referee Manager/s about the appointment or performance of Referees will immediately be referred to the Competition Committee for disciplinary action which may result in that team being disqualified from the competition. 
 
-ICF Canoe Polo Competition Rules 2025 77 of 134 
+
 
 ## _**III - Sanctions**_ 
 
@@ -2027,7 +2027,7 @@ ICF Canoe Polo Competition Rules 2025 77 of 134
 
 10.28.3.g - Team possession: a team is considered to have team possession and therefore be the attacking team if any member of that team has possession or control of the ball. 
 
-ICF Canoe Polo Competition Rules 2025 78 of 134 
+
 
 ## **10.29 - GOAL PENALTY SHOT** 
 
@@ -2055,7 +2055,7 @@ ICF Canoe Polo Competition Rules 2025 78 of 134
 
 10.30.3 - A free shot will be awarded for any foul on a player unless a goal penalty shot is awarded. 
 
-ICF Canoe Polo Competition Rules 2025 79 of 134 
+
 
 **[SR]** 
 
@@ -2087,7 +2087,7 @@ ICF Canoe Polo Competition Rules 2025 79 of 134
 
 10.32.5 - A player receiving a Red Card or Ejection Red Card during a competition can be referred to the Competition Committee for further disciplinary action by either Referee if they feel further action or sanctions are necessary. 
 
-ICF Canoe Polo Competition Rules 2025 80 of 134 
+
 
 ## **10.33 - POWER PLAY – DEFINITION** 
 
@@ -2117,7 +2117,7 @@ ICF Canoe Polo Competition Rules 2025 80 of 134
 
 10.34.4 - A player receiving an Ejection Red Card during a competition will automatically receive a one (1) game suspension and be unable to take part in the next game in that competition 
 
-ICF Canoe Polo Competition Rules 2025 81 of 134 
+
 
 10.34.5 - An Ejection Red Card will be awarded to any player, coach or team official who approaches or talks to any referee or game official in a threatening, abusive or aggressive way during or after a game while in the field of play or competition area. 
 
@@ -2143,7 +2143,7 @@ ICF Canoe Polo Competition Rules 2025 81 of 134
 
 10.35.10 - Players sent off must obey the rules of entry to the playing area for re-entry at the completion of the send-off period. 
 
-ICF Canoe Polo Competition Rules 2025 82 of 134 
+
 
 ## **10.36 - TEAM OFFICIALS AND COACHES** 
 
@@ -2173,7 +2173,7 @@ ICF Canoe Polo Competition Rules 2025 82 of 134
 
 10.36.7 - An Ejection Red Card will be the next card awarded to a coach or team official after a green card warning has been given to any coach or team official from that team. Signal  20 with red card applies. 
 
-ICF Canoe Polo Competition Rules 2025 83 of 134 
+
 
 10.36.8 - A coach or team official receiving an Ejection Red Card must immediately leave the competition area and cannot be replaced. The game will not continue until they have left the competition area and they may take no further part in the game and cannot communicate with the players and coaches remaining. 
 
@@ -2181,7 +2181,7 @@ ICF Canoe Polo Competition Rules 2025 83 of 134
 
 10.36.10 - A team coach or team official receiving an Ejection Red Card during a competition will automatically receive a one (1) game suspension and be unable to take part in the next game in that competition. The individual must stay outside of the competition area and the spectator’s area during this game and cannot communicate with the players and coaches remaining during these games. 
 
-ICF Canoe Polo Competition Rules 2025 84 of 134 
+
 
 _**IV - Restart after a sanction**_ 
 
@@ -2197,7 +2197,7 @@ _**IV - Restart after a sanction**_
 
 10.37.4 - The player must throw the ball within five (5) seconds of being in possession and in a position to take the throw. The five (5) seconds for the restart applies from when any member of the team is in a position to pick up the ball and take the throw. Any dropping or fumbling of the ball will not be considered, provided the initial throw is taken within the five (5) seconds. Infringement incurs a sanction with the opposing team awarded possession of the ball. Signals 11 and 14 applies. 
 
-ICF Canoe Polo Competition Rules 2025 85 of 134 
+
 
 10.37.5 - Following an infringement that led to the awarding of a free shot or free throw, the Referee will indicate where the free shot or free throw will be taken. The free shot or free throw will be taken: either where the infringement occurred, or where the ball was at the time of the infringement, or where the ball landed if it was in flight at the time of the infringement, whichever most advantages the team. 
 
@@ -2223,13 +2223,13 @@ ICF Canoe Polo Competition Rules 2025 85 of 134
 
 10.38.6 - General Play will resume for all players on the field once the ball has left the hand of the player taking the penalty. 
 
-ICF Canoe Polo Competition Rules 2025 86 of 134 
+
 
 10.38.7 - The player taking the shot can play the ball again if the shot is blocked by the keeper or rebounds off the goal frame back into the field of play. 
 
 10.38.8 - The person committing the foul that caused the penalty must be given a sanction card (or direct red if appropriate). 
 
-ICF Canoe Polo Competition Rules 2025 87 of 134 
+
 
 ## **CHAPTER 11 - POST-COMPETITION** 
 
@@ -2259,7 +2259,7 @@ ICF Canoe Polo Competition Rules 2025 87 of 134
 
 11.1.6 - Nothing in the rules prevents the withdrawal of a protest by a Team Leader at any time by writing to the Chief Official. 
 
-ICF Canoe Polo Competition Rules 2025 88 of 134 
+
 
 11.1.7 - On receipt of a protest in accordance with the rules, the Chief Official must immediately forward the notice of protest and any accompanying documents to the Competition Committee. 
 
@@ -2289,7 +2289,7 @@ or
 
 11.1.12 - Following consideration of all relevant and available information, the Competition Committee must arrive at a finding. A decision of the Competition Committee can be by a majority decision. The Competition Committee may: 
 
-ICF Canoe Polo Competition Rules 2025 89 of 134 
+
 
 11.1.12.a - Disqualify a team or exclude them from further competition. 
 
@@ -2319,7 +2319,7 @@ or
 
 11.2.2.d - May request or require the summoned delegation member or any other witness to attend the meeting or provide such evidence as is available. 
 
-ICF Canoe Polo Competition Rules 2025 90 of 134 
+
 
 11.2.3 - Following consideration of all relevant and available information, the Competition Committee must arrive at a finding.  A decision of the Competition Committee can be by a majority decision. The Competition Committee may: 
 
@@ -2339,7 +2339,7 @@ ICF Canoe Polo Competition Rules 2025 90 of 134
 
 The HOC should send the results of each competition within ten (10) days to the ICF Canoe Polo Committee, to each National Federation with teams participating, and to each Team Leader where non-national teams are concerned. 
 
-ICF Canoe Polo Competition Rules 2025 91 of 134 
+
 
 ## **CHAPTER 12 - WORLD GAMES** 
 
@@ -2367,7 +2367,7 @@ Rules in this chapter, specifically for World Games are in addition to, or to ov
 
 12.2.2 - The seeding for the first round will be in accordance with the result of most recent ICF Canoe Polo World Championships prior to the World Games. 
 
-ICF Canoe Polo Competition Rules 2025 92 of 134 
+
 
 ## **12.3 - TRADEMARKS, ADVERTISING SYMBOLS AND WORDS** 
 
@@ -2407,7 +2407,7 @@ The use of existing facilities by the IWGA may necessitate variation to the fiel
 
 12.6.3 - Details of fees and associated regulations for World Games will be communicated by the ICF. 
 
-ICF Canoe Polo Competition Rules 2025 93 of 134 
+
 
 ## **CHAPTER 13 - WORLD CHAMPIONSHIPS** 
 
@@ -2447,7 +2447,7 @@ World Championships will be held for the following events:
 
 13.3.2 - The seeding for the first round will be in accordance with the ICF Canoe Polo World Ranking (see chapter 18). 
 
-ICF Canoe Polo Competition Rules 2025 94 of 134 
+
 
 ## **13.4 - QUALIFICATION PHASE FOR THE WORLD CHAMPIONSHIPS** 
 
@@ -2481,7 +2481,7 @@ ICF Canoe Polo Competition Rules 2025 94 of 134
 
 13.5.3 - Except in the case of extenuating circumstances as determined in the sole discretion of the ICF Canoe Polo Committee, any team withdrawing from a World Championship after accepting the allocated place by the ICF will not be eligible to enter the next World Championship. They are eligible for Continental Championships but cannot re-qualify via the continental place. 
 
-ICF Canoe Polo Competition Rules 2025 95 of 134 
+
 
 ## **13.6 - ENTRIES** 
 
@@ -2519,7 +2519,7 @@ The ICF Canoe Polo Committee must specify the colour and brand of the balls to b
 
 13.9.1 - The Competition Committee will consist of three (3) officials who are in possession of a valid International Official Card, related to the discipline. 13.9.2 - They must belong to different national federations. 
 
-ICF Canoe Polo Competition Rules 2025 96 of 134 
+
 
 ## **13.10 - APPOINTEMENT OF THE OFFICIALS** 
 
@@ -2550,7 +2550,7 @@ ICF Canoe Polo Competition Rules 2025 96 of 134
 
 13.11.6 - Neutral Referees must referee all games, i.e. from National Federations other than those represented by the two (2) teams playing. 
 
-ICF Canoe Polo Competition Rules 2025 97 of 134 
+
 
 ## **13.12 - REFEREES / OFFICIALS – TRAVEL COSTS** 
 
@@ -2580,7 +2580,7 @@ ICF Canoe Polo Competition Rules 2025 97 of 134
 
 13.13.7 - A team must play at least one (1) game on the same day as playing in a grand final. 
 
-ICF Canoe Polo Competition Rules 2025 98 of 134 
+
 
 ## **13.14 - TRADEMARKS, ADVERTISING SYMBOLS AND WORDS** 
 
@@ -2610,7 +2610,7 @@ The players of a team can only be numbered 1 to 10.
 
 13.16.2 - The half time interval must be three (3) minutes. There will be no shorter minimum half time interval. 
 
-ICF Canoe Polo Competition Rules 2025 99 of 134 
+
 
 13.16.3 - A scoreboard must be maintained to clearly display the time remaining in any period and score to the players, officials. The scoreboard will automatically indicate the end of the period of playing time by the use of a loud signal. 
 
@@ -2638,7 +2638,7 @@ A player receiving an Ejection Red Card in a final will be referred to their Nat
 
 13.19.2 - A perpetual trophy will be presented to the winning team in each event. 
 
-ICF Canoe Polo Competition Rules 2025 100 of 134 
+
 
 ## **13.20 - NATIONS CUP** 
 
@@ -2650,7 +2650,7 @@ ICF Canoe Polo Competition Rules 2025 100 of 134
 
 13.20.3 - If two (2) or more National Federations have an equal number of gold, silver, and bronze medals, they obtain the same rank and they are ordered in the table alphabetically by their NOC code. 
 
-ICF Canoe Polo Competition Rules 2025 101 of 134 
+
 
 ## **CHAPTER 14 - INTERNATIONAL TECHNICAL OFFICIALS – TRAINING PATHWAY** 
 
@@ -2678,7 +2678,7 @@ ICF Canoe Polo Competition Rules 2025 101 of 134
 
 14.2.5 - Candidates, who have failed one (1) examination, can enrol for another examination, but not earlier than the following year. 
 
-ICF Canoe Polo Competition Rules 2025 102 of 134 
+
 
 ## **14.3 - INTERNATIONAL CANOE POLO REFEREE** 
 
@@ -2708,7 +2708,7 @@ ICF Canoe Polo Competition Rules 2025 102 of 134
 
 14.3.12 - The ICF Canoe Polo Committee will publish on the ICF website details of the points system. 
 
-ICF Canoe Polo Competition Rules 2025 103 of 134 
+
 
 14.3.13 - On the 1[st] October each year each ICF Referee must submit their performance using an activity form made available on the ICF website. 
 
@@ -2720,96 +2720,150 @@ ICF Canoe Polo Competition Rules 2025 103 of 134
 
 14.3.17 - Referee/s who have achieved Grade A status will be downgraded but will stop at Grade C and not become non-qualified, unless they ask to be removed from the ICF Referees List. 
 
-ICF Canoe Polo Competition Rules 2025 104 of 134 
+
 
 ## **CHAPTER 15 - REFEREE HAND SIGNALS** 
 
-||||
-|---|---|---|
-||**15.1 - DEFINITION**|**[SR]**|
-||||
-|||**1. START / INFRINGEMENT**<br>Arm forward and bent upwards with palm open and facing<br>sideways head level.<br>**2. COMPLETION OF HALF / FULL TIME**<br>Arms crossed in front of chest. Palms out.<br>**3. GOAL**<br>Arms extended, palms together. Point to centre of field.<br>**4. DISALLOWED GOAL**<br>Repeated crossing of arms at thigh level.<br>Palms open.<br>**5. SIDELINE THROW / CORNER**<br>Point at sideline.<br>Other arm showing direction of play.|
-|||**1. START / INFRINGEMENT**<br>Arm forward and bent upwards with palm open and facing<br>sideways head level.|
-|||**2. COMPLETION OF HALF / FULL TIME**<br>Arms crossed in front of chest. Palms out.|
-|||**3. GOAL**<br>Arms extended, palms together. Point to centre of field.|
-|||**4. DISALLOWED GOAL**<br>Repeated crossing of arms at thigh level.<br>Palms open.|
-|||**5. SIDELINE THROW / CORNER**<br>Point at sideline.<br>Other arm showing direction of play.|
+### 15.1 START / INFRINGEMENT
+Arm forward and bent upwards with palm open and facing
+
+sideways head level.
+
+![](images/page105_img1.png)
+
+### 15.2 COMPLETION OF HALF / FULL TIME
+Arms crossed in front of chest. Palms out.
+
+![](images/page105_img2.png)
 
 
+### 15.3 GOAL
+Arms extended, palms together. Point to centre of field.
 
-ICF Canoe Polo Competition Rules 2025 105 of 134 
+![](images/page105_img3.png)
 
+
+### 15.4. DISALLOWED GOAL
+Repeated crossing of arms at thigh level.
+
+Palms open.
+
+![](images/page105_img4.png)
+
+
+### 15.5 SIDELINE THROW / CORNER
+Point at sideline.
+
+Other arm showing direction of play.
+
+![](images/page105_img5.png)
+
+
+### 15.6 GOAL LINE THROW
+Point open hand, arm extended along goal line. 
+
+Other arm showing direction of play. 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0106-00.png)
 
 
+### 15.7 TIME OUT
+Form "T" with hands above head. 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0106-01.png)
 
-
+### 15.8 REFEREE'S BALL
+Arms extended forward at shoulder level, fists clenched, thumbs up. 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0106-02.png)
 
 
+### 15.9 OBSTRUCTION
+Hold one (1) arm up in the air fist clenched for the period of two (2) seconds, and then point at the position where the free shot has to be taken. 
+
+Other arm showing direction of play. 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0106-03.png)
 
 
+### 15.10 ILLEGAL KAYAK TACKLE
+Hold clenched fist against hip for the period of two (2) seconds, and then point at the position where the free shot has to be taken. 
+
+Other arm showing direction of play. 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0106-04.png)
 
 
-**6. GOAL LINE THROW** Point open hand, arm extended along goal line. Other arm showing direction of play. **7. TIME OUT** Form "T" with hands above head. **8. REFEREE'S BALL** Arms extended forward at shoulder level, fists clenched, thumbs up. 
-
-**9. OBSTRUCTION** Hold one (1) arm up in the air fist clenched for the period of two (2) seconds, and then point at the position where the free shot has to be taken. Other arm showing direction of play. **10. ILLEGAL KAYAK TACKLE** Hold clenched fist against hip for the period of two (2) seconds, and then point at the position where the free shot has to be taken. Other arm showing direction of play. 
-
-ICF Canoe Polo Competition Rules 2025 106 of 134 
-
+### 15.11 5 SECONDS / POSSESSION
+Hold hand up at side at head level, palm forward. Spread all fingers for the period of two (2) seconds, and then point at the position where the free shot has to be taken. Other arm showing direction of play. 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0107-00.png)
 
 
+### 15.12 ILLEGAL USE OF PADDLE
+
+The side of the other hand repeatedly chops the upper arm showing in direction of play for the period of two (2) seconds, and then point at the position where the free shot has to be taken. 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0107-01.png)
 
 
+### 15.13 PLAY ON / ADVANTAGE
+
+One arm elbow bent, rotating in a circular motion across the body at hip level continuously to a maximum of five (5) seconds. Other arm showing direction of play. 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0107-02.png)
 
 
+### 15.14 FREE THROW 
+
+Arm extended, palm open, pointing in direction of play parallel to side of field. Other arm showing offence signal (1, 5, 6, 11 or 13). 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0107-03.png)
 
+### 15.15 FREE SHOT 
 
+Arm extended, index finger pointing at goal in direction of attack. Other arm showing offence signal (9, 10, 11 or 12). 
 
 ![](images/2025_icf_canoe_polo_rules.pdf-0107-04.png)
 
 
-## **11. 5 SECONDS / POSSESSION** 
+### 15.16 GOAL PENALTY SHOT
+Both arms extended index fingers together and pointing at goal. 
 
-Hold hand up at side at head level, palm forward. Spread all fingers for the period of two (2) seconds, and then point at the position where the free shot has to be taken. Other arm showing direction of play. 
+![](images/page108_img1.png)
 
-## **12. ILLEGAL USE OF PADDLE** 
 
-The side of the other hand repeatedly chops the upper arm showing in direction of play for the period of two (2) seconds, and then point at the position where the free shot has to be taken. 
+### 15.17 SHOWING CARDS
+* Green card
+* Yellow card 
+* Red card 
 
-## **13. PLAY ON / ADVANTAGE** 
+Hold card above the shoulder so that is visible in front and behind. 
 
-One arm elbow bent, rotating in a circular motion across the body at hip level continuously to a maximum of five (5) seconds. Other arm showing direction of play. 
+Other arm pointing to player. 
 
-## **14. FREE THROW** 
+If necessary, indicate number of player with fingers. 
 
-Arm extended, palm open, pointing in direction of play parallel to side of field. Other arm showing offence signal (1, 5, 6, 11 or 13). 
+Use clenched fist to indicate ten where a number 10 or larger is required. 
 
-## **15. FREE SHOT** 
+![](images/page108_img2.png)
 
-Arm extended, index finger pointing at goal in direction of attack. Other arm showing offence signal (9, 10, 11 or 12). 
+### 15.18 UNSPORTING BEHAVIOUR
+One index finger on one (1) hand waved from side to side repeatedly 
 
-ICF Canoe Polo Competition Rules 2025 107 of 134 
+![](images/page108_img3.png)
 
-**16. GOAL PENALTY SHOT** Both arms extended index fingers together and pointing at goal. **17. SHOWING CARDS** • Green card • Yellow card • Red card Hold card above the shoulder so that is visible in front and behind. Other arm pointing to player. If necessary, indicate number of player with fingers. Use clenched fist to indicate ten where a number 10 or larger is required. **18. UNSPORTING BEHAVIOUR** One index finger on one (1) hand waved from side to side repeatedly **19. Illegal Holding / Illegal Hand Tackle** Hold one (1) arm up in the air, fist clenched and moving vertically for the period of two (2) seconds, and then point at the position where the free shot must be taken. **20. Ejection Red Card** Show the red card only, holding the card in one hand, crossed arms with clenched fist above the shoulder (so that it is visible in front and behind) and verbal statement “ejection red” to the player. 
 
-ICF Canoe Polo Competition Rules 2025 108 of 134 
+### 15.19 Illegal Holding / Illegal Hand Tackle
+Hold one (1) arm up in the air, fist clenched and moving vertically for the period of two (2) seconds, and then point at the position where the free shot must be taken. 
+
+![](images/page108_img4.png)
+
+### 15.20 Ejection Red Card
+Show the red card only, holding the card in one hand, crossed arms with clenched fist above the shoulder (so that it is visible in front and behind) and verbal statement “ejection red” to the player. 
+
+![](images/page108_img5.png)
+
 
 ## **CHAPTER 16 - EQUIPMENT AND SCRUTINERRING** 
 
@@ -2825,7 +2879,7 @@ ICF Canoe Polo Competition Rules 2025 108 of 134
 
 16.1.5 - After 1[st] January 2021 - Only kayaks with an ICF Canoe Polo Kayaks Manufacturers Label will be able to be used at ICF World Championships or World Games. (This does not prevent the use of older kayaks without a label at a lower level within domestic competitions see note below.) 
 
-ICF Canoe Polo Competition Rules 2025 109 of 134 
+
 
 16.1.6 - National Federations may have their own local rules regarding the use of older designs or kayaks including those without an ICF Canoe Polo Manufacturers label.  Please consult your National Federation for details. 
 
@@ -2837,7 +2891,7 @@ _Note: The ICF Canoe Polo Committee recognises the lifespan of a Canoe Polo kaya
 
 16.1.9 - Any kayak that is modified (excludes normal repairs) by anyone other than the original manufacturer will have its ICF label cancelled or removed and will be scrutineered the same as any other kayak without an ICF Manufactures label.  Any manufacturer found to be modifying, changing or repairing a rival manufacturers design that risks the legality of that design will have their licence immediately suspended for a period of two (2) years. 
 
-ICF Canoe Polo Competition Rules 2025 110 of 134 
+
 
 ## **16.2 - KAYAK SAFETY REQUIRMENTS** 
 
@@ -2871,7 +2925,7 @@ ICF Canoe Polo Competition Rules 2025 110 of 134
 
 ## 16.3.3 - **Width** Maximum 650mm 
 
-ICF Canoe Polo Competition Rules 2025 111 of 134 
+
 
 16.3.4 - Kayak – Edge 
 
@@ -2889,7 +2943,7 @@ ICF Canoe Polo Competition Rules 2025 111 of 134
 
 16.3.5.c - For kayaks with integrated padding the first 100mm is measured with padding in place. Gauge 1, detail H 
 
-ICF Canoe Polo Competition Rules 2025 112 of 134 
+
 
 16.3.5.d - For kayaks with non-integrated padding the first 100mm is measured from the back edge of the padding where it attaches to the kayak. Gauge 1, detail I. 
 
@@ -2917,7 +2971,7 @@ _Figure 1 - KAYAK PLAN VIEW OF SECTIONS/ZONES_
 
 16.3.6.c - If a kayak has integrated padding - the padding must comply with separate minimum specifications for the Front Impact Zone AA’-BB’ see article 16.6.3 Integrated Padding 
 
-ICF Canoe Polo Competition Rules 2025 113 of 134 
+
 
 16.3.6.d - Section BB’ to FF’ - For the entire edge the kayak will meet a minimum thickness of 50mm with 30mm of the edge of the kayak. Gauge 3, detail M 
 
@@ -2927,7 +2981,7 @@ ICF Canoe Polo Competition Rules 2025 113 of 134
 
 16.3.6.g - Recesses in the hull or deck for the purpose of hiding bolt or screw heads etc. are to be permitted. Recesses should be safer than a projecting fixing device in order to be legal. Where recesses are provided to improve safety by eliminating projecting fixing devices, the 5mm radius can be relaxed as far as it would cover the radius of any transition curve between the deck and the side surfaces of any such recess. 
 
-ICF Canoe Polo Competition Rules 2025 114 of 134 
+
 
 ## 16.3.7 - Kayak – Depth 
 
@@ -2949,7 +3003,7 @@ _Figure 2_
 
 16.4.2 - The gauges will be fabricated from sheet aluminium or stainless steel and precisely engineered, according ISO 2769-mH, by an approved ICF supplier and will be stamped with the ICF Logo, registration number and date of manufacture. 
 
-ICF Canoe Polo Competition Rules 2025 115 of 134 
+
 
 **[SR]** 
 
@@ -2967,7 +3021,7 @@ ICF Canoe Polo Competition Rules 2025 115 of 134
 
 _Figure 3- Gauge 1_ 
 
-ICF Canoe Polo Competition Rules 2025 116 of 134 
+
 
 ## 16.5.2 - Gauge 2 
 
@@ -2993,7 +3047,7 @@ _Figure 4 - Gauge 2_
 
 _Figure 5- Gauge 3_ 
 
-ICF Canoe Polo Competition Rules 2025 117 of 134 
+
 
 ## 16.5.4 - Gauge 2, 3 or 5 – detail L 
 
@@ -3019,7 +3073,7 @@ _Figure 6 - Detail L_
 
 _Figure 7 - Gauge 7_ 
 
-ICF Canoe Polo Competition Rules 2025 118 of 134 
+
 
 ## **16.6 - PADDING** 
 
@@ -3045,7 +3099,7 @@ _Figure 8 - Gauge 4 – needle_
 
 16.6.1.f - The padding must extend at least 100mm from each end of the kayak measured in plan. Gauge 1, detail H or I 
 
-ICF Canoe Polo Competition Rules 2025 119 of 134 
+
 
 ## 16.6.2 - Attachment 
 
@@ -3073,7 +3127,7 @@ _Figure 9 - Gauge 5 Front Impact Zone (Integrated Padding only) AA’ to BB’_
 
 (iv) The rear impact zone padding must be a minimum radius of at least 5mm over the whole surface of the padding. Gauge 7, detail T 
 
-ICF Canoe Polo Competition Rules 2025 120 of 134 
+
 
 16.6.3.b - The shape of the kayak beneath the integrated padding is not important while the padding is in place as long as the whole kayak meets the specifications outlined in the articles 16.1 to 16.3. 
 
@@ -3097,7 +3151,7 @@ ICF Canoe Polo Competition Rules 2025 120 of 134
 
 _Figure 10 - To define_ 
 
-ICF Canoe Polo Competition Rules 2025 121 of 134 
+
 
 ## **16.7 - PADDLE** 
 
@@ -3127,7 +3181,7 @@ ICF Canoe Polo Competition Rules 2025 121 of 134
 
 16.9.2 - In the interest of player welfare, it is recommended that all helmets be suitably accredited with an International Standard for canoeing. 
 
-ICF Canoe Polo Competition Rules 2025 122 of 134 
+
 
 16.9.3 - The Helmet must protect the players head from the temples to the base of the skull to ensure that no contact is possible between the skull and a blade of a horizontally held paddle (Note there is no requirement to cover the ears). 
 
@@ -3141,7 +3195,7 @@ ICF Canoe Polo Competition Rules 2025 122 of 134
 
 16.9.6 - There must be a minimum distance of 10mm between the facemask and the nose of the wearer. 
 
-ICF Canoe Polo Competition Rules 2025 123 of 134 
+
 
 16.9.7 - The facemask must be of a strong material such as steel or other equally strong material. 
 
@@ -3167,7 +3221,7 @@ _Figure 11 - Gauge 6 – paddle, facemask and body protection_
 
 16.10.2 - The body protection must be at least 20mm thick. 
 
-ICF Canoe Polo Competition Rules 2025 124 of 134 
+
 
 16.10.3 - To gauge the thickness of the body protection, hold the slot of gauge 6, detail P, over the body protection. If the body protection does not enter the slot, the test is passed. 
 
@@ -3191,7 +3245,7 @@ ICF Canoe Polo Competition Rules 2025 124 of 134
 
 16.11.6 - Any issues identified on any piece of equipment will be clearly noted on its check sheet and initialled by the Scrutineer. This issue must be rectified prior to the equipment moving onto the next stage. 
 
-ICF Canoe Polo Competition Rules 2025 125 of 134 
+
 
 16.11.7 - Step 1 – Cosmetic Checks 
 
@@ -3217,7 +3271,7 @@ ICF Canoe Polo Competition Rules 2025 125 of 134
 
 16.11.8.a - This step will check all equipment for points of safety. 
 
-ICF Canoe Polo Competition Rules 2025 126 of 134 
+
 
 16.11.8.b - Kayaks will be tested for sharp edges, rough surfaces and padding attachment. 
 
@@ -3233,7 +3287,7 @@ ICF Canoe Polo Competition Rules 2025 126 of 134
 
 _(Please note- this is a NEW specification to improve player safety. PFD’s that previously passed scrutineering may not meet this increased specification.)_ 
 
-ICF Canoe Polo Competition Rules 2025 127 of 134 
+
 
 ## 16.11.9 - Step 3 - Technical Checks 
 
@@ -3251,7 +3305,7 @@ ICF Canoe Polo Competition Rules 2025 127 of 134
 
 16.11.9.c - Any kayak failing any technical specifications will fail scrutineering and will not be able to be used in the competition. 
 
-ICF Canoe Polo Competition Rules 2025 128 of 134 
+
 
 ## 16.11.10 - Procedure 
 
@@ -3261,7 +3315,7 @@ Stage 1 - Players are pre-checked wearing helmet for safety checks.
 ![](images/2025_icf_canoe_polo_rules.pdf-0129-02.png)
 
 
-ICF Canoe Polo Competition Rules 2025 129 of 134 
+
 
 ## **CHAPTER 17 - SHOT CLOCK** 
 
@@ -3293,7 +3347,7 @@ ICF Canoe Polo Competition Rules 2025 129 of 134
 
 17.1.5 - If the ball is out of play at the time the shot clock expires - the free shot will be taken from the closest point to where the ball went out of play. Signals 11 and 15 applies. 
 
-ICF Canoe Polo Competition Rules 2025 130 of 134 
+
 
 ## **17.2 - OPERATION** 
 
@@ -3327,7 +3381,7 @@ ICF Canoe Polo Competition Rules 2025 130 of 134
 
 17.3.6 - The Referees will confirm the change of possession with a single blast of the whistle and award a free shot to the opposition. 
 
-ICF Canoe Polo Competition Rules 2025 131 of 134 
+
 
 ## **17.4 - SHOT CLOCK EXPIRY** 
 
@@ -3357,7 +3411,7 @@ ICF Canoe Polo Competition Rules 2025 131 of 134
 
 17.5.7 - The shot clock will be reset if a team receives a free shot or if the Referee plays advantage as a result of a foul by the opposing team. 
 
-ICF Canoe Polo Competition Rules 2025 132 of 134 
+
 
 ## **CHAPTER 18 - ICF CANOE POLO WORLD RANKING** 
 
@@ -3383,7 +3437,7 @@ ICF Canoe Polo Competition Rules 2025 132 of 134
 
 The point system is defined in an appendix published by the ICF. 
 
-ICF Canoe Polo Competition Rules 2025 133 of 134 
+
 
 ## **CHAPTER 19 - APPENDICES** 
 
@@ -3417,5 +3471,5 @@ The Canoe Polo Committee propose and publish the appendices after approval by th
 
 The appendices are published on the ICF website in the rules section (www.canoeicf.com). 
 
-ICF Canoe Polo Competition Rules 2025 134 of 134 
+
 

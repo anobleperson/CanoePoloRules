@@ -135,12 +135,21 @@
 
     const textLines = (section.text || '').split('\n').filter(l => l.trim());
     if (textLines.length === 0) textLines.push('(No text available for this section.)');
+
     // Sub-item pattern: line starts with a rule number containing 3+ parts (e.g. 10.25.2.a)
     const subItemRe = /^\d+\.\d+\.\d+/;
     textLines.forEach(line => {
+      if (line.startsWith('IMAGE:')) {
+        const img = document.createElement('img');
+        img.src = 'images/' + line.slice(6);
+        img.className = 'signal-img';
+        img.alt = section.heading + ' signal';
+        bodyDiv.appendChild(img);
+        return;
+      }
       const p = document.createElement('p');
       p.className = subItemRe.test(line) ? 'rule-text sub-item' : 'rule-text';
-      p.textContent = line;
+      p.innerHTML = linkSignals(escHtml(line));
       bodyDiv.appendChild(p);
     });
 
@@ -159,6 +168,12 @@
       const isOpen = div.classList.contains('open');
       div.classList.toggle('open', !isOpen);
       header.setAttribute('aria-expanded', String(!isOpen));
+      if (!isOpen) {
+        // Record this as the current location so the back button returns here
+        history.pushState(null, '', '#' + section.id);
+        setActiveNavLink(section.id);
+        expandNavChapterForRule(section.id);
+      }
     }
 
     header.addEventListener('click', toggle);
@@ -226,6 +241,17 @@
   }
 
   // ── Utils ──────────────────────────────────────────────────────────────────
+
+  // Replace "Signal N" / "Signals N and M" / "Signals N, M & P" with links to 15.N
+  function linkSignals(html) {
+    // Match: Signal(s) followed by digits with separators (and / & / &amp; / comma)
+    return html.replace(/\bSignals?\s+((?:\d+(?:\s*(?:,|and|&amp;|&)\s*)?)+)/g, (match, nums) => {
+      const linked = nums.replace(/\d+/g, n =>
+        '<a href="#15.' + n + '" class="signal-link">' + n + '</a>'
+      );
+      return 'Signal' + (match.startsWith('Signals') ? 's' : '') + ' ' + linked;
+    });
+  }
 
   function escHtml(str) {
     return String(str)
