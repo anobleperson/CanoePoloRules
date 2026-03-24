@@ -263,8 +263,10 @@
     document.getElementById('mobileRuleView').hidden = false;
 
     document.getElementById('mobileBackChapterName').textContent = typeof chapter.chapter === 'number'
-      ? 'Ch ' + chapter.chapter
+      ? 'Ch ' + chapter.chapter + ' \u2014 ' + chapter.title
       : chapter.title;
+
+    document.getElementById('mobileRuleHeading').textContent = section.id + ' \u2014 ' + section.heading;
 
     const content = document.getElementById('mobileRuleContent');
     content.innerHTML = '';
