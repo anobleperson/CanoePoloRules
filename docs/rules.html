@@ -39,6 +39,30 @@
     </div>
   </main>
 
+  <!-- Mobile drill-down navigation (shown only on portrait mobile via CSS) -->
+  <div id="mobileView" hidden>
+
+    <div id="mobileChapterList">
+      <p class="mobile-loading" id="mobileLoading">Loading&hellip;</p>
+    </div>
+
+    <div id="mobileSectionList" hidden>
+      <div class="mobile-nav-bar">
+        <button class="mobile-back-btn" id="mobileBackToChapters">&#8592; Chapters</button>
+        <h2 class="mobile-chapter-heading" id="mobileChapterHeading"></h2>
+      </div>
+      <ul class="mobile-section-list" id="mobileSectionItems"></ul>
+    </div>
+
+    <div id="mobileRuleView" hidden>
+      <div class="mobile-nav-bar">
+        <button class="mobile-back-btn" id="mobileBackToSections">&#8592; <span id="mobileBackChapterName"></span></button>
+      </div>
+      <div id="mobileRuleContent" class="mobile-rule-content"></div>
+    </div>
+
+  </div>
+
   <script src="rules.js"></script>
 </body>
 </html>

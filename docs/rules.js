@@ -16,6 +16,9 @@
       rulesData = data;
       buildNav(data);
       buildContent(data);
+      if (isMobile()) {
+        initMobileView(data);
+      }
       handleHash();
     })
     .catch(err => {
@@ -184,11 +187,113 @@
     return div;
   }
 
+  // ── Mobile drill-down ──────────────────────────────────────────────────────
+
+  function isMobile() {
+    return window.innerWidth <= 768;
+  }
+
+  // Track which chapter is currently selected (for back-button label)
+  let mobileCurrentChapter = null;
+
+  function initMobileView(chapters) {
+    const mobileView = document.getElementById('mobileView');
+    mobileView.hidden = false;
+
+    const list = document.getElementById('mobileChapterList');
+    document.getElementById('mobileLoading').remove();
+
+    chapters.forEach(chapter => {
+      const btn = document.createElement('button');
+      btn.className = 'mobile-chapter-card';
+      btn.textContent = typeof chapter.chapter === 'number'
+        ? 'Chapter ' + chapter.chapter + ' — ' + chapter.title
+        : chapter.title;
+      btn.addEventListener('click', () => showSectionList(chapter));
+      list.appendChild(btn);
+    });
+
+    document.getElementById('mobileBackToChapters').addEventListener('click', showChapterList);
+    document.getElementById('mobileBackToSections').addEventListener('click', () => {
+      if (mobileCurrentChapter) showSectionList(mobileCurrentChapter);
+    });
+  }
+
+  function showChapterList() {
+    document.getElementById('mobileChapterList').hidden = false;
+    document.getElementById('mobileSectionList').hidden = true;
+    document.getElementById('mobileRuleView').hidden = true;
+    mobileCurrentChapter = null;
+  }
+
+  function showSectionList(chapter) {
+    mobileCurrentChapter = chapter;
+
+    document.getElementById('mobileChapterList').hidden = true;
+    document.getElementById('mobileSectionList').hidden = false;
+    document.getElementById('mobileRuleView').hidden = true;
+
+    document.getElementById('mobileChapterHeading').textContent = typeof chapter.chapter === 'number'
+      ? 'Ch ' + chapter.chapter + ' — ' + chapter.title
+      : chapter.title;
+
+    const ul = document.getElementById('mobileSectionItems');
+    ul.innerHTML = '';
+    chapter.sections.forEach(section => {
+      const li = document.createElement('li');
+      const btn = document.createElement('button');
+      btn.className = 'mobile-section-btn';
+      btn.innerHTML =
+        '<span class="section-id">' + escHtml(section.id) + '</span>' +
+        '<span class="section-heading">' + escHtml(section.heading) + '</span>';
+      btn.addEventListener('click', () => showMobileRule(section, chapter));
+      li.appendChild(btn);
+      ul.appendChild(li);
+    });
+
+    // Scroll to top of page
+    window.scrollTo(0, 0);
+  }
+
+  function showMobileRule(section, chapter) {
+    mobileCurrentChapter = chapter;
+
+    document.getElementById('mobileChapterList').hidden = true;
+    document.getElementById('mobileSectionList').hidden = true;
+    document.getElementById('mobileRuleView').hidden = false;
+
+    document.getElementById('mobileBackChapterName').textContent = typeof chapter.chapter === 'number'
+      ? 'Ch ' + chapter.chapter
+      : chapter.title;
+
+    const content = document.getElementById('mobileRuleContent');
+    content.innerHTML = '';
+    const ruleDiv = buildRuleSection(section);
+    // Always show the body open on mobile
+    ruleDiv.classList.add('open');
+    const header = ruleDiv.querySelector('.rule-header');
+    if (header) header.setAttribute('aria-expanded', 'true');
+    content.appendChild(ruleDiv);
+
+    history.pushState(null, '', '#' + section.id);
+    window.scrollTo(0, 0);
+  }
+
   // ── Deep-link via hash ─────────────────────────────────────────────────────
 
   function handleHash() {
     const hash = window.location.hash.slice(1); // strip #
     if (!hash) return;
+
+    // On mobile: navigate the drill-down directly to the rule
+    if (isMobile() && rulesData) {
+      const chapter = rulesData.find(ch => ch.sections.some(s => s.id === hash));
+      const section = chapter && chapter.sections.find(s => s.id === hash);
+      if (chapter && section) {
+        showMobileRule(section, chapter);
+        return;
+      }
+    }
 
     const target = document.getElementById(hash);
     if (!target) return;
