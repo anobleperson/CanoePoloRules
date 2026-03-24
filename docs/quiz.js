@@ -104,6 +104,9 @@
     });
 
     showScreen('screenQuestion');
+    // Blur any focused element so the browser doesn't carry a focus ring
+    // onto the new option buttons when the previous screen is hidden.
+    if (document.activeElement) document.activeElement.blur();
   }
 
   // ── Answer handling ────────────────────────────────────────────────────────
