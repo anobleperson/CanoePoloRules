@@ -131,7 +131,7 @@ def parse_rules():
                 current_section = None
                 current_text_lines = []
                 in_scope = True
-            elif ch_num > max(CHAPTERS_IN_SCOPE):
+            else:
                 flush_section()
                 in_scope = False
             continue
@@ -144,7 +144,7 @@ def parse_rules():
             ch_num = int(m_section.group(1))
             if ch_num in CHAPTERS_IN_SCOPE:
                 in_scope = start_section(ch_num, m_section.group(2), m_section.group(3))
-            elif ch_num > max(CHAPTERS_IN_SCOPE):
+            else:
                 flush_section()
                 in_scope = False
             continue
