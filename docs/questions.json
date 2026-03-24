@@ -1,437 +1,5 @@
 [
   {
-    "id": "ch7-r71-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.1",
-    "question": "What is the minimum composition of the Competition Committee?",
-    "options": [
-      "Chief Official, Competition Organiser, and one additional appointed official",
-      "Chief Official, Referee Manager, and Competition Organiser",
-      "Chief Official, Technical Organiser, and Chief Scrutineer",
-      "Two Referees and the Chief Official"
-    ],
-    "correctIndex": 0,
-    "explanation": "Rule 7.1 states the Competition Committee must consist of the Chief Official (as chairperson), the Competition Organiser, and one additional person who is appointed as an official.",
-    "image": null
-  },
-  {
-    "id": "ch7-r71-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.1",
-    "question": "Who chairs the Competition Committee?",
-    "options": [
-      "The Referee Manager",
-      "The Technical Organiser",
-      "The Chief Official",
-      "The Chief Scrutineer"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.1 designates the Chief Official as the chairperson of the Competition Committee.",
-    "image": null
-  },
-  {
-    "id": "ch7-r72-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.2",
-    "question": "Which body hears protests and settles disputes at a competition?",
-    "options": [
-      "The Referee Manager",
-      "The Competition Committee",
-      "The Chief Scrutineer",
-      "The first Referee"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.2.4 states the Competition Committee hears any protests that may be made and settles any disputes that arise.",
-    "image": null
-  },
-  {
-    "id": "ch7-r72-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.2",
-    "question": "Who is responsible for approving the panel of Referees and Goal Line Judges at a competition?",
-    "options": [
-      "The Referee Manager alone",
-      "The Competition Committee",
-      "The Technical Organiser",
-      "The Chief Official alone"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.2.2 states the Competition Committee considers and approves panels of officials including Referees and Goal Line Judges (from Referee Manager nominations).",
-    "image": null
-  },
-  {
-    "id": "ch7-r73-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.3",
-    "question": "Under rule 7.3.4, where two teams from different countries play, what is the preference for referee nationality?",
-    "options": [
-      "Both referees should be from the same country as the first-named team",
-      "Referees should be from a country other than those represented by either team",
-      "One referee must be from each team's country",
-      "Referee nationality is irrelevant"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.3.4 states where possible, all games must be refereed by neutral Referees from countries other than those represented by either team.",
-    "image": null
-  },
-  {
-    "id": "ch7-r73-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.3",
-    "question": "What does rule 7.3.2 permit regarding officials holding multiple roles?",
-    "options": [
-      "No official may hold more than one role",
-      "If circumstances permit, one person may function in two or more offices",
-      "Only the Chief Official may hold two roles",
-      "Two officials may job-share one role"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.3.2 states that if circumstances permit, one person may function in two or more of the official offices.",
-    "image": null
-  },
-  {
-    "id": "ch7-r74-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.4",
-    "question": "Who appoints the Referees and Goal Line Judges at a competition?",
-    "options": [
-      "The Chief Official",
-      "The Competition Committee",
-      "The Referee Manager(s)",
-      "The HOC"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.4 states the Referee Manager(s) are responsible for appointing Referees and Goal Line Judges.",
-    "image": null
-  },
-  {
-    "id": "ch7-r74-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.4",
-    "question": "Who appoints Timekeepers and Scorekeepers?",
-    "options": [
-      "The Competition Committee",
-      "The Referee Manager",
-      "The Chief Table Official",
-      "The Technical Organiser"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.4 states the Chief Table Official is responsible for appointing Timekeepers and Scorekeepers.",
-    "image": null
-  },
-  {
-    "id": "ch7-r75-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.5",
-    "question": "What overall responsibility does the Chief Official hold?",
-    "options": [
-      "Responsibility for the schedule only",
-      "Overall responsibility for all aspects of the competition, supervising other officials",
-      "Responsibility for player eligibility only",
-      "Responsibility for referee performance only"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.5.1 states the Chief Official has overall responsibility for all aspects of the competitions, supervising the other officials.",
-    "image": null
-  },
-  {
-    "id": "ch7-r78-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.8",
-    "question": "Under rule 7.8.2, what specific duty does the Referee Manager have regarding referee allocation?",
-    "options": [
-      "Allocate two referees equally to each game",
-      "Allocate a first Referee to each game",
-      "Ensure no referee officiates two consecutive games",
-      "Pair referees from the same country"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.8.2 states the Referee Manager must allocate a first Referee to each game.",
-    "image": null
-  },
-  {
-    "id": "ch7-r78-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.8",
-    "question": "Who has the authority to replace a Referee who is unable to continue due to injury during a game?",
-    "options": [
-      "The Chief Official",
-      "The Competition Committee",
-      "The Referee Manager(s)",
-      "The remaining Referee"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.8.6 states the Referee Manager(s) have authority to replace a Referee unable to continue due to injury, illness, or other reason.",
-    "image": null
-  },
-  {
-    "id": "ch7-r711-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.11",
-    "question": "What is the maximum number of consecutive games a Timekeeper should officiate?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.11.3 states Timekeepers must not officiate for more than two games in succession.",
-    "image": null
-  },
-  {
-    "id": "ch7-r712-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.12",
-    "question": "What is the maximum number of consecutive games a Scorekeeper should officiate?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Unlimited"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.12.3 states Scorekeepers must not officiate for more than two games in succession.",
-    "image": null
-  },
-  {
-    "id": "ch7-r713-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.13",
-    "question": "What uniform must Referees wear?",
-    "options": [
-      "Any sports shirt and shorts in any colour",
-      "Black or white shirt with black shorts or trousers; both referees must match",
-      "Blue shirt with black shorts",
-      "White shirt only; colour does not matter for the other referee"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.13.3.a states Referees wear either black or white shirt with black shorts or trousers. Both Referees must appear similar — both wearing the same colour (either black or white).",
-    "image": null
-  },
-  {
-    "id": "ch7-r713-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.13",
-    "question": "What is the maximum number of consecutive games a Referee should officiate?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Unlimited"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.13.3.h states Referees must not referee for more than two games in succession.",
-    "image": null
-  },
-  {
-    "id": "ch7-r714-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.14",
-    "question": "How many Goal Line Judges are appointed for each game?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.14.1 states two Goal Line Judges are appointed for each game, one for each goal line. They can be replaced by cameras.",
-    "image": null
-  },
-  {
-    "id": "ch7-r714-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.14",
-    "question": "On which side of each Referee should the Goal Line Judges be situated?",
-    "options": [
-      "To the right of each Referee",
-      "Diagonally opposite, on the left-hand side of each Referee",
-      "Directly behind each Referee",
-      "On either side at the Referee's discretion"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.19.1 states Goal Line Judges should be situated diagonally opposite each other on the left-hand side of each Referee.",
-    "image": null
-  },
-  {
-    "id": "ch7-r715-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.15",
-    "question": "How many Scrutineers are appointed per game?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "One per team"
-    ],
-    "correctIndex": 0,
-    "explanation": "Rule 7.15.1 states one Scrutineer per game is appointed to control the equipment of players and the playing area.",
-    "image": null
-  },
-  {
-    "id": "ch7-r717-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.17",
-    "question": "What is the full standard composition of Game Officials?",
-    "options": [
-      "2 Referees, 2 Goal Line Judges or cameras, 1 Scrutineer, 2 Timekeepers, 1 Scorekeeper",
-      "2 Referees, 1 Goal Line Judge, 1 Scrutineer, 1 Timekeeper, 1 Scorekeeper",
-      "2 Referees, 2 Goal Line Judges, 2 Scrutineers, 1 Timekeeper, 1 Scorekeeper",
-      "3 Referees, 2 Goal Line Judges, 1 Scrutineer, 2 Timekeepers"
-    ],
-    "correctIndex": 0,
-    "explanation": "Rule 7.17.1 states game officials should consist of 2 Referees, 2 Goal Line Judges or cameras, 1 Scrutineer, 2 Timekeepers, and 1 Scorekeeper.",
-    "image": null
-  },
-  {
-    "id": "ch7-r717-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.17",
-    "question": "When only three Game Officials are available, who takes on what additional duties?",
-    "options": [
-      "The Chief Official takes all extra duties",
-      "Two Referees cover GLJ and Scrutineer duties; one Timekeeper covers Timekeeper and Scorekeeper duties",
-      "The Scorekeeper takes referee duties",
-      "Two Referees cover everything; no other official needed"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.17.2 states with only 3 officials, two will be Referees (taking additional GLJ and Scrutineer duties) and one Timekeeper (taking Timekeeper and Scorekeeper duties).",
-    "image": null
-  },
-  {
-    "id": "ch7-r718-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.18",
-    "question": "When do the Referees' authority over players take effect?",
-    "options": [
-      "Only during the game itself",
-      "Only during the game and breaks in play",
-      "During the whole time the Referees and players are within the competition area",
-      "From the moment the whistle starts the game until it ends"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.18.1 states the Referees' authority over players is effective during the whole time that they and the players are within the competition area.",
-    "image": null
-  },
-  {
-    "id": "ch7-r718-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.18",
-    "question": "If the two Referees cannot agree on a decision, who makes the final call?",
-    "options": [
-      "The Chief Official",
-      "The Referee Manager",
-      "The first named Referee",
-      "The decision is disregarded and play continues"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.18.7 states where Referees cannot agree on a decision, the first named Referee will take the final decision.",
-    "image": null
-  },
-  {
-    "id": "ch7-r718-003",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.18",
-    "question": "Under what condition may a Referee alter their decision?",
-    "options": [
-      "At any point before half time",
-      "Only if the other Referee disagrees",
-      "Provided they do so before the ball is put back into play",
-      "Referees may never alter a decision once given"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.18.3 states a Referee may alter their decision provided they do so before the ball is put back into play.",
-    "image": null
-  },
-  {
-    "id": "ch7-r719-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.19",
-    "question": "What signal does a Goal Line Judge use to indicate players are correctly positioned at the start?",
-    "options": [
-      "Waving a red flag",
-      "Raising a green flag",
-      "Pointing both flags at the goal",
-      "Raising a blue flag"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.19.2.a states Goal Line Judges raise a green flag when players are correctly positioned on their goal lines at the start of a period.",
-    "image": null
-  },
-  {
-    "id": "ch7-r719-002",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.19",
-    "question": "What signal does a Goal Line Judge use to indicate an improper start or restart?",
-    "options": [
-      "Raising a green flag",
-      "Raising a red flag",
-      "Waving a red flag",
-      "Pointing both flags at the centre line"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.19.2.c states Goal Line Judges wave a red flag to indicate an improper start or restart.",
-    "image": null
-  },
-  {
-    "id": "ch7-r721-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.21",
-    "question": "Where must the Timekeepers be situated?",
-    "options": [
-      "On the sideline nearest to the centre",
-      "At the official's table",
-      "Behind one of the goal lines",
-      "Anywhere around the pool with a clear view"
-    ],
-    "correctIndex": 1,
-    "explanation": "Rule 7.21.1 states Timekeepers must be situated at the official's table.",
-    "image": null
-  },
-  {
-    "id": "ch7-r722-001",
-    "source": "rules",
-    "chapter": 7,
-    "rule": "7.22",
-    "question": "Where must the Scorekeeper be situated?",
-    "options": [
-      "Behind either goal line",
-      "On the sideline",
-      "At the official table",
-      "In the coaches area"
-    ],
-    "correctIndex": 2,
-    "explanation": "Rule 7.22.1 states the Scorekeeper must be situated at the official table.",
-    "image": null
-  },
-  {
     "id": "ch8-r83-001",
     "source": "rules",
     "chapter": 8,
@@ -3278,5 +2846,277 @@
     "correctIndex": 0,
     "explanation": "Signal 20 specifically uses crossed arms with a clenched fist above the shoulder plus the verbal 'ejection red'. Signal 17 simply holds the card above the shoulder with one hand pointing to the player.",
     "image": "images/page108_img5.png"
+  },
+  {
+    "id": "ch17-r174-001",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.4.1",
+    "question": "For a goal to be valid, when must the shot at goal have been taken relative to the shot clock expiry signal?",
+    "options": [
+      "The shot must have been taken prior to the start of the shot clock expiry signal",
+      "The shot may be taken at the same time as the signal sounds",
+      "The shot must enter the goal before the signal sounds",
+      "The shot must leave the players hand within one second of the signal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 17.4.1: For a goal to be scored, the shot at goal must have been taken prior to the start of the shot clock expiry signal.",
+    "image": null
+  },
+  {
+    "id": "ch17-r174-002",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.4.2",
+    "question": "The shot clock expiry signal sounds while the ball is still in flight. What happens?",
+    "options": [
+      "The goal is disallowed and a free shot is awarded to the other team",
+      "The ball is allowed to travel to completion",
+      "Play is stopped immediately and possession changes",
+      "The Referee uses discretion based on whether a goal is likely"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 17.4.2: If the ball is in flight at the time of the signal it will be allowed to travel to completion.",
+    "image": null
+  },
+  {
+    "id": "ch17-r174-003",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.4.3",
+    "question": "What must be true for a shot to count if the shot clock signal sounds during or just before the throw?",
+    "options": [
+      "The ball must cross the goal line before the signal",
+      "The ball must have left the player's hand prior to the signal sounding",
+      "The player must have started the throwing motion before the signal",
+      "The Referee must have seen the ball released before signalling"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 17.4.3: The ball must have left the player's hand prior to the signal sounding.",
+    "image": null
+  },
+  {
+    "id": "ch17-r175-001",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.5.1",
+    "question": "Under Rule 17.5.1, when is the shot clock reset?",
+    "options": [
+      "Whenever there is a shot at goal or a change in team possession",
+      "Only when possession changes to the opposing team",
+      "Only after a successful goal is scored",
+      "Whenever the ball goes out of play"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 17.5.1: The shot clock will be reset whenever there is a shot at goal or a change in team possession.",
+    "image": null
+  },
+  {
+    "id": "ch17-r175-002",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.5.2",
+    "question": "A player shoots; the ball rebounds off the goal frame and the same team regains possession. Is the shot clock reset?",
+    "options": [
+      "No — because the same team retained possession",
+      "Yes — the shot clock is reset even if the same team regains possession after a rebound off the goal frame",
+      "Only if the ball also went out of bounds before being regained",
+      "Only if a defender touched the ball during the rebound"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 17.5.2: If a team attempts a shot and the ball rebounds off the goal frame, a defender's or goalkeeper's paddle, out of bounds or back into play, the shot clock is reset even if the same team regains possession.",
+    "image": null
+  },
+  {
+    "id": "ch17-r175-003",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.5.3",
+    "question": "A shot falls short of the goal, stays in play, and the same attacking team regains possession. Is the shot clock reset?",
+    "options": [
+      "Yes — any shot attempt resets the shot clock",
+      "No — the shot clock is not reset if the same team regains possession after a shot that falls short",
+      "Yes — but only if the shot crossed the halfway line",
+      "It depends on the Referee's judgement"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 17.5.3: If a team attempts a shot that falls short of the goal and remains in play, the shot clock will not be reset if the same team regains possession.",
+    "image": null
+  },
+  {
+    "id": "ch17-r175-004",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.5.4",
+    "question": "A team (not attempting a shot) loses the ball out of bounds and is awarded the sideline throw. Is the shot clock reset?",
+    "options": [
+      "Yes — any throw-in resets the shot clock",
+      "No — the shot clock is not reset when a team regains possession via a sideline or corner throw after losing the ball out of bounds without attempting a shot",
+      "Yes — but only if it was a corner throw",
+      "No — unless the ball was out for more than five seconds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 17.5.4: If a team that is not attempting a shot at goal loses control of the ball out of bounds and regains possession as a result of a sideline throw or corner throw, the shot clock will not be reset.",
+    "image": null
+  },
+  {
+    "id": "ch17-r175-005",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.5.5",
+    "question": "Two opposing players momentarily share possession of the ball. When is the shot clock reset?",
+    "options": [
+      "Automatically whenever two players share possession",
+      "Only if there is a clear change of possession to the other team",
+      "Never — shared possession does not affect the shot clock",
+      "Only if the Referee sounds the whistle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 17.5.5: If two players of opposing teams momentarily share possession, the shot clock will only be reset if there is a clear change of possession of the ball to the other team.",
+    "image": null
+  },
+  {
+    "id": "ch17-r175-006",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.5.6",
+    "question": "A team momentarily loses control of the ball and immediately regains it. What happens to the shot clock?",
+    "options": [
+      "The shot clock is reset because possession briefly changed",
+      "The shot clock is not reset",
+      "The Referee may reset the clock at their discretion",
+      "The shot clock resets only if the ball touched the water"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 17.5.6: If a team momentarily loses control or possession of the ball and that team regains control or possession, the shot clock will not be reset.",
+    "image": null
+  },
+  {
+    "id": "ch17-r175-007",
+    "source": "rules",
+    "chapter": 17,
+    "rule": "17.5.7",
+    "question": "Under what circumstances does a foul cause the shot clock to be reset?",
+    "options": [
+      "Any foul automatically resets the shot clock",
+      "Only fouls resulting in a yellow or red card",
+      "When a team receives a free shot or the Referee plays advantage as a result of a foul by the opposing team",
+      "Only when the Referee stops play to award the free shot"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 17.5.7: The shot clock will be reset if a team receives a free shot or if the Referee plays advantage as a result of a foul by the opposing team.",
+    "image": null
+  },
+  {
+    "id": "ch8-r82-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.2",
+    "question": "What is the playing area reserved for immediately prior to and during a game?",
+    "options": [
+      "Spectators and media",
+      "Solely the players in the game in progress, and for those players to warm up immediately before the game",
+      "All team personnel including coaches and managers",
+      "Any accredited official or team representative"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.2.1: The playing area is reserved during a game solely for the players in the game in progress, and immediately prior to the game for those players to use for continued warm-up.",
+    "image": null
+  },
+  {
+    "id": "ch8-r853-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.5.3",
+    "question": "What is the minimum depth requirement for a goal net in canoe polo?",
+    "options": [
+      "30 centimetres",
+      "40 centimetres",
+      "50 centimetres",
+      "60 centimetres"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rule 8.5.3.b: The net must be a minimum of fifty (50) centimetres deep and have no loose or hanging ends which may interfere with players or their equipment.",
+    "image": null
+  },
+  {
+    "id": "ch8-r89-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.9",
+    "question": "Who may use the warm-up area?",
+    "options": [
+      "Any player or official at the competition",
+      "Only players preparing for the next game",
+      "Players from both the current and next game",
+      "Players and coaches from teams not currently competing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.9.3: The warm-up area will be reserved solely for the use of players preparing for the next game.",
+    "image": null
+  },
+  {
+    "id": "ch8-r810-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.10",
+    "question": "Who is permitted in the officials' area during a competition?",
+    "options": [
+      "Anyone holding a valid spectator ticket",
+      "Officials, players, listed team personnel (coach, manager, doctor) and accredited media representatives directly involved in the game in progress or the next game",
+      "Only referees and goal line judges",
+      "Officials and players only — no media or support staff"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.10.2: Only people directly involved in the game in progress or the game about to commence (officials, players, listed team personnel such as coach, manager, doctor) or accredited media representatives are permitted in the officials' area.",
+    "image": null
+  },
+  {
+    "id": "ch8-r812-001",
+    "source": "rules",
+    "chapter": 8,
+    "rule": "8.12",
+    "question": "What action may any official take regarding the competition area?",
+    "options": [
+      "Close the competition area to all non-players",
+      "Request the removal from the competition area of people interfering with the smooth running of the competition",
+      "Issue yellow cards to spectators who enter the area",
+      "Only the Chief Official may act on unauthorised entry to the competition area"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 8.12.3: Any official may request the removal from the competition area of people interfering with the smooth running of the competition.",
+    "image": null
+  },
+  {
+    "id": "ch10-r10302-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.30.2",
+    "question": "Under Rule 10.30.2, can a free shot be taken as a direct shot at goal?",
+    "options": [
+      "No — a free shot must first be passed to a team-mate before a shot at goal",
+      "Yes — a free shot can be a direct shot at goal",
+      "Only if the Referee specifically signals a direct free shot",
+      "Only within the attacking zone"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 10.30.2: A free shot can be a direct shot at goal.",
+    "image": null
+  },
+  {
+    "id": "ch11-r112-001",
+    "source": "rules",
+    "chapter": 11,
+    "rule": "11.2",
+    "question": "What disciplinary actions may the Competition Committee impose following an investigation?",
+    "options": [
+      "Only reprimand or fine — suspension requires a separate governing body ruling",
+      "Reprimand, fine, suspension from part or all of the competition, or such other action as it thinks fit",
+      "Verbal warning or written warning only",
+      "The Competition Committee can only refer matters to the ICF — it cannot impose sanctions directly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rule 11.2.3: The Competition Committee may reprimand a player, fine a delegation member or team, suspend an individual from part or all of the Competition, or take such other action as it thinks fit.",
+    "image": null
   }
 ]

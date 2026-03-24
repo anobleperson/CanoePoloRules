@@ -15,7 +15,8 @@
     <div class="header-inner">
       <a href="index.html" class="logo">Canoe Polo Rules Quiz</a>
       <nav class="site-nav">
-        <a href="index.html" class="active">Quiz</a>
+        <a href="index.html" class="active">Home</a>
+        <a href="signals.html">Signals</a>
         <a href="rules.html">Rules</a>
       </nav>
     </div>
@@ -23,17 +24,31 @@
 
   <main class="quiz-main" id="quizMain">
 
-    <!-- Start screen -->
-    <div id="screenStart" class="screen screen-start">
-      <div class="card start-card">
-        <h1>ICF 2025 Canoe Polo Rules</h1>
-        <p class="subtitle">Test your knowledge of the ICF 2025 Competition Rules — Chapters 7 to 11.</p>
-        <ul class="quiz-info">
-          <li><span class="info-icon">&#10003;</span> 20 random questions per session</li>
-          <li><span class="info-icon">&#10003;</span> Immediate feedback with rule citation</li>
-          <li><span class="info-icon">&#10003;</span> Covers Officials, Equipment, Game Play &amp; more</li>
-        </ul>
-        <button class="btn btn-primary btn-lg" id="btnStart">Start Quiz</button>
+    <!-- Start / Home screen -->
+    <div id="screenStart" class="screen screen-home">
+      <h1 class="home-title">ICF 2025 Canoe Polo Rules</h1>
+      <p class="home-subtitle">Prepare for your referee exam</p>
+      <div class="home-panels">
+
+        <a href="rules.html" class="home-panel home-panel-link">
+          <div class="panel-icon">&#128218;</div>
+          <h2>View Rules</h2>
+          <p>Browse all chapters with collapsible sections and deep links to individual rules.</p>
+        </a>
+
+        <div class="home-panel home-panel-primary">
+          <div class="panel-icon">&#10003;</div>
+          <h2>Rules Quiz</h2>
+          <p>20 random questions from Chapters 8–11 and 17. Immediate feedback with rule citation.</p>
+          <button class="btn btn-primary btn-lg" id="btnStart">Start Quiz</button>
+        </div>
+
+        <a href="signals.html" class="home-panel home-panel-link">
+          <div class="panel-icon">&#128075;</div>
+          <h2>Signals Quiz</h2>
+          <p>Recognise all 20 referee hand signals from photos. Pick the correct signal name.</p>
+        </a>
+
       </div>
     </div>
 

@@ -25,9 +25,10 @@ CHAPTER_TITLES = {
     10: "Game Play",
     11: "Protests and Disciplinary",
     15: "Referee Hand Signals",
+    17: "Shot Clock",
 }
 
-CHAPTERS_IN_SCOPE = {7, 8, 9, 10, 11, 15}
+CHAPTERS_IN_SCOPE = {7, 8, 9, 10, 11, 15, 17}
 
 # Chapter heading pattern: ## **7.1 - COMPETITION COMMITTEE**
 SECTION_HEADING_RE = re.compile(r'^##\s+\*?\*?(\d+)\.(\d+(?:\.\d+)*)\s*[-–]\s*(.+?)\*?\*?\s*$')
