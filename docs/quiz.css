@@ -142,9 +142,11 @@
   gap: 0.75rem;
 }
 
-.option-btn:hover:not(:disabled) {
-  border-color: var(--color-primary);
-  background: #f0f7fb;
+@media (hover: hover) {
+  .option-btn:hover:not(:disabled) {
+    border-color: var(--color-primary);
+    background: #f0f7fb;
+  }
 }
 
 .option-btn:focus-visible {
