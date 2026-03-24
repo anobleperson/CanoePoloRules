@@ -120,8 +120,8 @@
       else if (i === chosen && !isCorrect) btn.classList.add('incorrect');
     });
 
-    // Show feedback after brief pause so user sees highlight
-    setTimeout(() => showFeedback(index, isCorrect), 300);
+    // Show feedback after a pause — longer when wrong so the correct answer registers
+    setTimeout(() => showFeedback(index, isCorrect), isCorrect ? 300 : 1200);
   }
 
   // ── Feedback display ───────────────────────────────────────────────────────
