@@ -1363,10 +1363,7 @@ The Chief Official, Competition Organiser, Technical Organiser, Referee Manager/
 
 ## **[SR]** 
 
-
 ![](images/2025_icf_canoe_polo_rules.pdf-0053-03.png)
-
-
 
 
 ## **8.2 - PLAYING AREA – OVERVIEW** 
