@@ -2190,5 +2190,1093 @@
     "correctIndex": 2,
     "explanation": "The 2025 Rule Clarification on Illegal Hand Tackle (Part 2) states: as soon as the ball is raised behind the attacker's head indicating the start of the throwing motion, no contact is permitted with the attacker's throwing arm or the ball.",
     "image": null
+  },
+  {
+    "id": "ch10-r103-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.3",
+    "question": "Who may request a coin toss to determine choice of ends?",
+    "options": [
+      "Either captain or the Chief Official",
+      "The first Referee only",
+      "Only the captain of the first named team",
+      "The Competition Committee chairperson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.3 states the default starting positions apply unless one of the captains OR the Chief Official requests a coin toss.",
+    "image": null
+  },
+  {
+    "id": "ch10-r103-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.3",
+    "question": "Without a coin toss, which team starts on the goal line at the right-hand side of the official table?",
+    "options": [
+      "The second named team on the game sheet",
+      "The first named team on the game sheet",
+      "The team with the most senior captain",
+      "The home team"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.3 places the first named team on the left-hand side, so the second named team starts on the right-hand side.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1051-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.1",
+    "question": "If the physical sideline is moved out of position during normal play, where is the new boundary?",
+    "options": [
+      "The boundary moves with the displaced physical sideline",
+      "The boundary stays at its original marked position",
+      "The Referee decides where the boundary lies",
+      "Play stops immediately and the sideline is reset"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.5.1.b states that if the physical sideline is moved as a consequence of normal play, the boundary including the vertical plane above moves with it.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1051-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.1",
+    "question": "Where must a player taking a sideline throw position their kayak when the ball made contact with an overhead obstacle?",
+    "options": [
+      "At the point on the sideline nearest to where the ball contacted the obstacle",
+      "At the nearest corner of the playing area",
+      "At the point where the ball landed in the water",
+      "Anywhere along the sideline at the player's discretion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.5.1.c states the player must position at the point of exit of the ball or the point on the sideline nearest to the point of contact with an overhead obstacle.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1052-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.2",
+    "question": "If the goal frame is moved during play, how is the goal line measured?",
+    "options": [
+      "Always by the vertical plane of the original goal frame position",
+      "By the current position of the displaced goal frame",
+      "By the physical line marked on the pool floor",
+      "At the Referee's discretion based on where the frame ended up"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.5.2.a states the goal line is always measured by the vertical plane of the goal frame in all situations, even if moved.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1052-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.2",
+    "question": "Where must the player taking a goal line throw position their kayak?",
+    "options": [
+      "With their kayak on the goal line",
+      "Within one metre of the goal line",
+      "At the six-metre line",
+      "Anywhere behind the goal line"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.5.2.b states the player taking a goal line throw must be positioned with their kayak on the goal line.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1053-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.3",
+    "question": "Where must the player taking a corner throw position their kayak?",
+    "options": [
+      "In the corner of the playing area",
+      "On the goal line nearest the corner",
+      "At the sideline intersection with the six-metre line",
+      "At the nearest sideline point to the ball's exit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.5.3.c states the player taking a corner throw must be positioned with their kayak in the corner of the playing area.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1053-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.5.3",
+    "question": "A ball crosses a team's own goal line and was last touched by a player from that same team. What is awarded?",
+    "options": [
+      "A corner throw to the opposing team",
+      "A goal line throw to the opposing team",
+      "A sideline throw to the opposing team",
+      "A referee's ball"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.5.3.a states that when the ball goes out over a team's own goal line and was last touched by their own team, a corner throw is awarded to the opposition.",
+    "image": null
+  },
+  {
+    "id": "ch10-r107-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.7",
+    "question": "How is play restarted after a live stream time-out?",
+    "options": [
+      "By free throw — not a direct throw",
+      "By a referee's ball at the approximate position",
+      "By a direct shot at goal",
+      "By drop-ball from the Referee"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.7.1 specifies that restart after a live stream time-out will be by free throw — not a direct throw.",
+    "image": null
+  },
+  {
+    "id": "ch10-r107-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.7",
+    "question": "What happens if neither team has called the live stream time-out after six minutes of the second half?",
+    "options": [
+      "The Referee calls a two-minute time-out",
+      "The Referee calls a one-minute time-out for the home team",
+      "The time-out is forfeited for that half",
+      "The game is suspended until a team calls the time-out"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.7.3 states that if no time-out has been called by either team after six minutes of the second half, the Referee will call a two-minute time-out.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1013-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.13",
+    "question": "May anyone enter the playing area to assist a capsized player with their equipment?",
+    "options": [
+      "No — no person may enter the playing area to assist with equipment",
+      "Yes — a team official may assist if they stay outside the six-metre zone",
+      "Yes — a teammate may assist as long as the ball is not in play",
+      "Only the Referee may assist if the player is in danger"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.13.3 states no person may enter the playing area to assist a player with their equipment.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1013-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.13",
+    "question": "Can a team be penalised for illegal outside assistance to a capsized player?",
+    "options": [
+      "Yes — the Referee determines the severity of the sanction",
+      "No — assistance to a capsized player is always permitted",
+      "Only if the assistance directly affects possession of the ball",
+      "Only if the opposing team formally protests"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.13.4 states a team may be penalised for illegal outside assistance, with the Referee determining the severity.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1015-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.15",
+    "question": "What electronic communications are permitted during a game?",
+    "options": [
+      "Communications by competition officials only",
+      "Communications between a coach and their goalkeeper only",
+      "Communications between team captains and their bench",
+      "Any electronic communication that does not interfere with play"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.15 states no electrical assistance may be used to direct or communicate with players during a game, other than communications by competition officials.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1015-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.15",
+    "question": "A coach uses a radio earpiece to direct their players during a game. Is this permitted?",
+    "options": [
+      "No — no electrical assistance may be used to communicate with players",
+      "Yes — coaching communications are always permitted",
+      "Yes — if used only during time-outs",
+      "Only if the opposing coach is using the same technology"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.15 prohibits any electrical assistance to direct or communicate with players during a game, other than by competition officials.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1018-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.18",
+    "question": "If it is unclear which player illegally entered the playing area, who nominates which player must exit?",
+    "options": [
+      "The team's captain",
+      "The Referee",
+      "The Chief Official",
+      "The offending team's coach"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.18.1 states that if it is not clear which player must exit, the team's captain must nominate a player.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1018-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.18",
+    "question": "What sanction is given for an illegal entry to the playing area when more than the allowed number of players are present?",
+    "options": [
+      "A sanction card to the illegally entering player(s)",
+      "A goal penalty shot to the opposing team",
+      "A free throw at the point of illegal entry",
+      "An automatic team warning with no individual sanction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.18.1 states the player(s) coming illegally into the playing area must be given a sanction card(s).",
+    "image": null
+  },
+  {
+    "id": "ch10-r10192-001",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.19.2",
+    "question": "Is it illegal to play the ball with a paddle when the ball is within arm's reach of an opponent who is attempting to play it with their hand?",
+    "options": [
+      "Yes — this is defined as illegal use of paddle",
+      "No — contesting the ball by any means is permitted",
+      "Only illegal if the opponent has already touched the ball",
+      "Only illegal within the six-metre zone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.19.3 explicitly lists playing the ball with a paddle when it is within arm's reach of an opponent attempting to play it with their hand as illegal use of paddle.",
+    "image": null
+  },
+  {
+    "id": "ch10-r10192-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.19.2",
+    "question": "Under what condition may a goalkeeper use their paddle within arm's reach of an opponent who has the ball in their hand?",
+    "options": [
+      "To directly defend a shot at goal, as long as the paddle is not moved toward the opponent and causes no significant contact",
+      "At any time — goalkeepers are exempt from all paddle rules within the six-metre zone",
+      "Only when the attacker is not in a shooting position",
+      "Never — the same paddle rules apply to all players including the goalkeeper"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.19.5 excludes the goalkeeper from the arm's reach rule when directly defending a shot at goal, provided the paddle is not moved towards the opponent at the time of the shot and does not result in significant contact.",
+    "image": null
+  },
+  {
+    "id": "ch10-r10192-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.19.2",
+    "question": "Which of the following is classified as illegal use of paddle?",
+    "options": [
+      "Throwing a paddle",
+      "Using a paddle to deflect the ball mid-air",
+      "Placing a paddle behind the goal line to block a shot",
+      "Holding a paddle overhead while in possession of the ball"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.19.8 explicitly lists throwing a paddle as illegal use of paddle.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1024-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.24",
+    "question": "Is a stationary player who is not paddling considered to be actively impeding an opponent?",
+    "options": [
+      "No — a player is actively impeding only if their kayak is moving or they are attempting paddle strokes",
+      "Yes — any player in the path of an opponent is impeding them",
+      "Yes — if the opponent cannot get past within three seconds",
+      "Only if the stationary player is within three metres of the ball"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.24.2.a notes that a player is considered to be actively impeding only when their kayak is moving or they are attempting active paddle strokes.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1024-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.24",
+    "question": "Under rule 10.24.2.b, when is it illegal to impede an opponent who is competing for a ball in the air?",
+    "options": [
+      "It is not covered — rule 10.24.2.b only applies to a ball on the water",
+      "It is illegal in all circumstances",
+      "Only within the six-metre zone",
+      "Only if the impeding player is more than three metres from the ball"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.24.2.b states it is illegal to actively impede an opponent competing for the ball on the water and not in the air, so aerial balls are not covered by this sub-rule.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1027-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.27",
+    "question": "If a team member approaches a Referee Manager about the appointment or performance of referees, what is the immediate consequence?",
+    "options": [
+      "They are immediately referred to the Competition Committee, potentially resulting in disqualification",
+      "They receive a verbal warning from the Chief Official",
+      "The team captain receives a yellow sanction card",
+      "The matter is noted and reviewed after the competition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.27.4 states any team member who approaches a Referee Manager about referee appointment will immediately be referred to the Competition Committee, which may result in the team being disqualified.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1027-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.27",
+    "question": "Who may a team leader legitimately discuss concerns about referee appointments with?",
+    "options": [
+      "The Chief Official and/or Technical Organiser",
+      "The Referee Manager directly",
+      "The opposing team captain",
+      "Any ICF official at the competition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.27.3 states team leaders may discuss concerns about referee appointments with the Chief Official and/or Technical Organiser on behalf of their teams.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1030-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.30",
+    "question": "For what type of foul is a free shot awarded?",
+    "options": [
+      "Any foul on a player, unless a goal penalty shot is awarded",
+      "Any foul within the six-metre zone only",
+      "Only fouls that prevent an immediate scoring opportunity",
+      "Fouls committed by the defending team within their own half"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.30.3 states a free shot will be awarded for any foul on a player unless a goal penalty shot is awarded.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1030-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.30",
+    "question": "Which signal applies when a free shot is awarded?",
+    "options": [
+      "Signal 15",
+      "Signal 14",
+      "Signal 9",
+      "Signal 1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.30.1 states Signal 15 applies for a free shot.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1035-002",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.35",
+    "question": "When does a sanction card awarded after referees played advantage take effect?",
+    "options": [
+      "From when the sanction card is awarded, not from when the foul occurred",
+      "Retroactively from when the original foul was committed",
+      "At the next stoppage in play",
+      "At the start of the following half"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.35.5 specifies a sanction card awarded after the referee(s) played advantage takes effect from when it is awarded, not from when the foul occurred.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1035-003",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.35",
+    "question": "Under which circumstance is a sanction card required even when the referee awarded advantage?",
+    "options": [
+      "When a deliberate or dangerous foul is repeated while advantage is being played (unless an Ejection Red Card is awarded)",
+      "Only if the fouled player specifically requests it",
+      "Only if the team did not gain an advantage from the play-on",
+      "A card is never given during an advantage period"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.35.5 states a sanction card will be awarded for a deliberate or dangerous foul repeated while advantage is being played, unless an Ejection Red Card is awarded instead.",
+    "image": null
+  },
+  {
+    "id": "ch10-r1035-004",
+    "source": "rules",
+    "chapter": 10,
+    "rule": "10.35",
+    "question": "A player sent off must re-enter according to which rules?",
+    "options": [
+      "The rules of entry to the playing area",
+      "Immediately at the nearest point to where they left",
+      "Only after a goal is scored",
+      "Only during the next dead ball situation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.35.10 states players sent off must obey the rules of entry to the playing area for re-entry at the completion of the send-off period.",
+    "image": null
+  },
+  {
+    "id": "ch15-r151-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.1",
+    "question": "How is Signal 1 (Start / Infringement) performed?",
+    "options": [
+      "Arm forward and bent upwards with palm open and facing sideways at head level",
+      "Both arms extended forward at shoulder level, fists clenched",
+      "Arms crossed in front of chest, palms out",
+      "One arm elbow bent, rotating in a circular motion at hip level"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 1 is performed with the arm forward and bent upwards with the palm open and facing sideways at head level.",
+    "image": "images/page105_img1.png"
+  },
+  {
+    "id": "ch15-r151-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.1",
+    "question": "Which signal is used for both the sprint start and start infringements?",
+    "options": [
+      "Signal 1",
+      "Signal 2",
+      "Signal 8",
+      "Signal 14"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 1 (Start / Infringement) covers the sprint start and start infringements.",
+    "image": "images/page105_img1.png"
+  },
+  {
+    "id": "ch15-r152-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.2",
+    "question": "How is Signal 2 (Completion of Half / Full Time) performed?",
+    "options": [
+      "Arms crossed in front of chest, palms out",
+      "Repeated crossing of arms at thigh level, palms open",
+      "Both arms extended with index fingers pointing at goal",
+      "Arm forward and bent upwards with palm open"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 2 is arms crossed in front of the chest with palms out, indicating completion of half or full time.",
+    "image": "images/page105_img2.png"
+  },
+  {
+    "id": "ch15-r152-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.2",
+    "question": "Which signal must the Referee use to confirm the Timekeeper's end-of-period signal?",
+    "options": [
+      "Signal 2",
+      "Signal 1",
+      "Signal 7",
+      "Signal 3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.16.1 states the Referee must use Signal 2 to confirm the Timekeeper's signal at the end of each period.",
+    "image": "images/page105_img2.png"
+  },
+  {
+    "id": "ch15-r153-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.3",
+    "question": "How is Signal 3 (Goal) performed?",
+    "options": [
+      "Arms extended with palms together, pointing to the centre of the field",
+      "Both arms extended with index fingers pointing at the goal",
+      "Arms crossed in front of chest, palms out",
+      "Arm extended palm open pointing in direction of play"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 3 (Goal) is performed with arms extended and palms together, pointing to the centre of the field.",
+    "image": "images/page105_img3.png"
+  },
+  {
+    "id": "ch15-r153-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.3",
+    "question": "Which signal does a referee show (along with a long whistle blast) to confirm a goal has been scored?",
+    "options": [
+      "Signal 3",
+      "Signal 16",
+      "Signal 2",
+      "Signal 1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.8.1 states Signal 3 applies along with one long whistle blast when a goal is scored.",
+    "image": "images/page105_img3.png"
+  },
+  {
+    "id": "ch15-r154-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.4",
+    "question": "How is Signal 4 (Disallowed Goal) performed?",
+    "options": [
+      "Repeated crossing of arms at thigh level with palms open",
+      "Arms crossed in front of chest with palms out",
+      "Arms extended with palms together pointing to centre of field",
+      "Both arms extended with index fingers pointing at the goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 4 is a repeated crossing of the arms at thigh level with palms open, indicating a disallowed goal.",
+    "image": "images/page105_img4.png"
+  },
+  {
+    "id": "ch15-r154-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.4",
+    "question": "What distinguishes Signal 4 (Disallowed Goal) from Signal 2 (Completion of Half/Full Time)?",
+    "options": [
+      "Signal 4 is performed at thigh level with palms open; Signal 2 crosses arms at chest level with palms out",
+      "Signal 4 uses one arm; Signal 2 uses both arms",
+      "Signal 4 includes a verbal call; Signal 2 does not",
+      "They are identical — context determines the meaning"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 4 is a repeated crossing at thigh level with palms open, while Signal 2 crosses arms at chest level with palms out.",
+    "image": "images/page105_img4.png"
+  },
+  {
+    "id": "ch15-r155-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.5",
+    "question": "How is Signal 5 (Sideline Throw / Corner) performed?",
+    "options": [
+      "Point at the sideline; other arm showing direction of play",
+      "Point open hand along the goal line; other arm showing direction of play",
+      "Arm extended with palm open parallel to the sideline",
+      "Index finger pointing at the goal; other arm showing direction of play"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 5 is performed by pointing at the sideline with one arm and using the other arm to show direction of play.",
+    "image": "images/page105_img5.png"
+  },
+  {
+    "id": "ch15-r155-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.5",
+    "question": "Signal 5 is used for which two situations?",
+    "options": [
+      "Sideline throw and corner throw",
+      "Sideline throw and goal line throw",
+      "Corner throw and free throw",
+      "Sideline throw and referee's ball"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 5 covers both sideline throw and corner throw situations.",
+    "image": "images/page105_img5.png"
+  },
+  {
+    "id": "ch15-r156-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.6",
+    "question": "How is Signal 6 (Goal Line Throw) performed?",
+    "options": [
+      "Point open hand with arm extended along the goal line; other arm showing direction of play",
+      "Point at the sideline; other arm showing direction of play",
+      "Both arms extended index fingers pointing at the goal",
+      "Arm forward and bent upwards, palm open, facing sideways"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 6 is performed with one open hand pointing arm extended along the goal line, while the other arm shows direction of play.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-00.png"
+  },
+  {
+    "id": "ch15-r157-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.7",
+    "question": "How does a referee signal Time Out?",
+    "options": [
+      "Form a 'T' with hands above the head",
+      "Hold one arm straight up in the air",
+      "Cross both arms above the head",
+      "Wave both hands from side to side above the head"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 7 (Time Out) is performed by forming a 'T' shape with the hands above the head.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-01.png"
+  },
+  {
+    "id": "ch15-r157-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.7",
+    "question": "Which signal number indicates Time Out?",
+    "options": [
+      "Signal 7",
+      "Signal 2",
+      "Signal 1",
+      "Signal 13"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 7 is the Time Out signal, performed by forming a 'T' with hands above the head.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-01.png"
+  },
+  {
+    "id": "ch15-r158-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.8",
+    "question": "How is Signal 8 (Referee's Ball) performed?",
+    "options": [
+      "Arms extended forward at shoulder level, fists clenched, thumbs up",
+      "Arms extended, palms together, pointing to centre of field",
+      "One arm raised in the air, fist clenched for two seconds",
+      "Both arms extended with index fingers together pointing at goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 8 (Referee's Ball) is performed with arms extended forward at shoulder level, fists clenched, and thumbs up.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-02.png"
+  },
+  {
+    "id": "ch15-r158-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.8",
+    "question": "Which signal is used when the referee cannot determine who had possession at the time of the whistle?",
+    "options": [
+      "Signal 8 — Referee's Ball",
+      "Signal 1 — Start / Infringement",
+      "Signal 13 — Play On / Advantage",
+      "Signal 14 — Free Throw"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 10.6.7 states Signal 8 applies when the referee cannot determine who had possession, resulting in a Referee's Ball.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-02.png"
+  },
+  {
+    "id": "ch15-r159-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.9",
+    "question": "How is Signal 9 (Obstruction) performed?",
+    "options": [
+      "Hold one arm up in the air with fist clenched for two seconds, then point to where the free shot is taken",
+      "Hold clenched fist against hip for two seconds, then point to the free shot position",
+      "Side of the hand repeatedly chops the upper arm for two seconds, then point to free shot position",
+      "Arm raised with fist moving vertically for two seconds, then point to free shot position"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 9 (Obstruction) requires holding one arm up in the air with fist clenched for two seconds, then pointing to where the free shot is to be taken.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-03.png"
+  },
+  {
+    "id": "ch15-r159-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.9",
+    "question": "Signal 9 is one of the offence signals shown alongside which other signal?",
+    "options": [
+      "Signal 15 (Free Shot)",
+      "Signal 14 (Free Throw)",
+      "Signal 16 (Goal Penalty Shot)",
+      "Signal 2 (Completion of Half)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 15.15 states Signal 15 (Free Shot) is shown with the other arm displaying an offence signal including Signal 9 (Obstruction).",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-03.png"
+  },
+  {
+    "id": "ch15-r1510-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.10",
+    "question": "How is Signal 10 (Illegal Kayak Tackle) performed?",
+    "options": [
+      "Hold clenched fist against hip for two seconds, then point to the free shot position",
+      "Hold one arm up in the air fist clenched for two seconds, then point to the free shot position",
+      "Side of hand repeatedly chops the upper arm for two seconds, then point to free shot position",
+      "Hand held up at head level, palm forward, fingers spread for two seconds"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 10 (Illegal Kayak Tackle) is performed by holding a clenched fist against the hip for two seconds, then pointing to where the free shot is taken.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-04.png"
+  },
+  {
+    "id": "ch15-r1510-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.10",
+    "question": "What is the key physical difference between Signal 9 (Obstruction) and Signal 10 (Illegal Kayak Tackle)?",
+    "options": [
+      "Signal 9 holds the arm raised in the air; Signal 10 holds a fist against the hip",
+      "Signal 9 uses both arms; Signal 10 uses only one arm",
+      "Signal 9 is held for three seconds; Signal 10 for two seconds",
+      "Signal 9 points to the sideline; Signal 10 points to the goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 9 holds one arm up in the air fist clenched; Signal 10 holds the clenched fist against the hip — different body positions.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0106-04.png"
+  },
+  {
+    "id": "ch15-r1511-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.11",
+    "question": "How is Signal 11 (5 Seconds / Possession) performed?",
+    "options": [
+      "Hand held up at side at head level, palm forward, all fingers spread for two seconds, then point to free shot position",
+      "Side of hand repeatedly chops the upper arm for two seconds, then point to free shot position",
+      "Fist clenched against hip for two seconds, then point to free shot position",
+      "Arm raised with fist moving vertically for two seconds, then point to free shot position"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 11 is performed with hand held up at the side at head level, palm forward, all fingers spread for two seconds, then pointing to where the free shot is taken.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0107-00.png"
+  },
+  {
+    "id": "ch15-r1511-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.11",
+    "question": "Signal 11 covers which two types of infringement?",
+    "options": [
+      "5 seconds violation and illegal possession",
+      "Illegal possession and illegal kayak tackle",
+      "5 seconds violation and obstruction",
+      "Illegal possession and illegal holding"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 11 covers both 5 Seconds (time in possession) and Possession (illegal possession) infringements.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0107-00.png"
+  },
+  {
+    "id": "ch15-r1512-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.12",
+    "question": "How is Signal 12 (Illegal Use of Paddle) performed?",
+    "options": [
+      "The side of the other hand repeatedly chops the upper arm for two seconds, then point to the free shot position",
+      "Hold one arm raised in the air fist clenched for two seconds, then point to free shot position",
+      "Hand at head level, palm forward, fingers spread for two seconds, then point to free shot position",
+      "Clenched fist held against hip for two seconds, then point to free shot position"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 12 is performed by the side of the other hand repeatedly chopping the upper arm for two seconds, then pointing to the free shot position.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0107-01.png"
+  },
+  {
+    "id": "ch15-r1512-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.12",
+    "question": "Which offence signals can be shown alongside Signal 15 (Free Shot)?",
+    "options": [
+      "Signals 9, 10, 11 or 12",
+      "Signals 1, 5, 6 or 11",
+      "Signals 7, 9, 12 or 16",
+      "Signals 10, 13, 14 or 15"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 15.15 states Signal 15 (Free Shot) is accompanied by an offence signal of 9, 10, 11 or 12.",
+    "image": null
+  },
+  {
+    "id": "ch15-r1513-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.13",
+    "question": "How is Signal 13 (Play On / Advantage) performed?",
+    "options": [
+      "One arm elbow bent, rotating in circular motion across the body at hip level for up to five seconds; other arm showing direction of play",
+      "Arm forward and bent upwards with palm open facing sideways at head level",
+      "Both arms extended forward at shoulder level, fists clenched, thumbs up",
+      "Side of hand chopping the upper arm repeatedly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 13 (Play On/Advantage) is one arm elbow bent rotating in circular motion across the body at hip level, continuously for up to five seconds, with the other arm showing direction of play.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0107-02.png"
+  },
+  {
+    "id": "ch15-r1513-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.13",
+    "question": "What is the maximum duration a referee may show Signal 13 (Play On / Advantage)?",
+    "options": [
+      "Five seconds",
+      "Two seconds",
+      "Three seconds",
+      "Until the next stoppage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 13 is shown continuously for a maximum of five seconds while advantage is being played.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0107-02.png"
+  },
+  {
+    "id": "ch15-r1514-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.14",
+    "question": "How is Signal 14 (Free Throw) performed?",
+    "options": [
+      "Arm extended, palm open, pointing in direction of play parallel to the side of the field; other arm showing the offence signal",
+      "Arm extended with index finger pointing at goal in direction of attack; other arm showing offence signal",
+      "Both arms extended index fingers pointing at goal",
+      "One arm raised fist clenched for two seconds, then pointing to free throw position"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 14 is arm extended palm open pointing in direction of play parallel to the side of the field, with the other arm showing the offence signal.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0107-03.png"
+  },
+  {
+    "id": "ch15-r1514-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.14",
+    "question": "Which offence signals are shown alongside Signal 14 (Free Throw)?",
+    "options": [
+      "Signals 1, 5, 6, 11 or 13",
+      "Signals 9, 10, 11 or 12",
+      "Signals 3, 4, 7 or 8",
+      "Signals 16, 17, 18 or 19"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rule 15.14 states Signal 14 (Free Throw) is shown with the other arm displaying offence signal 1, 5, 6, 11 or 13.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0107-03.png"
+  },
+  {
+    "id": "ch15-r1515-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.15",
+    "question": "How is Signal 15 (Free Shot) performed?",
+    "options": [
+      "Arm extended with index finger pointing at the goal in direction of attack; other arm showing the offence signal",
+      "Arm extended palm open pointing in direction of play parallel to the sideline; other arm showing offence signal",
+      "Both arms extended with index fingers together pointing at goal",
+      "One arm raised fist clenched for two seconds then pointing toward goal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 15 (Free Shot) is arm extended with index finger pointing at the goal in the direction of attack, while the other arm shows the offence signal.",
+    "image": "images/2025_icf_canoe_polo_rules.pdf-0107-04.png"
+  },
+  {
+    "id": "ch15-r1515-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.15",
+    "question": "What is the key visual difference between Signal 14 (Free Throw) and Signal 15 (Free Shot)?",
+    "options": [
+      "Signal 14 uses an open palm parallel to the field; Signal 15 uses an index finger pointing at the goal",
+      "Signal 14 uses two hands; Signal 15 uses one hand",
+      "Signal 14 points toward the goal; Signal 15 points along the sideline",
+      "Signal 14 is held for two seconds; Signal 15 is shown instantly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 14 uses an open palm pointing parallel to the sideline (direction of play), while Signal 15 uses an extended index finger pointing directly at the goal.",
+    "image": null
+  },
+  {
+    "id": "ch15-r1516-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.16",
+    "question": "How is Signal 16 (Goal Penalty Shot) performed?",
+    "options": [
+      "Both arms extended with index fingers together and pointing at the goal",
+      "One arm extended with index finger pointing at the goal",
+      "Arms extended palms together pointing to the centre of the field",
+      "Both arms crossed at chest level with palms out"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 16 (Goal Penalty Shot) is both arms extended with index fingers together and pointing at the goal.",
+    "image": "images/page108_img1.png"
+  },
+  {
+    "id": "ch15-r1516-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.16",
+    "question": "What visually distinguishes Signal 16 (Goal Penalty Shot) from Signal 15 (Free Shot)?",
+    "options": [
+      "Signal 16 uses both arms with index fingers together; Signal 15 uses only one arm with index finger",
+      "Signal 16 points to the sideline; Signal 15 points to the goal",
+      "Signal 16 includes a verbal announcement; Signal 15 does not",
+      "Signal 16 is held for two seconds; Signal 15 is shown instantly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 16 uses both arms with index fingers together pointing at the goal, while Signal 15 uses just one extended arm with index finger pointing at the goal.",
+    "image": "images/page108_img1.png"
+  },
+  {
+    "id": "ch15-r1517-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.17",
+    "question": "How must a referee show a card to a player (Signal 17)?",
+    "options": [
+      "Hold card above the shoulder so it is visible in front and behind; other arm pointing to player",
+      "Hold card at chest height facing the player; point with the other arm",
+      "Hold card above the head with both hands",
+      "Raise the card at shoulder height and wave it"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 17 requires holding the card above the shoulder so it is visible from both in front and behind, with the other arm pointing to the player.",
+    "image": "images/page108_img2.png"
+  },
+  {
+    "id": "ch15-r1517-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.17",
+    "question": "How does a referee indicate a player number of 10 or greater when showing a sanction card?",
+    "options": [
+      "Use a clenched fist to indicate ten, then add remaining fingers for numbers above 10",
+      "Hold up ten fingers then indicate the remaining number separately",
+      "Show the number on a board rather than with fingers",
+      "Only the player's name is used — finger numbers are not required above 9"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 17 states that a clenched fist is used to indicate ten where a player number of 10 or larger is required.",
+    "image": "images/page108_img2.png"
+  },
+  {
+    "id": "ch15-r1518-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.18",
+    "question": "How is Signal 18 (Unsporting Behaviour) performed?",
+    "options": [
+      "One index finger on one hand waved from side to side repeatedly",
+      "Both index fingers waved from side to side",
+      "One arm raised above the head waving side to side",
+      "Repeated crossing of arms at chest level"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 18 (Unsporting Behaviour) is performed with one index finger waved from side to side repeatedly.",
+    "image": "images/page108_img3.png"
+  },
+  {
+    "id": "ch15-r1518-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.18",
+    "question": "Which signal number indicates Unsporting Behaviour?",
+    "options": [
+      "Signal 18",
+      "Signal 17",
+      "Signal 12",
+      "Signal 26"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 18 is the Unsporting Behaviour signal, performed with one index finger waved from side to side.",
+    "image": "images/page108_img3.png"
+  },
+  {
+    "id": "ch15-r1519-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.19",
+    "question": "How is Signal 19 (Illegal Holding / Illegal Hand Tackle) performed?",
+    "options": [
+      "Hold one arm up in the air with fist clenched and moving vertically for two seconds, then point to the free shot position",
+      "Hold one arm up in the air fist clenched stationary for two seconds, then point to the free shot position",
+      "Hold clenched fist against hip for two seconds, then point to free shot position",
+      "Side of hand repeatedly chops the upper arm for two seconds, then point to free shot position"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 19 is one arm raised with fist clenched moving vertically for two seconds, then pointing to the free shot position. It differs from Signal 9 which holds the fist stationary.",
+    "image": "images/page108_img4.png"
+  },
+  {
+    "id": "ch15-r1519-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.19",
+    "question": "What is the key difference between Signal 19 (Illegal Holding/Hand Tackle) and Signal 9 (Obstruction)?",
+    "options": [
+      "Signal 19 moves the fist vertically; Signal 9 holds the fist stationary in the air",
+      "Signal 19 uses the fist at hip level; Signal 9 holds the arm overhead",
+      "Signal 19 is shown for three seconds; Signal 9 for two seconds",
+      "Signal 19 uses both arms; Signal 9 uses only one arm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 19 moves the fist vertically while raised (indicating the tackle/holding motion), whereas Signal 9 holds the raised fist stationary for two seconds.",
+    "image": "images/page108_img4.png"
+  },
+  {
+    "id": "ch15-r1520-001",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.20",
+    "question": "How is Signal 20 (Ejection Red Card) performed?",
+    "options": [
+      "Show the red card in one hand, crossed arms with clenched fist above the shoulder visible front and behind, with verbal statement 'ejection red'",
+      "Hold the red card above the shoulder with one hand and point to the player with the other",
+      "Both arms crossed above the head holding the red card",
+      "Show the red card at chest height then raise it overhead"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 20 requires showing the red card in one hand, crossed arms with clenched fist above the shoulder visible front and behind, and the verbal statement 'ejection red' to the player.",
+    "image": "images/page108_img5.png"
+  },
+  {
+    "id": "ch15-r1520-002",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.20",
+    "question": "What verbal statement must a referee make when showing Signal 20 (Ejection Red Card)?",
+    "options": [
+      "'Ejection red'",
+      "'Red card, ejection'",
+      "'Disqualified'",
+      "No verbal statement is required"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 20 requires the verbal statement 'ejection red' addressed to the player, in addition to the physical signal.",
+    "image": "images/page108_img5.png"
+  },
+  {
+    "id": "ch15-r1520-003",
+    "source": "rules",
+    "chapter": 15,
+    "rule": "15.20",
+    "question": "What distinguishes Signal 20 (Ejection Red Card) from Signal 17 (Showing Cards) when the red card is used?",
+    "options": [
+      "Signal 20 includes crossed arms with clenched fist and the verbal 'ejection red'; Signal 17 holds the card with one hand above the shoulder pointing to the player",
+      "Signal 20 shows the card at waist level; Signal 17 at shoulder level",
+      "Signal 20 uses both hands on the card; Signal 17 uses one hand",
+      "They are performed identically — only the card colour differs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Signal 20 specifically uses crossed arms with a clenched fist above the shoulder plus the verbal 'ejection red'. Signal 17 simply holds the card above the shoulder with one hand pointing to the player.",
+    "image": "images/page108_img5.png"
   }
 ]
