@@ -36,6 +36,36 @@
     nav.classList.toggle('open');
   });
 
+  // ── Helpers ────────────────────────────────────────────────────────────────
+
+  // Find a section by ID anywhere in the data tree.
+  // Returns { chapter, section } where section may be a subsection.
+  function findSection(ruleId) {
+    if (!rulesData) return null;
+    for (const chapter of rulesData) {
+      for (const section of chapter.sections) {
+        if (section.id === ruleId) return { chapter, section };
+        for (const sub of (section.subsections || [])) {
+          if (sub.id === ruleId) return { chapter, section: sub };
+        }
+      }
+    }
+    return null;
+  }
+
+  // Find the top-level (X.Y) nav ID for a given rule ID (which may be a subsection).
+  function navIdFor(ruleId) {
+    if (!rulesData) return ruleId;
+    for (const chapter of rulesData) {
+      for (const section of chapter.sections) {
+        if ((section.subsections || []).some(sub => sub.id === ruleId)) {
+          return section.id;
+        }
+      }
+    }
+    return ruleId;
+  }
+
   // ── Build sidebar nav ──────────────────────────────────────────────────────
 
   function buildNav(chapters) {
@@ -68,7 +98,6 @@
         a.textContent = section.id + ' ' + section.heading;
         a.dataset.rule = section.id;
         a.addEventListener('click', () => {
-          // On mobile, close the sidebar after navigation
           if (window.innerWidth <= 768) {
             document.getElementById('chapterNav').classList.remove('open');
           }
@@ -87,7 +116,6 @@
       group.appendChild(ul);
       nav.appendChild(group);
     });
-
   }
 
   // ── Build main content ─────────────────────────────────────────────────────
@@ -110,15 +138,60 @@
       chDiv.appendChild(chTitle);
 
       chapter.sections.forEach(section => {
-        const ruleDiv = buildRuleSection(section);
-        chDiv.appendChild(ruleDiv);
+        chDiv.appendChild(buildSectionGroup(section));
       });
 
       body.appendChild(chDiv);
     });
   }
 
+  // Renders an X.Y section: a heading bar, optional text content, then child rule cards.
+  // All top-level sections use this so they look consistent regardless of structure.
+  function buildSectionGroup(section) {
+    const groupDiv = document.createElement('div');
+    groupDiv.className = 'rule-group';
+    groupDiv.id = section.id;
+
+    const heading = document.createElement('div');
+    heading.className = 'rule-group-heading';
+    heading.innerHTML =
+      '<span class="rule-id">' + escHtml(section.id) + '</span>' +
+      '<span class="rule-group-title">' + escHtml(section.heading) + '</span>';
+    groupDiv.appendChild(heading);
+
+    // Text content directly on the section (e.g. standalone rules, signal images)
+    if (section.text && section.text.trim()) {
+      section.text.split('\n').filter(l => l.trim()).forEach(line => {
+        if (line.startsWith('IMAGE:')) {
+          const img = document.createElement('img');
+          img.src = 'images/' + line.slice(6);
+          img.className = 'signal-img';
+          img.alt = section.heading + ' signal';
+          groupDiv.appendChild(img);
+        } else {
+          const p = document.createElement('p');
+          p.className = 'rule-group-intro';
+          p.innerHTML = linkSignals(escHtml(line));
+          groupDiv.appendChild(p);
+        }
+      });
+    }
+
+    (section.subsections || []).forEach(sub => {
+      groupDiv.appendChild(buildRuleSection(sub));
+    });
+
+    return groupDiv;
+  }
+
   function buildRuleSection(section) {
+    const hasText = (section.text || '').trim().length > 0;
+
+    // Sections with no body text render as flat (non-collapsible) rule items.
+    if (!hasText) {
+      return buildFlatRule(section);
+    }
+
     const div = document.createElement('div');
     div.className = 'rule-section';
     div.id = section.id;
@@ -136,12 +209,8 @@
     const bodyDiv = document.createElement('div');
     bodyDiv.className = 'rule-body';
 
-    const textLines = (section.text || '').split('\n').filter(l => l.trim());
-    if (textLines.length === 0) textLines.push('(No text available for this section.)');
-
-    // Sub-item pattern: line starts with a rule number containing 3+ parts (e.g. 10.25.2.a)
     const subItemRe = /^\d+\.\d+\.\d+/;
-    textLines.forEach(line => {
+    section.text.split('\n').filter(l => l.trim()).forEach(line => {
       if (line.startsWith('IMAGE:')) {
         const img = document.createElement('img');
         img.src = 'images/' + line.slice(6);
@@ -166,13 +235,11 @@
     div.appendChild(header);
     div.appendChild(bodyDiv);
 
-    // Toggle on click or keyboard
     function toggle() {
       const isOpen = div.classList.contains('open');
       div.classList.toggle('open', !isOpen);
       header.setAttribute('aria-expanded', String(!isOpen));
       if (!isOpen) {
-        // Record this as the current location so the back button returns here
         history.pushState(null, '', '#' + section.id);
         setActiveNavLink(section.id);
         expandNavChapterForRule(section.id);
@@ -187,13 +254,23 @@
     return div;
   }
 
+  // A flat (non-collapsible) rule item — used when the heading is the entire rule text.
+  function buildFlatRule(section) {
+    const div = document.createElement('div');
+    div.className = 'rule-flat';
+    div.id = section.id;
+    div.innerHTML =
+      '<span class="rule-id">' + escHtml(section.id) + '</span>' +
+      '<span class="rule-flat-text">' + linkSignals(escHtml(section.heading)) + '</span>';
+    return div;
+  }
+
   // ── Mobile drill-down ──────────────────────────────────────────────────────
 
   function isMobile() {
     return window.innerWidth <= 768;
   }
 
-  // Track which chapter is currently selected (for back-button label)
   let mobileCurrentChapter = null;
 
   function initMobileView(chapters) {
@@ -251,7 +328,6 @@
       ul.appendChild(li);
     });
 
-    // Scroll to top of page
     window.scrollTo(0, 0);
   }
 
@@ -270,12 +346,14 @@
 
     const content = document.getElementById('mobileRuleContent');
     content.innerHTML = '';
-    const ruleDiv = buildRuleSection(section);
-    // Always show the body open on mobile
-    ruleDiv.classList.add('open');
-    const header = ruleDiv.querySelector('.rule-header');
-    if (header) header.setAttribute('aria-expanded', 'true');
-    content.appendChild(ruleDiv);
+
+    const groupDiv = buildSectionGroup(section);
+    groupDiv.querySelectorAll('.rule-section').forEach(el => {
+      el.classList.add('open');
+      const h = el.querySelector('.rule-header');
+      if (h) h.setAttribute('aria-expanded', 'true');
+    });
+    content.appendChild(groupDiv);
 
     history.pushState(null, '', '#' + section.id);
     window.scrollTo(0, 0);
@@ -284,15 +362,13 @@
   // ── Deep-link via hash ─────────────────────────────────────────────────────
 
   function handleHash() {
-    const hash = window.location.hash.slice(1); // strip #
+    const hash = window.location.hash.slice(1);
     if (!hash) return;
 
-    // On mobile: navigate the drill-down directly to the rule
     if (isMobile() && rulesData) {
-      const chapter = rulesData.find(ch => ch.sections.some(s => s.id === hash));
-      const section = chapter && chapter.sections.find(s => s.id === hash);
-      if (chapter && section) {
-        showMobileRule(section, chapter);
+      const found = findSection(hash);
+      if (found) {
+        showMobileRule(found.section, found.chapter);
         return;
       }
     }
@@ -300,23 +376,17 @@
     const target = document.getElementById(hash);
     if (!target) return;
 
-    // Expand the rule if it's a rule section
     if (target.classList.contains('rule-section')) {
       openRule(target);
     }
 
-    // Expand the parent chapter in the sidebar nav
     expandNavChapterForRule(hash);
-
-    // Highlight active nav link
     setActiveNavLink(hash);
 
-    // Scroll into view after a brief paint delay
     setTimeout(() => {
       target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }, 50);
 
-    // Briefly highlight the rule
     target.classList.add('highlight');
     setTimeout(() => target.classList.remove('highlight'), 2000);
   }
@@ -329,7 +399,10 @@
 
   function expandNavChapterForRule(ruleId) {
     if (!rulesData) return;
-    const chapter = rulesData.find(ch => ch.sections.some(s => s.id === ruleId));
+    const navId = navIdFor(ruleId);
+    const chapter = rulesData.find(ch =>
+      ch.sections.some(s => s.id === navId)
+    );
     if (!chapter) return;
     const group = document.querySelector('[data-chapter="' + chapter.chapter + '"]');
     if (!group) return;
@@ -342,16 +415,15 @@
   }
 
   function setActiveNavLink(ruleId) {
+    const navId = navIdFor(ruleId);
     document.querySelectorAll('.nav-section-list li a').forEach(a => {
-      a.classList.toggle('active', a.dataset.rule === ruleId);
+      a.classList.toggle('active', a.dataset.rule === navId);
     });
   }
 
   // ── Utils ──────────────────────────────────────────────────────────────────
 
-  // Replace "Signal N" / "Signals N and M" / "Signals N, M & P" with links to 15.N
   function linkSignals(html) {
-    // Match: Signal(s) followed by digits with separators (and / & / &amp; / comma)
     return html.replace(/\bSignals?\s+((?:\d+(?:\s*(?:,|and|&amp;|&)\s*)?)+)/g, (match, nums) => {
       const linked = nums.replace(/\d+/g, n =>
         '<a href="#15.' + n + '" class="signal-link">' + n + '</a>'

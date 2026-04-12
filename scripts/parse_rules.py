@@ -30,13 +30,14 @@ CHAPTER_TITLES = {
 
 CHAPTERS_IN_SCOPE = {7, 8, 9, 10, 11, 15, 17}
 
-# Chapter heading pattern: ## **7.1 - COMPETITION COMMITTEE**
-SECTION_HEADING_RE = re.compile(r'^##\s+\*?\*?(\d+)\.(\d+(?:\.\d+)*)\s*[-–]\s*(.+?)\*?\*?\s*$')
+# Section heading: ## **7.1 - COMPETITION COMMITTEE** or ### 10.19.2 - Sub-rule
+SECTION_HEADING_RE = re.compile(r'^#{2,3}\s+\*?\*?(\d+)\.(\d+(?:\.\d+)*)\s*[-–]\s*(.+?)\*?\*?\s*$')
 # Some sections lack ## and are just bold: **10.11 - REFEREE'S BALL [SR]**
 SECTION_HEADING_BOLD_RE = re.compile(r'^\*\*(\d+)\.(\d+(?:\.\d+)*)\s*[-–]\s*(.+?)\*\*\s*$')
 # Chapter 15 uses ### headings with no dash: ### 15.1 START / INFRINGEMENT
 SECTION_HEADING_H3_RE = re.compile(r'^###\s+(\d+)\.(\d+(?:\.\d+)*)[.\s]+(.+)$')
-CHAPTER_START_RE = re.compile(r'^##\s+\*?\*?CHAPTER\s+(\d+)', re.IGNORECASE)
+# Chapters are now h1 after heading-level fix
+CHAPTER_START_RE = re.compile(r'^#(?!#)\s+\*?\*?CHAPTER\s+(\d+)', re.IGNORECASE)
 
 # Sub-rule inline pattern: "10.22.3.a - text..."
 SUBRULE_INLINE_RE = re.compile(r'^(\d+(?:\.\d+)+)\s*[-–]\s+(.+)$')
@@ -160,6 +161,28 @@ def parse_rules():
 
     # Sort chapters
     chapters.sort(key=lambda c: c['chapter'])
+
+    # Nest sub-rules (X.Y.Z) into their parent section's (X.Y) subsections list.
+    # After nesting, the top-level sections array contains only X.Y entries.
+    for chapter in chapters:
+        top_level = []
+        parent_map = {}  # id -> section dict for quick lookup
+        for section in chapter['sections']:
+            parts = section['id'].split('.')
+            if len(parts) == 2:
+                # Top-level section (X.Y)
+                top_level.append(section)
+                parent_map[section['id']] = section
+            else:
+                # Sub-rule (X.Y.Z or deeper): find parent by dropping last part
+                parent_id = '.'.join(parts[:-1])
+                parent = parent_map.get(parent_id)
+                if parent is not None:
+                    parent['subsections'].append(section)
+                else:
+                    # Orphan (parent not in scope) — keep at top level
+                    top_level.append(section)
+        chapter['sections'] = top_level
 
     return chapters
 

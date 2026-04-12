@@ -162,6 +162,38 @@
   border-bottom: 2px solid var(--color-border);
 }
 
+/* Section group — wraps an X.Y heading and its X.Y.Z child rule cards */
+.rule-group {
+  margin-bottom: 2rem;
+  scroll-margin-top: 70px;
+}
+
+.rule-group-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.5rem 0 0.4rem;
+  margin-bottom: 0.6rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.rule-group-heading .rule-id {
+  flex-shrink: 0;
+}
+
+.rule-group-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--color-neutral);
+}
+
+.rule-group-intro {
+  font-size: 0.875rem;
+  color: var(--color-muted);
+  margin: 0 0 0.75rem;
+  line-height: 1.6;
+}
+
 /* Rule section */
 .rule-section {
   margin-bottom: 1.25rem;
@@ -263,6 +295,30 @@
 
 .signal-link:hover {
   color: var(--color-primary-dark);
+}
+
+/* Flat rule — no body text, heading is the entire content */
+.rule-flat {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.45rem 0.25rem;
+  border-bottom: 1px solid var(--color-border);
+  scroll-margin-top: 70px;
+}
+
+.rule-flat:last-child {
+  border-bottom: none;
+}
+
+.rule-flat .rule-id {
+  flex-shrink: 0;
+}
+
+.rule-flat-text {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  color: var(--color-neutral);
 }
 
 .rule-permalink {
@@ -443,6 +499,10 @@
 }
 
 .mobile-rule-content .rule-header {
+  display: none;
+}
+
+.mobile-rule-content .rule-group-heading {
   display: none;
 }
 
