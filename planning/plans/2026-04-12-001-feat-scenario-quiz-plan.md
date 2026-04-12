@@ -1,7 +1,7 @@
 ---
 title: "feat: Add Scenario Quiz page"
 type: feat
-status: active
+status: completed
 date: 2026-04-12
 origin: planning/brainstorms/2026-04-12-scenario-quiz-requirements.md
 ---
