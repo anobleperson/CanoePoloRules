@@ -644,7 +644,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.10.8",
-    "question": "Under rule 10.10.8, when can a goalkeeper attempting for the ball on the water be tackled?",
+    "question": "When can a goalkeeper attempting for the ball on the water be tackled?",
     "options": [
       "Never — the goalkeeper is always protected",
       "Only when they have possession of the ball",
@@ -964,7 +964,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.21.2",
-    "question": "Under rule 10.21.2.b, which legal hand tackle contact is specifically permitted?",
+    "question": "Which legal hand tackle contact is specifically permitted?",
     "options": [
       "Any open-hand contact to the chest",
       "One open hand to the opponent's back, upper arm, or side",
@@ -980,7 +980,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.21.2",
-    "question": "When is a hand tackle illegal under rule 10.21.2.a?",
+    "question": "When is a hand tackle illegal?",
     "options": [
       "When the tackled player has the ball in their kayak",
       "When the tackled player does not have possession or is sharing possession",
@@ -1012,7 +1012,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.22.3",
-    "question": "Under rule 10.22.3.d, at what angle to the side of the kayak is a hard tackle considered illegal?",
+    "question": "At what angle to the side of the kayak is a hard tackle considered illegal?",
     "options": [
       "Between 45 and 60 degrees",
       "Between 60 and 80 degrees",
@@ -1028,7 +1028,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.22.3",
-    "question": "Rule 10.22.3.e makes it illegal to tackle an opponent not within 3 metres of the ball. Which situation is an exception to this rule?",
+    "question": "It is illegal to kayak tackle an opponent not within 3 metres of the ball. Which situation is an exception to this rule?",
     "options": [
       "Jostling for position within the 6m zone at the attacking end — this is governed by rule 10.23, not 10.22",
       "When the opponent is stationary near the sideline",
@@ -1044,7 +1044,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.22.3",
-    "question": "Under rule 10.22.3.a, is a player's arm considered part of their body for the purposes of a kayak tackle?",
+    "question": "Is a player's arm considered part of their body for the purposes of a kayak tackle?",
     "options": [
       "Yes, always",
       "No, the arm is never considered part of the body for kayak tackle purposes",
@@ -1076,7 +1076,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.23.2",
-    "question": "Under rule 10.23.2, how far may a player be moved by sustained kayak contact before it becomes an illegal jostle?",
+    "question": "How far may a player be moved by sustained kayak contact before it becomes an illegal jostle?",
     "options": [
       "More than one metre",
       "More than two metres",
@@ -1092,7 +1092,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.23.4",
-    "question": "Under rule 10.23.4, when is a jostle automatically illegal regardless of the distance moved?",
+    "question": "When is a jostle automatically illegal regardless of the distance moved?",
     "options": [
       "When the jostled player is the goalkeeper",
       "When the body of the jostled player is behind the goal line",
@@ -1108,7 +1108,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.24.2",
-    "question": "When is obstruction considered illegal under rule 10.24.2.a?",
+    "question": "When is obstruction considered illegal?",
     "options": [
       "Any contact between players when neither has the ball",
       "A player actively or deliberately impeding the progress of an opponent when neither player is within three metres of the ball (outside jostling area)",
@@ -1124,7 +1124,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.25.2",
-    "question": "Which of the following is an illegal holding offence under rule 10.25.2.d?",
+    "question": "Which of the following is an illegal holding offence?",
     "options": [
       "A player supporting their kayak with one hand in the water",
       "A player fending off an attempted tackle with their hand, forearm, or by moving their elbow towards an opponent",
@@ -1156,7 +1156,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.26.2",
-    "question": "Under rule 10.26.2.b, before an opponent may attempt another tackle on a capsized player, what must have happened?",
+    "question": "Before an opponent may attempt another tackle on a capsized player, what must have happened?",
     "options": [
       "The capsized player must have left the playing area",
       "The capsized player must be allowed to get their head and both shoulders above the water",
@@ -1188,7 +1188,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.27.1",
-    "question": "What can happen to a team that plays by dishonourable means under rule 10.27?",
+    "question": "What can happen to a team that plays by dishonourable means?",
     "options": [
       "A warning is issued and the game is replayed",
       "The matter is referred to the Competition Committee who may disqualify the team",
@@ -1204,7 +1204,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.28.2",
-    "question": "What are the four sanctions available to Referees under rule 10.28.2?",
+    "question": "What are the four sanctions available to Referees?",
     "options": [
       "Warnings, free throws, goal penalty shots, and disqualification",
       "Free throws, free shots, goal penalty shots, and sanction cards",
@@ -1220,7 +1220,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.28.3",
-    "question": "Under rule 10.28.3.a, what happens when a player commits their first deliberate foul?",
+    "question": "What happens when a player commits their first deliberate foul?",
     "options": [
       "They receive a green card automatically",
       "The referee shows the player's number directly after the signal for the foul",
@@ -1396,7 +1396,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.34.2",
-    "question": "When must an Ejection Red Card be awarded under rule 10.34.2?",
+    "question": "When must an Ejection Red Card be awarded?",
     "options": [
       "Whenever a player is sent off",
       "If a personal attack on a player occurs, or if a player receives a red card (after green and yellow) and disputes it",
@@ -1428,7 +1428,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.35.6",
-    "question": "Under rule 10.35.6, when is a sanction card specifically required regardless of injury?",
+    "question": "When is a sanction card specifically required regardless of injury?",
     "options": [
       "For any accidental kayak contact with an opponent",
       "For deliberate contact with the kayak of an opponent who is trying to take a free shot, corner, sideline, or goal line throw",
@@ -1524,7 +1524,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.37.3",
-    "question": "Under rule 10.37.3, when may defenders block a free shot taken within two metres of the goal?",
+    "question": "When may defenders block a free shot taken within two metres of the goal?",
     "options": [
       "Never — all free shots must travel one metre before any block",
       "With a stationary paddle or stationary hand(s) after the ball is released, but before it has travelled 1 metre",
@@ -2084,7 +2084,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.24.2",
-    "question": "Under rule 10.24.2.b, when is it illegal to impede an opponent who is competing for a ball in the air?",
+    "question": "When is it illegal to impede an opponent who is competing for a ball in the air?",
     "options": [
       "It is not covered — rule 10.24.2.b only applies to a ball on the water",
       "It is illegal in all circumstances",
@@ -2244,7 +2244,7 @@
     "source": "rules",
     "chapter": 17,
     "rule": "17.5.1",
-    "question": "Under Rule 17.5.1, when is the shot clock reset?",
+    "question": "When is the shot clock reset?",
     "options": [
       "Whenever there is a shot at goal or a change in team possession",
       "Only when possession changes to the opposing team",
@@ -2436,7 +2436,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.30.2",
-    "question": "Under Rule 10.30.2, can a free shot be taken as a direct shot at goal?",
+    "question": "Can a free shot be taken as a direct shot at goal?",
     "options": [
       "No — a free shot must first be passed to a team-mate before a shot at goal",
       "Yes — a free shot can be a direct shot at goal",
@@ -3620,7 +3620,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.22.3",
-    "question": "Under rule 10.22.3.e, how far from the ball must a player be for a kayak tackle on them to be illegal?",
+    "question": "How far from the ball must a player be for a kayak tackle on them to be illegal?",
     "options": [
       "More than one metre",
       "More than two metres",
@@ -3828,7 +3828,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.28.3",
-    "question": "Under rule 10.28.3.f, how is ‘control of the ball’ defined?",
+    "question": "How is ‘control of the ball’ defined?",
     "options": [
       "Having the ball in your hand only",
       "Being in possession or being the nearest player within three metres of the ball on the water",
@@ -4180,7 +4180,7 @@
     "source": "rules",
     "chapter": 10,
     "rule": "10.35.2",
-    "question": "For which type of foul is a sanction card awarded under rule 10.35.2?",
+    "question": "For which type of foul is a sanction card awarded?",
     "options": [
       "Any single foul",
       "A repeated deliberate foul or one with significant influence on the game",
