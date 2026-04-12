@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Signals Quiz — Canoe Polo</title>
+  <title>Scenario Quiz — Canoe Polo</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -12,6 +12,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <link rel="stylesheet" href="shared.css">
   <link rel="stylesheet" href="quiz.css">
+  <link rel="stylesheet" href="scenario.css">
 </head>
 <body>
   <header class="site-header">
@@ -19,8 +20,8 @@
       <a href="index.html" class="logo">Canoe Polo Rules Quiz</a>
       <nav class="site-nav">
         <a href="index.html">Home</a>
-        <a href="signals.html" class="active">Signals</a>
-        <a href="scenario.html">Scenarios</a>
+        <a href="signals.html">Signals</a>
+        <a href="scenario.html" class="active">Scenarios</a>
         <a href="rules.html">Rules</a>
       </nav>
     </div>
@@ -29,75 +30,77 @@
   <main class="quiz-main" id="quizMain">
 
     <!-- Start screen -->
-    <div id="sigStart" class="screen screen-start">
+    <div id="scnStart" class="screen screen-start">
       <div class="card start-card">
-        <h1>Referee Signals Quiz</h1>
-        <p class="subtitle">Recognise all 20 ICF referee hand signals from photos.</p>
+        <h1>Scenario Quiz</h1>
+        <p class="subtitle">Apply the rules to real game situations.</p>
         <ul class="quiz-info">
-          <li><span class="info-icon">&#10003;</span> All 20 signals in random order</li>
-          <li><span class="info-icon">&#10003;</span> Choose the signal name from 4 options</li>
-          <li><span class="info-icon">&#10003;</span> Feedback shows the full signal description</li>
+          <li><span class="info-icon">&#10003;</span> 10 random game scenarios per session</li>
+          <li><span class="info-icon">&#10003;</span> <span class="scenario-tag">Select all</span> correct referee actions</li>
+          <li><span class="info-icon">&#10003;</span> Per-option feedback with rule citation</li>
         </ul>
-        <button class="btn btn-primary btn-lg" id="btnSigStart">Start Quiz</button>
+        <button class="btn btn-primary btn-lg" id="btnScnStart" disabled>Start Quiz</button>
       </div>
     </div>
 
     <!-- Question screen -->
-    <div id="sigQuestion" class="screen screen-question" hidden>
+    <div id="scnQuestion" class="screen screen-question" hidden>
       <div class="quiz-progress">
         <div class="progress-text">
-          Signal <span id="sigNum">1</span> of <span id="sigTotal">20</span>
+          Question <span id="scnNum">1</span> of <span id="scnTotal">10</span>
         </div>
-        <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="20">
-          <div class="progress-fill" id="sigProgressFill"></div>
+        <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="10">
+          <div class="progress-fill" id="scnProgressFill"></div>
         </div>
       </div>
 
       <div class="card question-card">
-        <div class="signal-photo-wrap">
-          <img id="sigPhoto" src="" alt="Referee signal" class="signal-quiz-img">
+        <div class="question-meta" id="scnQuestionMeta"></div>
+        <p class="situation-text" id="scnSituationText"></p>
+        <p class="question-prompt">What should the referee do? Select all that apply.</p>
+        <ul class="options-list" id="scnOptionsList" role="group" aria-label="Answer options"></ul>
+        <div class="check-actions">
+          <button class="btn btn-primary" id="btnScnCheck" disabled>Check Answer</button>
+          <span class="check-hint">Select one or more options above</span>
         </div>
-        <p class="question-text">What is this referee signal?</p>
-        <ul class="options-list" id="sigOptionsList" role="radiogroup" aria-label="Signal name options"></ul>
       </div>
     </div>
 
     <!-- Feedback screen -->
-    <div id="sigFeedback" class="screen screen-feedback" hidden>
+    <div id="scnFeedback" class="screen screen-feedback" hidden>
       <div class="quiz-progress">
         <div class="progress-text">
-          Signal <span id="fbSigNum">1</span> of <span id="fbSigTotal">20</span>
+          Question <span id="fbScnNum">1</span> of <span id="fbScnTotal">10</span>
         </div>
         <div class="progress-bar">
-          <div class="progress-fill" id="fbSigProgressFill"></div>
+          <div class="progress-fill" id="fbScnProgressFill"></div>
         </div>
       </div>
 
-      <div class="card feedback-card" id="sigFeedbackCard">
-        <div class="feedback-result" id="sigFeedbackResult"></div>
-        <p class="sig-feedback-name" id="sigFeedbackName"></p>
-        <p class="feedback-explanation" id="sigFeedbackDescription"></p>
-        <a class="feedback-rule-link" id="sigFeedbackRuleLink" href="#" target="_blank" rel="noopener">
-          View Signal <span id="sigFeedbackRuleNum"></span> &rarr;
+      <div class="card feedback-card" id="scnFeedbackCard">
+        <div class="feedback-result" id="scnFeedbackResult"></div>
+        <p class="feedback-explanation" id="scnFeedbackExplanation"></p>
+        <a class="feedback-rule-link" id="scnFeedbackRuleLink" href="#" target="_blank" rel="noopener" hidden>
+          View Rule <span id="scnFeedbackRuleNum"></span> &rarr;
         </a>
       </div>
 
       <div class="feedback-actions">
-        <button class="btn btn-primary" id="btnSigNext">Next Signal</button>
+        <button class="btn btn-primary" id="btnScnNext">Next Question</button>
       </div>
     </div>
 
     <!-- End screen -->
-    <div id="sigEnd" class="screen screen-end" hidden>
+    <div id="scnEnd" class="screen screen-end" hidden>
       <div class="card end-card">
         <h2>Quiz Complete!</h2>
         <div class="score-display">
-          <span class="score-fraction" id="sigScoreFraction"></span>
-          <span class="score-percent" id="sigScorePercent"></span>
+          <span class="score-fraction" id="scnScoreFraction"></span>
+          <span class="score-percent" id="scnScorePercent"></span>
         </div>
-        <p class="score-message" id="sigScoreMessage"></p>
+        <p class="score-message" id="scnScoreMessage"></p>
         <div class="end-actions">
-          <button class="btn btn-primary btn-lg" id="btnSigRestart">Try Again</button>
+          <button class="btn btn-primary btn-lg" id="btnScnRestart">Try Again</button>
           <a class="btn btn-secondary btn-lg" href="index.html">Home</a>
         </div>
       </div>
@@ -105,7 +108,7 @@
 
   </main>
 
-  <script src="signals.js"></script>
+  <script src="scenario.js"></script>
 
   <div id="swUpdateBanner" hidden>
     <span>New version available.</span>

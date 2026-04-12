@@ -1,0 +1,150 @@
+/* scenario.css — Scenario Quiz page styles */
+
+/* ── Hidden-but-accessible checkbox ─────────────────────────────────────── */
+/* appearance: none keeps it in the a11y tree and focusable; visually hidden */
+.option-checkbox {
+  -webkit-appearance: none;
+  appearance: none;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;   /* clicks go to the label wrapper */
+}
+
+/* ── Custom checkbox indicator ───────────────────────────────────────────── */
+.option-indicator {
+  flex-shrink: 0;
+  width: 1.15em;
+  height: 1.15em;
+  border: 2px solid var(--color-border);
+  border-radius: 3px;
+  background: var(--color-bg);
+  display: grid;
+  place-content: center;
+  transition: border-color 0.1s, background 0.1s;
+}
+
+.option-indicator::before {
+  content: "";
+  width: 0.55em;
+  height: 0.55em;
+  transform: scale(0);
+  transition: transform 100ms ease-in-out;
+  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+  background: currentColor;
+}
+
+/* ── Selected state (checkbox ticked, before submission) ─────────────────── */
+/* Drives indicator fill and label highlight in pure CSS, no JS needed */
+.option-checkbox:checked ~ .option-indicator {
+  border-color: var(--color-primary);
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.option-checkbox:checked ~ .option-indicator::before {
+  transform: scale(1);
+}
+
+.option-btn:has(.option-checkbox:checked) {
+  border-color: var(--color-primary);
+  background: #e8f4fb;
+}
+
+/* ── Focus ring via :focus-within (replaces :focus-visible on <button>) ──── */
+.option-btn:focus-within {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+/* ── Touch target minimum (WCAG 2.5.5) ──────────────────────────────────── */
+.option-btn {
+  min-height: 44px;
+}
+
+/* ── Post-reveal locked state ─────────────────────────────────────────────── */
+.option-btn.revealed {
+  cursor: default;
+  pointer-events: none;
+}
+
+.option-btn.revealed:hover {
+  border-color: inherit;
+  background: inherit;
+}
+
+/* ── Missed state (correct option the user did not select) ───────────────── */
+.option-btn.missed {
+  border-color: var(--color-missed);
+  background: var(--color-missed-bg);
+  color: var(--color-missed);
+}
+
+.option-btn.missed .option-letter {
+  background: var(--color-missed);
+  color: #fff;
+}
+
+/* ── Non-colour feedback icons (WCAG 1.4.1) ──────────────────────────────── */
+.option-icon {
+  flex-shrink: 0;
+  font-size: 0.9rem;
+  margin-left: auto;
+  font-weight: 700;
+}
+
+.option-btn.correct   .option-icon::before { content: "✓"; }
+.option-btn.incorrect .option-icon::before { content: "✗"; }
+.option-btn.missed    .option-icon::before { content: "!"; }
+
+/* ── Situation paragraph ─────────────────────────────────────────────────── */
+.situation-text {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--color-neutral);
+  background: #f0f7fb;
+  border-left: 3px solid var(--color-primary);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 0.875rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.question-prompt {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-neutral);
+  margin-bottom: 1.25rem;
+}
+
+/* ── "Check Answer" button ───────────────────────────────────────────────── */
+#btnScnCheck:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* ── Scenario start screen info list ────────────────────────────────────── */
+.scenario-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: var(--color-primary);
+  color: #fff;
+  border-radius: 3px;
+  padding: 0.1em 0.45em;
+  margin-right: 0.35rem;
+  vertical-align: middle;
+}
+
+/* ── Check action row (button + hint) ───────────────────────────────────── */
+.check-actions {
+  margin-top: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.check-hint {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+}

@@ -14,6 +14,8 @@
   --color-correct-bg: #e6f4ec;
   --color-incorrect: #b91c1c;
   --color-incorrect-bg: #fde8e8;
+  --color-missed:    #b45309;
+  --color-missed-bg: #fef3c7;
   --color-neutral: #374151;
   --color-muted: #6b7280;
   --color-border: #d1d5db;

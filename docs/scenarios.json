@@ -1,0 +1,72 @@
+[
+  {
+    "id": "scn-ch10-001",
+    "chapter": 10,
+    "rule": "10.29.2",
+    "situation": "The blue team is attacking inside the white team's 6-metre area. Player A (blue) receives the ball in a clear shooting position and begins to raise it. Player B (white), unable to reach the ball, pushes Player A's kayak side-on with their own kayak, unbalancing them and preventing the shot. The referee clearly sees the contact.",
+    "options": [
+      "Award a goal penalty shot to the blue team",
+      "Award a free shot to the blue team",
+      "Issue a sanction card to Player B (white)",
+      "Issue a sanction card to Player A (blue)"
+    ],
+    "correctIndices": [0, 2],
+    "explanation": "Rule 10.29.2 requires a goal penalty shot for any deliberate foul on a player in the act of shooting inside the 6-metre area. A free shot (option B) applies only outside the zone. Rule 10.35.4 additionally requires a sanction card for the offending player (Player B, white) whenever a deliberate or dangerous foul results in a goal penalty shot — both actions must be taken simultaneously. Option D is wrong: the card goes to the player who committed the foul (Player B), not the victim (Player A)."
+  },
+  {
+    "id": "scn-ch10-002",
+    "chapter": 10,
+    "rule": "10.21.2",
+    "situation": "During open play, Player A (blue) has the ball at shoulder height and has clearly begun raising it to shoot. Defender Player B (white) reaches across and makes firm contact with Player A's throwing arm, causing them to lose possession. The shot does not occur.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Award a goal penalty shot to the blue team",
+      "Allow play to continue — the defender contacted only the arm, not the ball",
+      "Issue a sanction card to Player B (white)"
+    ],
+    "correctIndices": [0, 3],
+    "explanation": "Once the throwing action has begun (ball raised behind the attacker's head), no contact is permitted with the throwing arm — Rule 10.21.2.d and the ICF Hand Tackle Clarification. The restart is a free shot (not a goal penalty shot, as this occurred outside the 6-metre area). Rule 10.35.4 / 10.32.2 requires a sanction card for a deliberate illegal hand tackle. Option C is wrong: contact with the arm during the throwing motion is illegal regardless of ball contact. Option B is wrong because the foul was outside the 6-metre area."
+  },
+  {
+    "id": "scn-ch10-003",
+    "chapter": 10,
+    "rule": "10.12.2",
+    "situation": "Player A (white) commits a deliberate foul on Player B (blue) in open play. Blue immediately regains possession and Player C (blue) scores a goal before the referee stops play. The referee had played advantage throughout the passage of play.",
+    "options": [
+      "Allow the goal; no further action — advantage was played and a goal was scored",
+      "Allow the goal; issue a sanction card to Player A (white) at the next stoppage",
+      "Disallow the goal; award a free shot to blue at the point of the original foul",
+      "Disallow the goal; award a goal penalty shot to blue"
+    ],
+    "correctIndices": [1],
+    "explanation": "Rule 10.12.2: when advantage is played and a goal is scored, the goal stands. However, advantage does not cancel a card obligation — a sanction card for a deliberate foul must still be issued at the next break in play (Rule 10.35). Option A is the most common error: referees correctly play advantage but forget the deferred card. Options C and D are wrong because the advantage was successfully played — the goal is valid and there is no reason to revert to the original restart."
+  },
+  {
+    "id": "scn-ch10-004",
+    "chapter": 10,
+    "rule": "10.10.2",
+    "situation": "The white goalkeeper is defending their goal but is not currently in possession of the ball. Player A (blue) paddles hard into the goal area and uses their paddle to strike the goalkeeper's arm while attempting to gain possession. The goalkeeper is not in the act of catching or throwing.",
+    "options": [
+      "Award a free shot to the white team",
+      "Award a goal penalty shot to the white team",
+      "No foul — the goalkeeper is not in possession so normal tackle rules apply",
+      "Issue a sanction card to Player A (blue)"
+    ],
+    "correctIndices": [1, 3],
+    "explanation": "Rule 10.10.2 provides additional protection for the goalkeeper even when not in possession: attacking players may not use their paddle to strike the goalkeeper's body or arm. This is penalised with a goal penalty shot (not a free shot). The deliberate nature of the strike also warrants a sanction card under Rule 10.35. Option A (free shot) applies to regular player fouls outside the zone — the GPS rule specifically protects the goalkeeper inside the 6m area. Option C is wrong: the goalkeeper's non-possession status does not remove their Rule 10.10.2 protection."
+  },
+  {
+    "id": "scn-ch10-005",
+    "chapter": 10,
+    "rule": "10.25.2",
+    "situation": "Player A (blue) has clear possession of the ball. Player B (white) grabs the rim of Player A's kayak and holds it firmly, preventing Player A from paddling away. Player A is not in the act of shooting. The incident occurs 12 metres from the goal.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Award a goal penalty shot to the blue team",
+      "Issue a sanction card to Player B (white)",
+      "Allow play to continue — brief holds during competitive play are legal"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.25.2 prohibits holding an opponent's kayak to prevent them from moving — this is illegal holding and is penalised with a free shot (not a goal penalty shot, as there is no shooting action and the incident is outside the 6-metre area). Option B is wrong because GPS requires a foul on a player in the act of shooting inside the 6m zone. Option C (sanction card) is not automatically required for a standard illegal hold — cards are issued for deliberate or dangerous fouls or for repeated infringements, and a card here would be at the referee's discretion for persistent fouling rather than mandatory. Option D is wrong: holding the kayak to impede movement is explicitly prohibited."
+  }
+]

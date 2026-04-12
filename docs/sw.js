@@ -1,20 +1,24 @@
 // sw.js — Service Worker for offline support
 // IMPORTANT: Bump CACHE_VERSION on every deploy to invalidate old caches.
 
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4';
 const CACHE_NAME = 'cp-rules-' + CACHE_VERSION;
 
 const ASSETS = [
   '/CanoePoloRules/',
   '/CanoePoloRules/rules.html',
   '/CanoePoloRules/signals.html',
+  '/CanoePoloRules/scenario.html',
   '/CanoePoloRules/shared.css',
   '/CanoePoloRules/quiz.css',
+  '/CanoePoloRules/scenario.css',
   '/CanoePoloRules/rules.css',
   '/CanoePoloRules/quiz.js',
   '/CanoePoloRules/rules.js',
   '/CanoePoloRules/signals.js',
+  '/CanoePoloRules/scenario.js',
   '/CanoePoloRules/questions.json',
+  '/CanoePoloRules/scenarios.json',
   '/CanoePoloRules/rules.json',
   '/CanoePoloRules/manifest.json',
   '/CanoePoloRules/favicon.svg',
