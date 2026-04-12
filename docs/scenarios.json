@@ -68,5 +68,509 @@
     ],
     "correctIndices": [0],
     "explanation": "Rule 10.25.2 prohibits holding an opponent's kayak to prevent them from moving — this is illegal holding and is penalised with a free shot (not a goal penalty shot, as there is no shooting action and the incident is outside the 6-metre area). Option B is wrong because GPS requires a foul on a player in the act of shooting inside the 6m zone. Option C (sanction card) is not automatically required for a standard illegal hold — cards are issued for deliberate or dangerous fouls or for repeated infringements, and a card here would be at the referee's discretion for persistent fouling rather than mandatory. Option D is wrong: holding the kayak to impede movement is explicitly prohibited."
+  },
+  {
+    "id": "scn-ch10-006",
+    "chapter": 10,
+    "rule": "10.19.2",
+    "situation": "Player A (blue) is paddling near Player B (white), who has the ball. Player A swings their paddle to play the ball but misjudges the distance and the blade strikes Player B's forearm. The contact is not particularly hard, but Player B drops the ball. The incident is in open play, 10 metres from either goal.",
+    "options": [
+      "Award a free shot to the white team",
+      "Award a free throw to the white team",
+      "Issue a sanction card to Player A (blue)",
+      "Allow play to continue — minor paddle contact during a tackle is acceptable"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.19.2 defines contacting an opponent's person with a paddle as illegal use of paddle. The sanction is a free shot (Signal 15, per Rule 10.19.1). Option B is wrong: a free throw (Signal 14) is used for ball out of play or when no free shot or GPS has been awarded — a foul on a person warrants a free shot. Option C is not required: a sanction card is not automatic for a single non-dangerous, non-deliberate paddle contact; cards apply for dangerous, deliberate, or repeated fouls. Option D is wrong: any paddle contact with an opponent's person is illegal regardless of severity."
+  },
+  {
+    "id": "scn-ch10-007",
+    "chapter": 10,
+    "rule": "10.19.3",
+    "situation": "The ball is on the water within arm's reach of Player A (blue), who is leaning down to pick it up. Before Player A can touch the ball, Defender Player B (white) reaches in with their paddle and flicks the ball away. Player A was clearly attempting to play the ball with their hand.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Award a free throw to the blue team",
+      "Allow play to continue — the defender played the ball cleanly with the paddle",
+      "Award a goal penalty shot to the blue team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.19.3 prohibits playing or attempting to play the ball with a paddle when the ball is within arm's reach of an opponent who is attempting to play it with their hand. The defender must wait for the opponent to gain possession or for the ball to move beyond arm's reach. Option B is wrong: a foul on a player warrants a free shot (Signal 15), not a free throw. Option C is wrong: it does not matter that the defender played the ball cleanly — the illegality is using a paddle when the opponent is reaching for the ball within arm's reach. Option D is wrong: a GPS requires specific circumstances inside the 6-metre area or on a near-certain goal."
+  },
+  {
+    "id": "scn-ch10-008",
+    "chapter": 10,
+    "rule": "10.22.3",
+    "situation": "During a contested loose ball, Player B (white) drives their kayak hard into the side of Player A's (blue) kayak at approximately 90 degrees. The impact is significant, jolting Player A sideways and nearly capsizing them. Player A manages to stay upright but loses any chance of reaching the ball.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Issue a sanction card to Player B (white)",
+      "Award a free throw to the blue team",
+      "Allow play to continue — side-on kayak contact is a normal part of the game"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.22.3.d prohibits any hard tackle resulting in significant contact to the side of a kayak at an angle between 80 and 100 degrees. This is an illegal kayak tackle warranting a free shot (Signal 15). Because the contact was hard and significant — potentially dangerous and risking equipment damage — Rule 10.35.3 requires a sanction card. Option C is wrong: a free throw is for ball-out-of-play situations, not fouls on players. Option D is wrong: hard side-on contact at approximately 90 degrees is explicitly illegal regardless of whether it is 'normal' in competitive play."
+  },
+  {
+    "id": "scn-ch10-009",
+    "chapter": 10,
+    "rule": "10.22.3",
+    "situation": "The ball is in the white team's half, about 8 metres from Player A (blue). Defender Player B (white) paddles directly into Player A and drives their kayak into Player A's side. Player A has no realistic chance of reaching the ball and was not competing for it.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Allow play to continue — the contact was not dangerous",
+      "Award a goal penalty shot to the blue team",
+      "Award a free throw to the blue team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.22.3.e prohibits tackling an opponent who is not within 3 metres of the ball. With the ball 8 metres away, Player A was clearly outside the 3-metre zone, making this an illegal kayak tackle warranting a free shot. Option B is wrong: the legality does not depend on whether the contact was dangerous — the distance from the ball alone makes it illegal. Option C is wrong: a GPS requires a foul on a player in the act of shooting or positioning for a near-certain goal. Option D is wrong: a free throw applies to ball-out-of-play situations, not player fouls."
+  },
+  {
+    "id": "scn-ch10-010",
+    "chapter": 10,
+    "rule": "10.23.2",
+    "situation": "Inside the white team's 6-metre area, Player A (blue) is stationary, trying to hold their position near the goal. Defender Player B (white) pushes their kayak steadily against Player A's kayak, sliding Player A approximately 3 metres from their original position. The contact is sustained but not particularly hard at any single moment.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Allow play to continue — jostling for position inside the 6-metre area is legal",
+      "Award a goal penalty shot to the blue team",
+      "Award a free throw to the blue team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.23.2 defines illegal jostling: when a stationary player or one attempting to maintain position is moved more than 2 metres by sustained contact. Player A was moved approximately 3 metres, exceeding the limit. Option B is partially true — jostling IS legal inside the 6m area, but only up to 2 metres of displacement. Option C is wrong: a GPS is not awarded for jostling alone; it requires a foul on a shooter or positioning for a near-certain goal. Option D is wrong: a free throw applies to ball-out-of-play situations, not player fouls."
+  },
+  {
+    "id": "scn-ch10-011",
+    "chapter": 10,
+    "rule": "10.24.2",
+    "situation": "Player A (blue) is paddling toward the ball to gain possession. Player B (white), who is not competing for the ball, actively paddles across Player A's path and blocks their progress. Neither player is within 3 metres of the ball, and they are in the middle of the playing area — not in the attacking 6-metre zone.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Allow play to continue — screening is a normal defensive tactic",
+      "Issue a sanction card to Player B (white)",
+      "Award a free throw to the blue team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.24.2.a prohibits a player from actively or deliberately impeding an opponent when neither player is within 3 metres of the ball, except where players are jostling for position in the attacking 6-metre area (Rule 10.23). Since neither player is in the 6m zone and neither is within 3m of the ball, this is illegal obstruction — free shot (Signal 15). Option B is wrong: active obstruction away from the ball is explicitly prohibited. Option C is not automatic: a card requires the foul to be deliberate, dangerous, or repeated. Option D is wrong: free throws are for ball-out-of-play, not player fouls."
+  },
+  {
+    "id": "scn-ch10-012",
+    "chapter": 10,
+    "rule": "10.26.2",
+    "situation": "The referee awards a free shot to the blue team after a foul. Player A (white), who is still holding the ball, deliberately throws it toward the far sideline instead of placing it on the water. The blue team must retrieve the ball before they can take the free shot.",
+    "options": [
+      "Issue a sanction card to Player A (white) for unsporting behaviour",
+      "Award a goal penalty shot to the blue team instead of the free shot",
+      "Warn Player A verbally; a single delay is a minor infraction",
+      "Award an additional free shot to the blue team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.26.2.d defines deliberate delaying tactics — such as throwing the ball away — as unsporting behaviour. Rule 10.26.1 states Signal 17 and 18 with appropriate sanction card apply. The original free shot to blue still stands; the card is the additional sanction for the delay. Option B is wrong: escalation to GPS requires a foul on a player in the act of shooting or specific zone conditions, not delaying tactics. Option C is wrong: deliberate delaying is unsporting behaviour requiring a card, not merely a verbal warning. Option D is wrong: the restart is the original free shot, not a new one."
+  },
+  {
+    "id": "scn-ch10-013",
+    "chapter": 10,
+    "rule": "10.20.2",
+    "situation": "Player A (blue) picks up the ball in open play and holds it in their hand. The referee begins counting. Five full seconds pass without Player A throwing, passing, or releasing the ball. No opponent is contesting possession.",
+    "options": [
+      "Award a free shot to the white team",
+      "Award a free throw to the white team",
+      "Allow play to continue — the count resets if the player adjusts their grip",
+      "Award a goal penalty shot to the white team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.20.2 requires a player to dispose of the ball within 5 seconds of gaining possession. Infringement: Signals 11 and 15 apply — the opposing team is awarded a free shot. Option B is wrong: Signal 15 is a free shot, not a free throw (Signal 14). Option C is wrong: grip adjustments do not reset the 5-second count; only losing and regaining possession resets it (Rule 10.20.3). Option D is wrong: a GPS requires specific foul conditions, not a possession violation."
+  },
+  {
+    "id": "scn-ch10-014",
+    "chapter": 10,
+    "rule": "10.22.3",
+    "situation": "Defender Player B (white) charges their kayak into Player A (blue), who has possession. The bow of Player B's kayak strikes Player A's torso with significant force, nearly capsizing them. Player A manages to stay upright but loses the ball.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Issue a sanction card to Player B (white)",
+      "Allow play to continue — Player A did not capsize so the tackle was fair",
+      "Award a free throw to the blue team"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.22.3.a prohibits any kayak tackle resulting in significant contact between the tackler's kayak and the head or body of an opponent. The bow striking Player A's torso with significant force meets this definition regardless of whether a capsize occurs. The sanction is a free shot (Signal 15). Rule 10.35.3 additionally requires a sanction card for a dangerous foul resulting in significant contact with the opponent's body that may result in personal injury. Option C is wrong: the illegality is determined by the contact, not the outcome — capsizing is not required. Option D is wrong: a free throw is for ball-out-of-play, not player fouls."
+  },
+  {
+    "id": "scn-ch10-015",
+    "chapter": 10,
+    "rule": "10.29.5",
+    "situation": "Player A (blue) is 8 metres from the white goal, which has no goalkeeper or defender under the goal frame. Player A begins shooting at the undefended goal. Defender Player B (white), unable to reach the ball, deliberately pushes Player A's throwing arm from behind, preventing the shot.",
+    "options": [
+      "Award a goal penalty shot to the blue team",
+      "Issue a sanction card to Player B (white)",
+      "Award a free shot to the blue team — the foul was outside the 6-metre area",
+      "Allow play to continue — contact with the arm during a shot is not a foul outside the 6-metre area"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.29.5: outside the 6-metre area, a GPS is awarded for any deliberate or dangerous foul on a player in the act of shooting for a near-certain goal while the goal is not defended. With no goalkeeper, the goal is undefended and the shot was near-certain. Rule 10.35.4 requires a sanction card for the foul resulting in a GPS. Option C is the key novice error: many referees default to a free shot outside 6m, but the 'undefended goal' clause escalates this to a GPS. Option D is wrong: deliberately pushing the throwing arm is an illegal hand tackle (Rule 10.21.2.d) regardless of position on the field."
+  },
+  {
+    "id": "scn-ch10-016",
+    "chapter": 10,
+    "rule": "10.29.3",
+    "situation": "Player A (blue) is inside the white team's 6-metre area, unmarked and calling for a pass from a teammate who has the ball. The referee judges that if the pass is completed, a goal is a near certainty. Defender Player B (white) deliberately drives into Player A's kayak to prevent them from receiving the pass.",
+    "options": [
+      "Award a goal penalty shot to the blue team",
+      "Issue a sanction card to Player B (white)",
+      "Award a free shot to the blue team — Player A did not have the ball",
+      "Award a free throw to the blue team"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.29.3: inside the 6-metre area, a GPS is awarded for any deliberate or dangerous foul on a player in the act of positioning for a near-certain goal. Player A does not need to have the ball — positioning for a pass that would lead to a near-certain goal is sufficient. Rule 10.35.4 requires a sanction card. Option C is the key novice error: the rule covers 'passing or positioning', not just shooting, so the player need not be in possession. Option D is wrong: a free throw is for ball-out-of-play, not fouls on players."
+  },
+  {
+    "id": "scn-ch10-017",
+    "chapter": 10,
+    "rule": "10.31.4",
+    "situation": "The blue team is awarded a sideline throw. Player A (blue) takes the throw by shooting the ball directly at the white goal from the sideline position. The ball enters the goal.",
+    "options": [
+      "Disallow the goal; award a free throw to the white team",
+      "Allow the goal — the player was entitled to throw the ball anywhere",
+      "Disallow the goal; allow the blue team to retake the sideline throw",
+      "Disallow the goal; award a free shot to the white team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.31.4: a free throw cannot be a direct shot at goal. Sideline throws are considered free throws (Rule 10.31.4). Infringement incurs a sanction and the opposition is awarded a free throw (Signals 11 and 14). Option B is wrong: direct shots at goal from free throws are explicitly prohibited. Option C is wrong: the penalty is turnover to the opposition, not a retake. Option D is wrong: the sanction is a free throw to the opposition (Signal 14), not a free shot (Signal 15)."
+  },
+  {
+    "id": "scn-ch10-018",
+    "chapter": 10,
+    "rule": "10.29.4",
+    "situation": "A free shot has been awarded to the blue team at a point 4 metres from the white goal. As Player A (blue) prepares to take the free shot, Defender Player B (white) deliberately paddles their kayak into Player A's kayak, making significant contact and preventing the shot from being taken.",
+    "options": [
+      "Award a goal penalty shot to the blue team",
+      "Issue a sanction card to Player B (white)",
+      "Allow the blue team to retake the free shot from the same position",
+      "Warn Player B verbally and allow the free shot to be retaken"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.29.4: inside the 6-metre area, a GPS is awarded for any deliberate or dangerous foul on a player attempting to take a free shot. The free shot location (4 metres from goal) is inside the 6m zone, and the deliberate contact prevents the shot. Rule 10.35.4 requires a sanction card. Option C misses the escalation: the foul on a free shot taker inside 6m upgrades the restart to a GPS, not merely a retake. Option D is wrong: deliberate contact preventing a free shot is a sanctionable foul, not a verbal warning."
+  },
+  {
+    "id": "scn-ch10-019",
+    "chapter": 10,
+    "rule": "10.35.2",
+    "situation": "Player B (white) has already received a green sanction card earlier in this game for a deliberate foul. Player B now commits another deliberate foul — grabbing and holding Player A's (blue) kayak to prevent them paddling away in open play, 15 metres from goal.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Issue a yellow sanction card to Player B (white)",
+      "Issue another green sanction card to Player B (white)",
+      "Issue a verbal warning only — sanction cards are reserved for dangerous fouls"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.25.2 makes holding an opponent's kayak illegal — free shot (Signal 15). Rule 10.35.2 requires a sanction card for a repeated deliberate foul. Under the sanction card system (Rule 10.32.3.b), the cards escalate: 1st green, 2nd yellow, 3rd red. Since Player B already has a green card, the next card is yellow. Option C is wrong: the card system escalates — a second offence receives yellow, not another green. Option D is wrong: cards are issued for deliberate and dangerous fouls as well as repeated infringements, not only dangerous ones."
+  },
+  {
+    "id": "scn-ch10-020",
+    "chapter": 10,
+    "rule": "10.35.6",
+    "situation": "The blue team has been awarded a corner throw. As Player A (blue) moves into position at the corner to take the throw, Player B (white) deliberately paddles their kayak into Player A's kayak, disrupting the throw before it can be taken.",
+    "options": [
+      "Award a free shot to the blue team",
+      "Issue a sanction card to Player B (white)",
+      "Allow Player A to retake the corner throw — no further action needed",
+      "Award a goal penalty shot to the blue team"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.37.2 prohibits any opponent from contacting the player or their equipment until the ball is back in play. Infringement incurs a sanction (Signals 1 and 15 or 16). Rule 10.35.6 specifically requires a sanction card for any deliberate contact with the kayak of an opponent taking a throw (corner throws are included). Option C is incomplete: a simple retake ignores the mandatory card and the escalation to a free shot. Option D is wrong: a GPS requires specific conditions (foul on a shooter inside 6m, or specific undefended-goal circumstances) that are not met by interference with a corner throw."
+  },
+  {
+    "id": "scn-ch10-021",
+    "chapter": 10,
+    "rule": "10.35.8",
+    "situation": "After the referee awards a free shot to the opposing team, Player A (white) directs foul language at the referee while the ball is out of play. The language is clearly offensive but Player A does not approach the referee in a threatening manner.",
+    "options": [
+      "Issue a sanction card to Player A (white)",
+      "Warn Player A verbally and resume play",
+      "Issue an Ejection Red Card to Player A",
+      "Ignore the language — emotions run high during games"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.35.8 mandates a sanction card for foul or abusive language directed at an opponent or official. This is also unsporting behaviour under Rule 10.26.2.g. Option B is wrong: the rules require a card, not a verbal warning, for foul language. Option C is wrong: an Ejection Red Card (Rule 10.34.5) is reserved for approaching or talking to officials in a threatening, abusive, or aggressive way — Player A used foul language but did not approach threateningly. Option D is wrong: foul language directed at officials must be sanctioned regardless of the competitive context."
+  },
+  {
+    "id": "scn-ch10-022",
+    "chapter": 10,
+    "rule": "10.18.2",
+    "situation": "The white team's goalkeeper has been sent off and no replacement is under the goal frame. Player A (blue) shoots at goal. A white substitute, seated in the substitute area behind the goal line, reaches their paddle into the playing area and deflects the shot away from goal.",
+    "options": [
+      "Award a goal penalty shot to the blue team",
+      "Issue an Ejection Red Card to the white substitute",
+      "Award the goal directly to the blue team",
+      "Issue a standard sanction card to the substitute and retake the shot"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.18.2: when a substitute places their paddle in the playing area to prevent a goal, a goal penalty shot is awarded and the offending player is penalised with an Ejection Red Card (Signals 16, 7, and 20). Option C is tempting but wrong: the rules specify a GPS, not an automatic goal — the blue team must take the penalty shot. Option D is wrong: the sanction is specifically an Ejection Red Card, not a standard sanction card; the severity reflects the deliberate prevention of a goal by an illegal player."
+  },
+  {
+    "id": "scn-ch10-023",
+    "chapter": 10,
+    "rule": "10.34.2",
+    "situation": "After a contested tackle, Player A (white) turns and deliberately strikes Player B (blue) with a closed fist to the shoulder. The incident occurs during a break in play, 7 metres from any goal.",
+    "options": [
+      "Issue an Ejection Red Card to Player A (white)",
+      "Award a free shot to the blue team",
+      "Player A is excluded for the rest of the game and cannot be replaced",
+      "Issue a yellow sanction card to Player A"
+    ],
+    "correctIndices": [0, 1, 2],
+    "explanation": "Rule 10.34.2: an Ejection Red Card must be awarded if a personal attack on a player occurs. A deliberate strike with a closed fist is a personal attack. Rule 10.34.1: a player receiving an Ejection Red Card is sent off for the rest of the game and cannot be replaced — the team plays permanently short-handed (Rule 10.33.1). A free shot is awarded for the foul on Player B (Rule 10.30.3). Option D is wrong: a personal attack requires an Ejection Red Card, not a standard sanction card — the severity of the offence demands the highest sanction."
+  },
+  {
+    "id": "scn-ch10-024",
+    "chapter": 10,
+    "rule": "10.12.3",
+    "situation": "Player B (white) commits an illegal kayak tackle on Player A (blue), who has the ball. The referee signals 'play on' for advantage. Player A attempts to pass to a teammate, but the pass is poor — directly affected by the original foul — and is intercepted by the white team. No more than three seconds have passed.",
+    "options": [
+      "Revert to the original foul; award a free shot to the blue team",
+      "Allow play to continue — advantage was already signalled and cannot be revoked",
+      "Award a free throw to the blue team at the point of interception",
+      "Award a free throw to the blue team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.12.3: when playing advantage, if the next pass or shot is affected by the original foul or there is no clear advantage to the fouled team, the original infringement must be called and appropriate sanctions given. The advantage was unsuccessful — the pass was directly affected by the foul — so the referee reverts to a free shot for the original illegal kayak tackle. Option B is wrong: advantage CAN be revoked within the 5-second window if no clear advantage materialises. Options C and D are wrong: the restart reverts to the original foul sanction (free shot), not a free throw."
+  },
+  {
+    "id": "scn-ch10-025",
+    "chapter": 10,
+    "rule": "10.35.5",
+    "situation": "Player B (white) fouls Player A (blue) with an illegal hand tackle. The referee signals advantage. While the referee is still playing advantage, Player B commits a second deliberate foul — this time an illegal kayak tackle on Player C (blue). The referee blows the whistle.",
+    "options": [
+      "Award a free shot to the blue team for the second foul",
+      "Issue a sanction card to Player B (white)",
+      "Award a free shot for the first foul only — the second occurred during advantage",
+      "Issue an Ejection Red Card to Player B"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.35.5: a sanction card will be awarded for a deliberate or dangerous foul that is repeated while the referees are playing advantage. The card takes effect from when it is awarded, not from when the foul occurred. The free shot is for the second foul which ended the advantage. Option C is wrong: a repeated foul during advantage is specifically addressed — both the new foul and the card obligation must be dealt with. Option D is wrong: an Ejection Red Card requires a personal attack, persistent dangerous play, or disputing a red card (Rule 10.34.2–3) — a second deliberate foul warrants a standard sanction card unless it meets ejection criteria."
+  },
+  {
+    "id": "scn-ch10-026",
+    "chapter": 10,
+    "rule": "clarif-sprint-starts",
+    "situation": "At the start of a game, Player A (blue) and Player B (white) sprint for the ball from their goal lines. Player A arrives late and fails to control their kayak. The nose of Player A's kayak makes hard, direct contact with Player B's body, jolting Player B sideways.",
+    "options": [
+      "Award a free shot to the white team for an illegal kayak tackle",
+      "Issue a sanction card to Player A (blue)",
+      "Allow play to continue — contact during sprint starts is expected and unavoidable",
+      "Restart the game with a new sprint start"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Per the ICF Sprint Starts Clarification: if one player arrives late and fails to maintain control, resulting in direct contact with the nose of their kayak on the opponent's body, the action is considered deliberate and/or dangerous. The referee shall call an illegal kayak tackle and a sanction card will be awarded. Option C is wrong: while contact during sprints can be incidental, a late-arriving player's failure to control their kayak resulting in body contact is not normal play. Option D is wrong: the infringement is penalised with a free shot and card, not a restart."
+  },
+  {
+    "id": "scn-ch10-027",
+    "chapter": 10,
+    "rule": "clarif-sprint-starts",
+    "situation": "At a sprint start, both players race for the ball. Player A (blue) dives forward in front of Player B's (white) oncoming kayak to grab the ball. Player B's kayak contacts Player A's body as a result of Player A diving into the path.",
+    "options": [
+      "Allow play to continue — Player A caused the contact by diving in front",
+      "Call an illegal kayak tackle against Player B (white)",
+      "Issue a sanction card to Player B for dangerous contact with Player A's body",
+      "Restart the game with a new sprint start"
+    ],
+    "correctIndices": [0],
+    "explanation": "Per the ICF Sprint Starts Clarification: if a player chooses to dive in front of an opponent's kayak to gain possession of the ball, and as a result is hit by the opponent's kayak, this will not be considered a dangerous tackle by the opponent — the opponent did not cause the contact. Option B is wrong: the kayak tackle was caused by Player A diving into the path, not by Player B's action. Option C is wrong: no card can be issued because no foul was committed by Player B. Option D is wrong: there was no infringement requiring a restart."
+  },
+  {
+    "id": "scn-ch10-028",
+    "chapter": 10,
+    "rule": "clarif-defenders-paddle",
+    "situation": "Inside the 6-metre area, a white defender is completely stationary with their paddle extended beyond arm's reach. Player A (blue) moves toward the goal to shoot and their throwing arm contacts the defender's stationary paddle. The defender does not move the paddle at any point before or during the contact.",
+    "options": [
+      "Allow play to continue — the defender was stationary and the attacker initiated contact",
+      "Award a free shot to the blue team for illegal use of paddle",
+      "Award a goal penalty shot to the blue team — the paddle was within arm's reach of the shooter",
+      "Award a free shot to the white team — the attacker contacted the defender"
+    ],
+    "correctIndices": [0],
+    "explanation": "Per the ICF Defender's Paddle Clarification: if a defender is stationary with their hands or paddle positioned beyond arm's reach, and an attacker deliberately initiates contact by moving into that area, no foul is called — provided the defender's paddle remains stationary. It is the attacker's responsibility to avoid contact. Option B is wrong: the defender's paddle was stationary beyond arm's reach, so Rule 10.19.5 does not apply. Option C is wrong for the same reason — no foul was committed by the defender. Option D is wrong: there is no foul on either player; play simply continues."
+  },
+  {
+    "id": "scn-ch10-029",
+    "chapter": 10,
+    "rule": "clarif-illegal-hand-tackle",
+    "situation": "Player A (blue) is holding the ball in their hand at waist level, completely stationary. The throwing action has not begun — Player A has not raised the ball. Defender Player B (white) reaches in and cleanly knocks the ball from Player A's hand, making contact only with the ball and not with Player A's hand or arm.",
+    "options": [
+      "Allow play to continue — the defender legally played the ball before the throwing action began",
+      "Award a free shot to the blue team for illegal hand tackle",
+      "Issue a sanction card to Player B for contacting the ball in a player's hand",
+      "Award a free throw to the blue team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Per the ICF Hand Tackle Clarification: before the throwing action begins (ball not yet raised behind the attacker's head), the defender may play the ball provided there is no forceful or downward action, the contact is not dangerous, and the defender contacts only the ball — not the hand or arm. All three conditions are met here. Option B is wrong: this is a legal play on the ball. Option C is wrong: no foul was committed, so no card is warranted. Option D is wrong: no infringement occurred."
+  },
+  {
+    "id": "scn-ch10-030",
+    "chapter": 10,
+    "rule": "10.37.4",
+    "situation": "A free shot is awarded to the blue team. Player A (blue) picks up the ball and gets into a stationary position to take the throw, holding the ball above shoulder height. However, Player A hesitates, looking around for a teammate to pass to. Six seconds pass after Player A was in position, and no throw is made.",
+    "options": [
+      "Award a free throw to the white team",
+      "Award a free shot to the white team",
+      "Allow the blue team to continue — the count resets when the player raises the ball",
+      "Award a goal penalty shot to the white team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.37.4: the player must throw the ball within 5 seconds of being in possession and in a position to take the throw. Infringement: the opposing team is awarded possession — Signals 11 and 14 apply (free throw). Option B is wrong: the sanction for a throwing time violation is a free throw (Signal 14), not a free shot (Signal 15). Option C is wrong: the 5-second count does not reset simply because the player raises the ball — it runs continuously from when the player is in position. Option D is wrong: a GPS requires specific foul conditions."
+  },
+  {
+    "id": "scn-ch10-031",
+    "chapter": 10,
+    "rule": "10.38.4",
+    "situation": "A goal penalty shot has been awarded to the blue team. As the blue player prepares to shoot from the 4-metre line, a white defender moves forward from behind the 6-metre line and enters the 6-metre area before the shot is taken. The blue player takes the shot and misses.",
+    "options": [
+      "Retake the goal penalty shot",
+      "Issue a sanction card to the offending white player",
+      "Award the goal directly to the blue team",
+      "Allow the miss to stand — the defender's early entry did not affect the shot"
+    ],
+    "correctIndices": [0, 1],
+    "explanation": "Rule 10.38.4: all players other than the shooter and goalkeeper must be behind the 6-metre line during a GPS. Entry into the 6-metre area before the shot is taken results in the penalty being retaken if not scored, plus a sanction card to the offending player. Option C is wrong: the rules specify a retake, not an automatic goal. Option D is wrong: early entry is penalised regardless of whether it visibly affected the shot — the rules are absolute on this point to prevent tactical interference."
+  },
+  {
+    "id": "scn-ch10-032",
+    "chapter": 10,
+    "rule": "10.37.3",
+    "situation": "A free shot is awarded to the blue team at a point 1.5 metres from the white goal. The white goalkeeper positions themselves under the goal and holds their paddle completely stationary. Player A (blue) takes the free shot, and the goalkeeper blocks it with the stationary paddle before the ball has travelled 1 metre from the point of release.",
+    "options": [
+      "Allow play to continue — the goalkeeper legally blocked the shot with a stationary paddle",
+      "Award a goal penalty shot — the ball must be allowed to travel 1 metre",
+      "Retake the free shot — the goalkeeper interfered before the ball was in play",
+      "Award a free throw to the white team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.37.3 exception: for free shots awarded within 2 metres of the goal, defenders (including the goalkeeper) are allowed to block the free shot after release, but before it has travelled 1 metre, with a stationary paddle or stationary hands. The goalkeeper's paddle was stationary, so this is legal. Option B is wrong: the 1-metre rule has a specific exception for free shots within 2m of goal — stationary blocking is permitted. Option C is wrong: the goalkeeper's action was legal under the exception. Option D has no basis: no infringement by the blue team occurred."
+  },
+  {
+    "id": "scn-ch10-033",
+    "chapter": 10,
+    "rule": "10.33.4",
+    "situation": "Player B (white) received a green sanction card and is currently serving a 2-minute exclusion. Ninety seconds into the exclusion, the blue team scores a goal. The white team wants Player B — or a teammate — to return to the field immediately.",
+    "options": [
+      "Allow Player B or a teammate to return to the field of play",
+      "Player B must serve the full 2-minute exclusion regardless of the goal",
+      "Only a substitute may enter — Player B specifically must wait the full 2 minutes",
+      "Player B may return, but only after the centre restart whistle is blown"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.33.4: if a goal is scored by the opposition during a power play that does not involve an Ejection Red Card, the excluded player or a teammate can return to the field of play and general play will resume with a centre restart. A green card exclusion is not an Ejection Red Card, so this rule applies. Option B is wrong: the power play ends early when the opposition scores. Option C is wrong: the rule allows either the excluded player OR a teammate to return. Option D is wrong: the player can return as soon as the goal is scored — the return happens before the centre restart."
+  },
+  {
+    "id": "scn-ch10-034",
+    "chapter": 10,
+    "rule": "10.32.3",
+    "situation": "Player B (white) has already received a green card (1st) and a yellow card (2nd) during this game. Player B now commits another deliberate foul that the referee judges warrants a sanction card.",
+    "options": [
+      "Issue a red sanction card to Player B (white)",
+      "Player B is excluded from the field and cannot be replaced for two minutes",
+      "The white team plays with four players during the exclusion period",
+      "Player B is excluded and cannot be replaced for the rest of the game"
+    ],
+    "correctIndices": [0, 1, 2],
+    "explanation": "Rule 10.32.3.b: the card system progresses green → yellow → red. The 3rd card is red. A player receiving a sanction red card is excluded from the field of play for the remainder of the game and cannot be replaced for 2 minutes (Rule 10.33.3). During this time the team plays with 4 players (power play). Option D describes an Ejection Red Card (Rule 10.33.1), which is a different and more severe sanction — with an ejection red, the player cannot be replaced at all for the rest of the game. With a standard 3rd-card red, a teammate can re-enter after the 2-minute power play."
+  },
+  {
+    "id": "scn-ch10-035",
+    "chapter": 10,
+    "rule": "10.36.4",
+    "situation": "During active play with the ball in the playing area, a white team coach shouts at the referee, criticising a decision that was just made. The referees are actively performing their game duties. No coach or team official from the white team has received a card in this game.",
+    "options": [
+      "Issue one green card that applies to all white team coaches and team officials",
+      "Issue a green card to the individual coach only",
+      "Warn the coach verbally and continue play",
+      "Issue a yellow card to the coach"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.36.2: no communication with the referees is allowed when the ball is in play or when referees are actively performing duties. Rule 10.36.4: any breach must be penalised by one green card that applies to all coaches and team officials from that team for the duration of the game. Option B is wrong: the card applies collectively to all coaches and team officials, not just the individual. Option C is wrong: the rules mandate a green card, not a verbal warning. Option D is wrong: the first sanction for coaches/officials is always a green card (Rule 10.36.4); the next step after a green card is an Ejection Red Card (Rule 10.36.7)."
+  },
+  {
+    "id": "scn-ch10-036",
+    "chapter": 10,
+    "rule": "10.16.1",
+    "situation": "The timekeeper's signal sounds to end the first half. At the exact moment the signal sounds, a blue player has already released the ball from their hand and it is in flight toward the white goal. The ball enters the goal after the signal.",
+    "options": [
+      "Award the goal — the ball was released before the timekeeper's signal",
+      "Disallow the goal — the half ended before the ball entered the goal",
+      "Award a goal penalty shot to the blue team instead",
+      "Restart the second half with a centre restart as if no goal was scored"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.16.1: if the ball is in flight towards the goal at the time of the timekeeper's signal, the ball is allowed to travel to completion. For a goal to be scored, the ball must have left the player's hand prior to the signal sounding. Since the ball was already released and in flight, the goal counts. Option B is wrong: the rule specifically allows the ball in flight to reach its destination. Option C is wrong: there is no basis for awarding a GPS — the goal itself is valid. Option D is wrong: the goal stands and the second half restarts accordingly."
+  },
+  {
+    "id": "scn-ch10-037",
+    "chapter": 10,
+    "rule": "10.16.2",
+    "situation": "With 3 seconds remaining in the second half, the referee awards a goal penalty shot to the blue team. Before the shot can be taken, the timekeeper's signal sounds ending the period. The white team argues the game is over.",
+    "options": [
+      "The goal penalty shot must be taken before the game is considered complete",
+      "The game is over — the GPS is cancelled because time has expired",
+      "The goal is automatically awarded to the blue team without taking the shot",
+      "The GPS carries over to the start of overtime"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.16.2: if a goal penalty shot has been awarded prior to the signal for completion of play, the shot must be taken before play is considered complete. The timekeeper's signal does not cancel a pending GPS. Option B is wrong: the rules explicitly require the GPS to be taken despite the signal. Option C is wrong: the shot must still be taken — no automatic goal is awarded. Option D is wrong: the shot is taken immediately, not carried over to another period."
+  },
+  {
+    "id": "scn-ch10-038",
+    "chapter": 10,
+    "rule": "10.10.6",
+    "situation": "Defender Player C (white) pushes Player A (blue) toward the white goalkeeper from behind. Player A has clear time and space to steer away from the goalkeeper but makes no attempt to do so. Player A collides with the goalkeeper, who is not in possession of the ball and is displaced from under the goal frame.",
+    "options": [
+      "Penalise Player A (blue) for contact with the goalkeeper",
+      "Penalise Player C (white) — they caused the initial push",
+      "Allow play to continue — the contact was caused by Player C's push",
+      "Penalise both Player A and Player C"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.10.6: if the attacker has an opportunity to avoid contact with the goalkeeper after being pushed, but does not, the attacker will be penalised. Despite being pushed, Player A had time and space to avoid the goalkeeper and chose not to. Option B is wrong: the initial push does not shift blame when the attacker had a clear opportunity to avoid the goalkeeper. Option C is wrong: the attacker's failure to avoid avoidable contact makes them responsible. Option D is wrong: only the attacker is penalised in this situation — the rule places the obligation on the player who could have avoided the contact."
+  },
+  {
+    "id": "scn-ch10-039",
+    "chapter": 10,
+    "rule": "10.14.3",
+    "situation": "Player A (blue) capsizes in the middle of the playing area and exits their kayak. Player A swims to the nearest sideline with their equipment. After righting their kayak, Player A attempts to re-enter the playing area from the sideline.",
+    "options": [
+      "Player A cannot re-enter from the sideline — entry must be from their own goal line",
+      "Allow Player A to re-enter from the sideline since that is where they exited",
+      "Player A is excluded from the remainder of the game after capsizing",
+      "Player A may re-enter from anywhere once they have all their equipment"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.14.3: substitution and entry must be along the team's own goal line. Rule 10.13.2: a capsized player wishing to re-join must do so according to the rules of entry — which means from their own goal line. Rule 10.14.4: a capsized player leaving anywhere other than their own goal line can only be substituted at the next break in play. Option B is wrong: the exit point does not determine the re-entry point. Option C is wrong: capsizing does not exclude a player — they may re-enter following proper procedure. Option D is wrong: entry must specifically be from the player's own goal line."
+  },
+  {
+    "id": "scn-ch10-040",
+    "chapter": 10,
+    "rule": "10.11.1",
+    "situation": "Player A (blue) and Player B (white) both have one hand firmly on the ball. Neither player can gain sole possession, and the referee counts. After five seconds of shared possession, neither player has released the ball.",
+    "options": [
+      "Award a Referee's ball",
+      "Award a free shot to the team that first touched the ball",
+      "Award a free throw to either team at the referee's discretion",
+      "Allow play to continue until one player gains full possession"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.11.1: a Referee's ball is declared when two or more players of opposing teams have one or more hands firmly on the ball and share possession for 5 seconds. Option B is wrong: there is no priority based on who touched the ball first — the rule requires a Referee's ball. Option C is wrong: the restart is specifically a Referee's ball, not a free throw to either team. Option D is wrong: after 5 seconds of shared possession, the referee must intervene — play cannot continue indefinitely."
+  },
+  {
+    "id": "scn-ch10-041",
+    "chapter": 10,
+    "rule": "10.12.1",
+    "situation": "Player B (white) commits a deliberate foul on Player A (blue), who has the ball. The ball rolls free after the foul. A white player immediately picks up the loose ball. No blue player is within reach of the ball.",
+    "options": [
+      "Stop play immediately; award a free shot to the blue team",
+      "Play advantage — the blue team may still recover possession",
+      "Award a free throw to the blue team",
+      "Award a goal penalty shot to the blue team"
+    ],
+    "correctIndices": [0],
+    "explanation": "Rule 10.12.1: the referees will play advantage only if the team that was fouled benefits more by play continuing. Here, the white team has gained possession after the foul — there is no advantage for the blue team, so the referee must stop play and award a free shot. Option B is wrong: advantage should not be played when the fouled team has clearly lost possession with no prospect of recovery. Option C is wrong: a foul on a player warrants a free shot (Signal 15), not a free throw (Signal 14). Option D is wrong: a GPS requires specific conditions (inside 6m on a shooter, or undefended goal) not present here."
   }
 ]

@@ -1,7 +1,7 @@
 // sw.js — Service Worker for offline support
 // IMPORTANT: Bump CACHE_VERSION on every deploy to invalidate old caches.
 
-const CACHE_VERSION = 'v4';
+const CACHE_VERSION = 'v5';
 const CACHE_NAME = 'cp-rules-' + CACHE_VERSION;
 
 const ASSETS = [
